@@ -1,0 +1,76 @@
+{
+  "name": "涂城记MV",
+  "link": "https://emumo.xiami.com/song/oqt7e738c",
+  "id": "399307",
+  "album_name": "城市旅人",
+  "singers": "林一峰",
+  "lyrics_by": [
+    "林一峰"
+  ],
+  "composed_by": [
+    "林一峰"
+  ],
+  "play_count_num": 9628,
+  "share_count_num": 5,
+  "comments_num": 4,
+  "lyric": "",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 399307\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 399307\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "7023",
+        "name": "虾米用户",
+        "motto": "长期缓慢持续收藏林一峰演...",
+        "link": "https://emumo.xiami.com/u/7023",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/0/7023_1402217952.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-12-16 01:15",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "20150501九龙寨城打过卡mark                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "7603700",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/7603700",
+        "photo_url": "https://pic.xiami.net/images/user/7603700/368630aad4d743eab8c5ce1426810024_cd8c0e52369645199931cc63dfeafbf7.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-05-13 19:23",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "没道理啊                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "10612281",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/10612281",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/212/24/10612281/10612281_1347608043.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-06-21 22:36",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "九龙皇帝曾灶财",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "156669",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/156669",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/3/13/156669/156669_1310724726.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2009-12-15 10:53",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "虽然林生想表达的主题和我理解的不同，但是每次听到它都是欢快的",
+      "replies": []
+    }
+  ]
+}

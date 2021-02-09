@@ -1,0 +1,28 @@
+{
+  "name": "黑白片",
+  "link": "https://emumo.xiami.com/song/ZSBc09e2",
+  "id": "37869",
+  "album_name": "男人·爱",
+  "singers": "刘可",
+  "play_count_num": 476,
+  "share_count_num": 0,
+  "comments_num": 1,
+  "lyric": "对你的嫌弃怎去表白<br>\n你的帅气看来已不在<br>\n你的黑眼圈比我更大<br>\n是否跟朋友喝得太过开怀<br>\n我想要的未来<br>\n全部都给你破坏<br>\n每个人都说我太完美<br>\n要不要跟他从来<br>\n只是你看不起我的爱<br>\n对你的感觉开始一片空白<br>\n身体在你胸膛心却要你离开<br>\n我对你的宠爱已是百分百<br>\n为什么你一眼不看我<br>\n就跟我说拜拜<br>\n快乐已不在我还不走开<br>\n因为你是我的最爱<br>\n因为我的心在你怀<br>\n我已是你太太你还这么怪<br>\n外面的世界有多大多可爱<br>\n还要学得来<br>\n风吹云散开我还不走开<br>\n因为我的根在你怀<br>\n放心吧我永不说拜拜",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 37869\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 37869\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "441009893",
+        "name": "虾米用户",
+        "motto": "生活，歌声集成！",
+        "link": "https://emumo.xiami.com/u/441009893",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/8820/5e5b844642aae_441009893_1583055942.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-03-01 17:43",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "京韵豪气，才华横溢！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    }
+  ]
+}

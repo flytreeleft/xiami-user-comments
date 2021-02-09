@@ -1,0 +1,121 @@
+{
+  "name": "不属于我的乡愁",
+  "link": "https://emumo.xiami.com/song/xLorMhd43bb",
+  "id": "1768947851",
+  "album_name": "思路",
+  "singers": "林一峰",
+  "lyrics_by": [
+    "林一峰"
+  ],
+  "composed_by": [
+    "林一峰"
+  ],
+  "arranged_by": [
+    "CMgroovy"
+  ],
+  "play_count_num": 4494,
+  "share_count_num": 21,
+  "comments_num": 7,
+  "lyric": "当拥挤的月台只剩长长的道别 我已展开生命里的另一段旅程<br>\n想多见你一面　想多亲你一遍<br>\n出境入境之间　你我都已改变<br>\n是你让我离开还是我停不下来 是我创造旅程还是旅程创造我<br>\n路轨跨过天边 牵成思念的线<br>\n有迹可寻 想回头 一切已太远<br>\n教堂钟声告诉我是时候 回到你的身旁遗忘已久<br>\n最拥挤的街道淹没最孤独的骚动 最深的情我不曾拥有<br>\n怀着不属于我的乡愁 只能在回忆里握紧你手<br>\n重重思念　随着记忆扬起压在胸口<br>\n落点越轻越难以承受 难以承受<br>\n<br>\n<br>\n听着寂静回荡著教堂内每一颗心 就要飞往遗落在昨天的那一段情<br>\n逆着人潮找寻　越过多少边境 我的虔诚我的寂寞如影随形<br>\n教堂钟声告诉我是时候 回到你的身旁遗忘已久<br>\n最拥挤的街道淹没最孤独的骚动 最深的情我不曾拥有<br>\n怀着不属于我的乡愁 只能在回忆里握紧你手<br>\n重重思念 随着记忆扬起压在胸口<br>\n落点越轻越难以承受 难以承受<br>\n难以承受",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1768947851\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1768947851\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "29624555",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/29624555",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/592/59cfb6251e51f_29624555_1506784805.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-05-18 17:54",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "我爱人来了",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1184394",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1184394",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/23/68/1184394/1184394_1305221401.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-08-10 17:06",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "最拥挤的街道淹没最孤独的骚动 最深的情我不曾拥有",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1844",
+        "name": "虾米用户",
+        "motto": "农夫 山泉 有点田",
+        "link": "https://emumo.xiami.com/u/1844",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/0/3/1844/1844_1332522851.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-05-01 22:18",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "献给永远此时彼地的异乡人情结",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "5441715",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/5441715",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/108/83/5441715/5441715_1333767375.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-09-24 22:33",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "很爱",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "5441715",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/5441715",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/108/83/5441715/5441715_1333767375.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-09-24 22:33",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "太爱这首",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3287030",
+        "name": "虾米用户",
+        "motto": "巨型矛盾綜合體",
+        "link": "https://emumo.xiami.com/u/3287030",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/65/74/3287030/3287030_1306366270.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-08-23 23:01",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "教堂钟声告诉我是时候 回到你的身旁遗忘已久 最拥挤的街道淹没最孤独的骚动 最深的情我不曾拥有 怀着不属於我的乡愁 只能在回忆里握紧你手 重重思念 随着记忆扬起压在胸口 落点越轻越难以承受 @林一峰《不属于我的乡愁》",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3287030",
+        "name": "虾米用户",
+        "motto": "巨型矛盾綜合體",
+        "link": "https://emumo.xiami.com/u/3287030",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/65/74/3287030/3287030_1306366270.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-08-23 21:10",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "教堂钟声告诉我是时候 回到你的身旁遗忘已久 最拥挤的街道淹没最孤独的骚动 最深的情我不曾拥有 怀着不属於我的乡愁 只能在回忆里握紧你手 重重思念 随着记忆扬起压在胸口 落点越轻越难以承受 @林一峰《不属于我的乡愁》",
+      "replies": []
+    }
+  ]
+}

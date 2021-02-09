@@ -1,0 +1,62 @@
+{
+  "name": "我的故乡梦中的草原",
+  "link": "https://emumo.xiami.com/song/mQULCS6e469",
+  "id": "1775492902",
+  "album_name": "向北向北",
+  "singers": "庞龙",
+  "lyrics_by": [
+    "郝吉林"
+  ],
+  "composed_by": [
+    "朝乐蒙"
+  ],
+  "play_count_num": 21213,
+  "share_count_num": 20,
+  "comments_num": 3,
+  "lyric": "总有一片绿草在心头生长<br>\n总有一条哈达在胸中珍藏<br>\n总有一把马头琴在耳边拉响<br>\n总有一条河流在梦里流淌<br>\n啊哈嘿 梦中的草原<br>\n啊啊哈嘿 我的故乡<br>\n思念被明月做成了佳酿<br>\n我多想回到回到你爱的天堂<br>\n总有一种辽阔在绵延远方<br>\n总有一双翅膀在自由飞翔<br>\n总有一双眼睛在深情眺望<br>\n总有一段时光在生命中闪亮<br>\n啊哈嘿 梦中的草原<br>\n啊啊哈嘿 我的故乡<br>\n思念被明月做成了佳酿<br>\n我多想回到回到你爱的天堂<br>\n啊哈嘿 梦中的草原<br>\n啊啊哈嘿 我的故乡<br>\n思念被明月做成了佳酿<br>\n我多想回到回到你爱的天堂<br>\n啊哈嘿 啊哈嘿 啊啊哈嘿<br>\n梦中的草原<br>\n梦中的草原",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1775492902\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1775492902\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "262346868",
+        "name": "虾米用户",
+        "motto": "认真做自己",
+        "link": "https://emumo.xiami.com/u/262346868",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/5246/5924f82a4ac3a_262346868_1495595050.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-06-21 18:26",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "庞龙的版本更接地气儿                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "278264470",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/278264470",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/914210401_1488777778.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-03-18 19:08",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "喜欢                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "258450154",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/258450154",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-01-07 07:37",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "太好聽了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    }
+  ]
+}

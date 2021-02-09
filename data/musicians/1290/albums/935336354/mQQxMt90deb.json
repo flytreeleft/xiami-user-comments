@@ -1,0 +1,90 @@
+{
+  "name": "这些天的一天underground liveOne Of These Days",
+  "link": "https://emumo.xiami.com/song/mQQxMt90deb",
+  "id": "1774447919",
+  "album_name": "这小小的葡萄我从来没吃过 Live",
+  "singers": "左小祖咒",
+  "lyrics_by": [
+    "左小祖咒"
+  ],
+  "composed_by": [
+    "左小祖咒"
+  ],
+  "play_count_num": 7131,
+  "share_count_num": 20,
+  "comments_num": 5,
+  "lyric": "[ti:这些天的一天 (Live)]<br>\n[ar:左小祖咒]<br>\n[al:这小小的葡萄我从来没吃过 发布Live]<br>\n[ly:左小祖咒]<br>\n[mu:左小祖咒]<br>\n[ma:]<br>\n[pu:]<br>\n[by:ttpod]<br>\n[total:239882]<br>\n[offset:0]<br>\n[00:00.058]这些天的一天 (Live) - 左小祖咒<br>\n[00:01.814]作词：左小祖咒<br>\n[00:02.764]作曲：左小祖咒<br>\n[00:03.915]<br>\n[00:15.517]这些天的一天<br>\n[00:19.247]扔一个硬币给乞讨的人<br>\n[00:26.925]我不是每次都这样<br>\n[00:34.397]这些天的一天<br>\n[00:38.259]我看着沙滩上的情侣们<br>\n[00:45.711]一个人逛到清晨<br>\n[00:53.163]在花都<br>\n[00:58.278]我躺在香榭丽舍大街的<br>\n[01:00.938]杂牌饭店<br>\n[01:05.238]你不停地看表你不停地看表<br>\n[01:08.741]你不停地看表<br>\n[01:18.295]这些天的一天<br>\n[01:21.597]我玩命地捶打着我胸膛<br>\n[01:29.241]打在同一个地方<br>\n[01:36.531]这些天的一天<br>\n[01:39.879]我什么事也没干成<br>\n[01:47.497]还多了一个仇人<br>\n[01:54.799]在花都<br>\n[01:59.952]我躺在香榭丽舍大街的<br>\n[02:02.404]杂牌饭店<br>\n[02:06.806]你不停地看表你不停地看表<br>\n[02:10.362]你不停地看表<br>\n[02:17.665]在花都<br>\n[02:23.102]我躺在香榭丽舍大街的<br>\n[02:25.925]杂牌饭店<br>\n[02:30.175]你不停地看表你不停地看表<br>\n[02:33.826]你不停地看表",
+  "lyric_extra": "<p>文本歌词最后由 <a target=\"_blank\" href=\"/u/56071981\">左小祖咒</a> 编辑于2020-08-07 11:49</p>\n                                            <p>LRC歌词最后由 <a target=\"_blank\" href=\"/u/56071981\">左小祖咒</a> 编辑于2020-06-23 13:35</p>\n                                                                          <p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1774447919\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1774447919\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "1323339",
+        "name": "虾米用户",
+        "motto": "活在当下",
+        "link": "https://emumo.xiami.com/u/1323339",
+        "photo_url": "https://pic.xiami.net/images/user/1323339/40bb23bdae7f42b39f98946c1cb835bb_248b975ce3424284afc68dc4032997d3.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-09-02 18:21",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "都能拍一部电影了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1323339",
+        "name": "虾米用户",
+        "motto": "活在当下",
+        "link": "https://emumo.xiami.com/u/1323339",
+        "photo_url": "https://pic.xiami.net/images/user/1323339/40bb23bdae7f42b39f98946c1cb835bb_248b975ce3424284afc68dc4032997d3.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-09-02 18:12",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "牛逼！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "32961761",
+        "name": "虾米用户",
+        "motto": "一切终将化为乌有",
+        "link": "https://emumo.xiami.com/u/32961761",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/659/59a4f33b39f53_32961761_b_w108h108.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-05-19 20:34",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "看表                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "35753135",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/35753135",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/715/357531351398231273.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-09-16 00:48",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "可以！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "11489641",
+        "name": "虾米用户",
+        "motto": "暂无签名~",
+        "link": "https://emumo.xiami.com/u/11489641",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/229/11489641_1426523969.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-07-07 14:30",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "左小                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

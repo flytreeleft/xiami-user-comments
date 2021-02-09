@@ -1,0 +1,63 @@
+{
+  "id": "2100314234",
+  "name": "单曲",
+  "link": "https://emumo.xiami.com/album/2100314234",
+  "photo_url": "https://pic.xiami.net/images/album/img78/333868078/21003142341460699961.jpg@4e_1c_100Q_185w_185h",
+  "artist_name": "程冠焜",
+  "languages": [
+    "国语"
+  ],
+  "companies": [
+    "独立发行"
+  ],
+  "published_date": [
+    "2015年04月08日"
+  ],
+  "categories": [
+    "EP",
+    "单曲"
+  ],
+  "styles": [
+    "国语流行 Mandarin Pop"
+  ],
+  "play_count_num": 2558187,
+  "favorite_count_num": 26,
+  "comments_num": 2,
+  "intro": "我为张碧晨词曲制作由吴牧禅编曲作品！",
+  "songs": [
+    {
+      "name": "白芍花开",
+      "link": "https://emumo.xiami.com/song/8G25HQe2b49"
+    }
+  ],
+  "comments": [
+    {
+      "author": {
+        "id": "327136314",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/327136314",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-10-11 13:11",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "私生饭加整容还唱的那么难听！无语了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "236606666",
+        "name": "虾米用户",
+        "motto": "nct冲鸭",
+        "link": "https://emumo.xiami.com/u/236606666",
+        "photo_url": "https://pic.xiami.net/images/user/236606666/dfc3bb7d3833404a85c5b11a7acc7225_ff66b93de114488fae2a56a0fd4c8691.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-07-10 10:06",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "很好听加油哦！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

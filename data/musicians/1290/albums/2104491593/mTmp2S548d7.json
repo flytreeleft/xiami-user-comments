@@ -1,0 +1,104 @@
+{
+  "name": "这些天的一天 unplugged",
+  "link": "https://emumo.xiami.com/song/mTmp2S548d7",
+  "id": "1809211850",
+  "album_name": "乌兰巴托的三个夜晚实况",
+  "singers": "左小祖咒",
+  "lyrics_by": [
+    "左小祖咒"
+  ],
+  "composed_by": [
+    "左小祖咒"
+  ],
+  "play_count_num": 2053,
+  "share_count_num": 5,
+  "comments_num": 6,
+  "lyric": "[ti:这些天的一天 unplugged]<br>\n[ar:左小祖咒]<br>\n[al:]<br>\n[ly:左小祖咒]<br>\n[mu:左小祖咒]<br>\n[ma:]<br>\n[pu:]<br>\n[by:ttpod]<br>\n[total:211382]<br>\n[offset:0]<br>\n[00:00.000]这些天的一天 unplugged - 左小祖咒<br>\n[00:01.658]作词：左小祖咒<br>\n[00:02.712]作曲：左小祖咒<br>\n[00:03.717]<br>\n[00:19.398]这些天的一天<br>\n[00:23.120]扔一个硬币给乞讨的人<br>\n[00:28.801]我不是每次都这样<br>\n[00:36.340]这些天的一天<br>\n[00:40.307]我看着沙滩上的情侣们<br>\n[00:47.695]一个人逛到清晨 在花都<br>\n[01:02.515]我躺在香榭丽舍大街的杂牌饭店<br>\n[01:09.571]你不停地看表你不停地<br>\n[01:12.082]看表你不停地看表<br>\n[01:20.270]这些天的一天<br>\n[01:23.590]我玩命地捶打着我胸膛<br>\n[01:29.312]打在同一个地方<br>\n[01:38.192]这些天的一天<br>\n[01:41.703]我什么事也没干成<br>\n[01:47.078]还多了一个仇人 在花都<br>\n[02:05.969]我躺在香榭丽舍大街的杂牌饭店<br>\n[02:13.102]你不停地看表你不停地<br>\n[02:15.467]看表你不停地看表<br>\n[02:23.507]在花都<br>\n[02:30.536]我躺在香榭丽舍大街的杂牌饭店<br>\n[02:37.570]你不停地看表你不停地<br>\n[02:40.131]看表你不停地看表",
+  "lyric_extra": "<p>文本歌词最后由 <a target=\"_blank\" href=\"/u/56071981\">左小祖咒</a> 编辑于2020-07-08 22:19</p>\n                                                                                        <p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1809211850\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1809211850\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "16280822",
+        "name": "虾米用户",
+        "motto": "别忘却身心的和睦",
+        "link": "https://emumo.xiami.com/u/16280822",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/325/5b07dc92bdb8a_16280822_1527241874.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-10-20 20:51",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "不停看表                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "803121",
+        "name": "虾米用户",
+        "motto": "诶我去",
+        "link": "https://emumo.xiami.com/u/803121",
+        "photo_url": "https://pic.xiami.net/images/user/803121/3feb13e88b5d44c4bc655afeee1c4450_2a998e78cbfc40e089dd2b90e0e66d49.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-04-08 18:16",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这贝斯 还叫不插电？                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "6739944",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/6739944",
+        "photo_url": "https://pic.xiami.net/images/user/6739944/857af59d20794052bd73d446237e33d7_8b598f91876f4a1fb46235e4992d0ad5.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-01-27 14:59",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "听左叔的歌，編曲總有那麼一瞬間聽得毛孔張裂。                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "5913428",
+        "name": "虾米用户",
+        "motto": "後搖患者//樂是萬能藥",
+        "link": "https://emumo.xiami.com/u/5913428",
+        "photo_url": "https://pic.xiami.net/images/user/5913428/67c9d3dbbe7e42c1b874f434e023a816_1ab3fd60513f4743a34c559edbfcaad8.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-01-22 17:53",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "你不停地看表你不停地看表你不停地看表<br>感謝左叔叔<br>                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "52811433",
+        "name": "虾米用户",
+        "motto": "河流是相通的，不然，我怎...",
+        "link": "https://emumo.xiami.com/u/52811433",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1056/528114331437493879.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-01-21 23:06",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "多年前就对左叔这首歌很感兴趣，标新立异，画面感极强，荒诞中带着迷人的怪异之美，那种你搞不清究竟的意义，却无法不被它吸引的感觉……                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "142804868",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/142804868",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/2856/5c456901f223b_142804868_1548052737.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-01-21 13:15",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "窦唯                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    }
+  ]
+}

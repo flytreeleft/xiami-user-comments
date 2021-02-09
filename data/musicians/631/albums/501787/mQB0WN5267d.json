@@ -1,0 +1,119 @@
+{
+  "name": "涂城记MVThe Balled of Kowloon King",
+  "link": "https://emumo.xiami.com/song/mQB0WN5267d",
+  "id": "1770885181",
+  "album_name": "家课",
+  "singers": "林一峰",
+  "lyrics_by": [
+    "林一峰"
+  ],
+  "composed_by": [
+    "林一峰"
+  ],
+  "play_count_num": 8888,
+  "share_count_num": 9,
+  "comments_num": 7,
+  "lyric": "清风两袖悠然自在到处走<br>\n<br>\n闹市内挥御笔墙壁电箱灯柱<br>\n记载史诗港九最强<br>\n汗水混了墨水字体大小参差<br>\n笑脸始终不变样<br>\n最爱喝可乐<br>\n<br>\n白纸木板石屎旧衫浴巾餐牌<br>\n到处都可展所长<br>\n割地收地煲呔曾或董建华<br>\n领土始终不变样<br>\n永远有福彩<br>\n皇后长伴直到永久 从无遗漏<br>\n<br>\n清风两袖悠然自在到处走 永带笑口<br>\n尽管泼墨每每被俗气灰水掩盖<br>\n勇气坚贞更不朽<br>\n就像唐吉诃德闯风车<br>\n只管继续前行大白昼<br>\n再写写写写从未够<br>\n<br>\n宫殿起在心族谱划于思想<br>\n形而上怎都不破灭<br>\n只愿创造不管生命的起跌<br>\n被骗即刻翻脸<br>\n你有你担心操心分心小心眼<br>\n堂堂殿下有两手已够顶天<br>\n<br>\n清风两袖悠然自在到处走 永带笑口<br>\n尽管泼墨每每被俗气灰水掩盖<br>\n勇气坚贞更不朽<br>\n就像唐吉诃德闯风车<br>\n只管继续前行大白昼<br>\n再写写写写从未够<br>\n<br>\n不知世间风险<br>\n不知绫罗绸缎<br>\n不知要作打算<br>\n手跟心一致<br>\n是太笨或是已够看得透<br>\n<br>\n清风两袖悠然自在到处走 永带笑口<br>\n尽管泼墨每每被俗气灰水掩盖<br>\n勇气坚贞更不朽<br>\n就像唐吉诃德闯风车<br>\n只管继续前行大白昼<br>\n再写写写写写写写写<br>\n<br>\n胸襟广阔 从不稀罕冠冕<br>\n只想一心一意记下<br>\n年年月月里的丝丝点点 那就够",
+  "lyric_extra": "<p>文本歌词最后由 <a target=\"_blank\" href=\"/u/1280391\">乡愁</a> 编辑于2020-08-27 09:48</p>\n                                                                                        <p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1770885181\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1770885181\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "89214",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/89214",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1/78/89214/89214_1304957775.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-07-23 22:46",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "曾生逐渐的退出我的记忆了，唯有此歌思起悠然的九龙皇帝",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "18482056",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/18482056",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/369/18482056_1382919132.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-08-19 22:06",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "好听，没啥理由，哈哈",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "9451472",
+        "name": "虾米用户",
+        "motto": "( ⊙ o ⊙ )",
+        "link": "https://emumo.xiami.com/u/9451472",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/189/2/9451472/9451472_1339484563.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-06-15 21:47",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "清新",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3420026",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/3420026",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-04-24 23:05",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "挺可爱的男孩",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3253298",
+        "name": "虾米用户",
+        "motto": "我要瘦我要瘦~",
+        "link": "https://emumo.xiami.com/u/3253298",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/65/3253298_1387525878.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-04-12 15:12",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "喜欢",
+      "replies": [
+        {
+          "author": {
+            "id": "5811951",
+            "name": "虾米用户",
+            "motto": "",
+            "link": "https://emumo.xiami.com/u/5811951",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/116/23/5811951/5811951_1324949155.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2012-04-12 22:17",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "李波的涂山记也好听，他的时间河我还曾经写一个东西。相似度蛮高，关注你了。",
+          "replies": []
+        },
+        {
+          "author": {
+            "id": "3253298",
+            "name": "虾米用户",
+            "motto": "我要瘦我要瘦~",
+            "link": "https://emumo.xiami.com/u/3253298",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/65/3253298_1387525878.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2012-04-13 12:01",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "<q><b>lefio说：</b></q>",
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

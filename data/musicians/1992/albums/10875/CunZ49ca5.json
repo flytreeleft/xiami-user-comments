@@ -1,0 +1,104 @@
+{
+  "name": "乱",
+  "link": "https://emumo.xiami.com/song/CunZ49ca5",
+  "id": "134211",
+  "album_name": "新曲与精选",
+  "singers": "麦洁文",
+  "lyrics_by": [
+    "小美"
+  ],
+  "composed_by": [
+    "徐日勤"
+  ],
+  "play_count_num": 3862,
+  "share_count_num": 15,
+  "comments_num": 6,
+  "lyric": "乱 夜里思绪太纷乱<br>\n仿似夜雨洒不断<br>\n苦痛回忆使我倦<br>\n乱 乱发跟雨也披面<br>\n仿似木偶线中断<br>\n只对寒风说怀念<br>\n风中倚着你胸<br>\n唇在颤抖心跳动<br>\n温馨的在抱拥 全被你打动<br>\n恨 恨我痴爱得荒谬<br>\n想你念你却依旧<br>\n早晚黄昏跟午后<br>\n愿 愿我思绪快中断<br>\n不再为你空思念<br>\n苦痛回忆太迷乱<br>\n当初握着你手 曾共晚星讲以后<br>\n星星闪像跳豆<br>\n其实似哭后<br>\n剩低了梦 令心隐痛<br>\n仍未惯没你入梦<br>\n急风吹仿似说哀求<br>\n期望会再聚如旧<br>\n但这个梦实早冰冻<br>\n全没法觅你入梦<br>\n伤心的伤心得快疯<br>\n哀哭声声声都扑空<br>\nMusic<br>\n～～<br>\nEnd",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 134211\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 134211\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "419845627",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/419845627",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-03-05 23:01",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "好听                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "325810979",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/325810979",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-02-16 00:43",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "正                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "254660994",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/254660994",
+        "photo_url": "https://pic.xiami.net/images/user/254660994/0011eb0dab0a4b75b2aceb427496d36b_68d2b539ed13464ebd0daf6a40310b41.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-06-21 23:45",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "好歌何言老！！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "46382174",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/46382174",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/927/55d41ebc92795_46382174_1439964860.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-02-21 21:07",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "风是浪漫主义者！起舞吧！起舞吧！吹在水面上！拂起水的波纹！月光投射在水面上！仿佛是夜空的一个微笑！不管风如何嬉戏于水！水如一面不会碎的镜子！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "305394410",
+        "name": "虾米用户",
+        "motto": "No pains αnd...",
+        "link": "https://emumo.xiami.com/u/305394410",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/6107/5a48a79b7ff9b_305394410_b_w108h108.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-11-03 19:13",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "好听                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "36081194",
+        "name": "虾米用户",
+        "motto": "酷狗音乐，一个有老歌的地...",
+        "link": "https://emumo.xiami.com/u/36081194",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/721/5954bbaedade7_36081194_b_w108h108.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-11-16 00:00",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "好听                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "玻璃心",
+  "link": "https://emumo.xiami.com/song/c1bC2ceee",
+  "id": "80544",
+  "album_name": "夜来烧",
+  "singers": "钟志刚",
+  "play_count_num": 3070,
+  "share_count_num": 11,
+  "comments_num": 2,
+  "lyric": "让我再一次握你的手<br>\n让我再一次亲吻你的脸<br>\n顺着我脸庞滑下的是我的泪<br>\n在我胸口跳动的是我的心<br>\n让我再一次握你的手<br>\n让我再一次亲吻你的脸<br>\n顺着我脸庞滑下的是我的泪<br>\n在我胸口刺痛的是我的心<br>\n爱人的心是玻璃做的<br>\n即破碎了就难以在愈合<br>\n就像那支摔破的吉它<br>\n再也听不到那原来的音色<br>\nDo-Re-Mi Do-Re-Mi Do-Re-Mi-Do-Re<br>\nDo-Re-Mi Do-Re-Mi Do-Re-Mi-Do-Do<br>\n让我再一次握你的手<br>\n让我再一次亲吻你的脸<br>\n顺着我脸庞滑下的是我的泪<br>\n在我胸口刺痛的是我的心<br>\n爱人的心是玻璃做的<br>\n即破碎了就难以在愈合<br>\n就像那支摔破的吉它<br>\n再也听不到那原来的音色<br>\nDo-Re-Mi Do-Re-Mi Do-Re-Mi-Do-Re<br>\nDo-Re-Mi Do-Re-Mi Do-Re-Mi-Do-Do<br>\n让我再一次握你的手<br>\n让我再一次亲吻你的脸<br>\n让我再一次握你的手<br>\n让我再一次再一次亲吻你的脸 你的脸<br>\n就像那支摔破的吉它<br>\n再也听不到那原来的音色",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 80544\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 80544\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "325498420",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/325498420",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-06-07 05:11",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "喜欢小刚那咬文吐字的唱腔。。                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "316652088",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/316652088",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-01-10 10:03",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "钟志刚喝醉酒摔杯子了，不错已发烧到42度！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

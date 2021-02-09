@@ -1,0 +1,723 @@
+{
+  "name": "正宗Genuine",
+  "link": "https://emumo.xiami.com/song/cqGs7faa51",
+  "id": "3528517",
+  "album_name": "走失的主人",
+  "singers": "左小祖咒",
+  "lyrics_by": [
+    "左小祖咒"
+  ],
+  "composed_by": [
+    "左小祖咒"
+  ],
+  "play_count_num": 30523,
+  "share_count_num": 162,
+  "comments_num": 50,
+  "lyric": "[ti:正宗]<br>\n[ar:左小祖咒]<br>\n[al:正宗]<br>\n[ly:左小祖咒]<br>\n[mu:左小祖咒]<br>\n[ma:]<br>\n[pu:]<br>\n[by:张]<br>\n[total:256888]<br>\n[offset:0]<br>\n[00:00.715]正宗 - 左小祖咒<br>\n[00:02.117]作词：左小祖咒<br>\n[00:03.421]作曲：左小祖咒<br>\n[00:04.824]<br>\n[00:10.285]我是逃遁又追逐在<br>\n[00:12.647]自由王国的一碗宫爆鸡丁<br>\n[00:26.385]被无数的先辈们<br>\n[00:28.689]烧烤在黑暗的宴桌上舞蹈<br>\n[00:42.760]此刻我跪在诸位面前<br>\n[00:47.297]幻觉那火棍是一根根香啊<br>\n[00:56.318]祈祷吧<br>\n[00:58.651]我保证在下次见面时<br>\n[01:02.473]不再偷看你屁股的颜色<br>\n[01:12.198]发誓吧<br>\n[01:13.792]<br>\n[01:29.067]坚信他人是强盗<br>\n[01:32.853]你却是靠抢劫起家的本领<br>\n[01:45.126]坚信他人躲在庙里<br>\n[01:49.339]给关云长烧香<br>\n[01:51.926]而你是个宗教骗子<br>\n[02:01.174]坚信他人剽窃了<br>\n[02:04.900]捐献灾区的血你是个艺术骗子<br>\n[02:17.433]坚信他人是刺杀<br>\n[02:20.543]艾青的凶手<br>\n[02:23.597]你就是杀死他的被子<br>\n[02:32.195]<br>\n[02:47.530]祖先把火烧旺<br>\n[02:51.187]被子骗子骗子被子<br>\n[02:55.448]被子是骗子<br>\n[03:03.515]祖先把火烧旺<br>\n[03:07.322]被子骗子骗子被子<br>\n[03:11.751]被子是骗子<br>\n[03:19.870]保卫神仙捍卫祖先<br>\n[03:24.382]来尝宫爆鸡丁<br>\n[03:28.392]来尝宫爆鸡丁<br>\n[03:35.962]保卫神仙捍卫祖先<br>\n[03:40.471]来尝宫爆鸡丁<br>\n[03:44.383]来尝宫爆鸡丁",
+  "lyric_extra": "<p>文本歌词最后由 <a target=\"_blank\" href=\"/u/56071981\">左小祖咒</a> 编辑于2020-06-24 11:36</p>\n                                                                                        <p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 3528517\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 3528517\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "1667369",
+        "name": "虾米用户",
+        "motto": "香港的一些老歌总唤起自己...",
+        "link": "https://emumo.xiami.com/u/1667369",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/33/597868bbbc66d_1667369_1501063355.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-11-05 10:01",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "九几年我还年轻气盛，听了总想打人，现在好多了！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "222802757",
+        "name": "虾米用户",
+        "motto": "单循控  没电脑只有果1...",
+        "link": "https://emumo.xiami.com/u/222802757",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/4456/5fe1f211068b5_222802757_1608643089.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-05-23 23:10",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "那时候左老师好清纯的声线                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "430801689",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/430801689",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-04-25 21:24",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "歌词神乎其神                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "36938932",
+        "name": "虾米用户",
+        "motto": "倒霉的小伙子比洞還潮濕的...",
+        "link": "https://emumo.xiami.com/u/36938932",
+        "photo_url": "https://pic.xiami.net/xiamiWeb/ecd1ae6704aef4e8a4b22d10d76024a2/159afc4b309cc9dd94247aab0a676d29-378x378.gif@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-03-20 18:16",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "坚信他人是强盗<br>你却是靠抢劫起家的本领                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1571155",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1571155",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/31/42/1571155/1571155_1305851045.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-03-13 23:57",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "七五的来个？                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "7116904",
+        "name": "虾米用户",
+        "motto": "镜中花，水中月，云中人",
+        "link": "https://emumo.xiami.com/u/7116904",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/142/7116904_1440208365.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-11-29 14:45",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "致敬                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "346125875",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/346125875",
+        "photo_url": "https://pic.xiami.net/images/user/346125875/6223007735434c1593cbd347e8fc2628_2e679492d91f46c28e7fa00bd530e211.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-07-23 23:36",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "这张专辑的磁带还留着，就是不知道能不能听了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "41229310",
+        "name": "虾米用户",
+        "motto": "用音乐净化心灵！",
+        "link": "https://emumo.xiami.com/u/41229310",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/824/5943e5ff17cef_41229310_1497622015.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-09-10 20:29",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "99年的十大金曲                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "59799732",
+        "name": "虾米用户",
+        "motto": "WOW",
+        "link": "https://emumo.xiami.com/u/59799732",
+        "photo_url": "https://pic.xiami.net/images/user/59799732/f55ef43ccbec4eeda578848f0e74585d_90c44cc786664fc08ecc42a59a660269.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-04-08 18:33",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "牛逼                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "202000931",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/202000931",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/4040/2020009311468747520.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-03-21 14:54",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "真好听，你大爷的！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "11761284",
+        "name": "虾米用户",
+        "motto": "听歌只听丢菜卡”",
+        "link": "https://emumo.xiami.com/u/11761284",
+        "photo_url": "https://pic.xiami.net/images/user/11761284/f012754b1e3c49289c3026cf0861aee1_be6a576aa85e4211be409b98bf787b0f.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-02-10 11:04",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "吃 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "11761284",
+        "name": "虾米用户",
+        "motto": "听歌只听丢菜卡”",
+        "link": "https://emumo.xiami.com/u/11761284",
+        "photo_url": "https://pic.xiami.net/images/user/11761284/f012754b1e3c49289c3026cf0861aee1_be6a576aa85e4211be409b98bf787b0f.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-02-10 10:43",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "每次吃宫保鸡丁之前必 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "288742545",
+        "name": "虾米用户",
+        "motto": "我在香港",
+        "link": "https://emumo.xiami.com/u/288742545",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/5774/5c9e1c630712c_288742545_1553865827.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-12-23 07:37",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "左老师需要回归了，现在的作品艺术性没那么强，我还是喜欢早期作品 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "331276219",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/331276219",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/6625/5a0ad53d659c3_331276219_1510659389.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-11-01 18:33",
+      "ageree_num": 4,
+      "disageree_num": 0,
+      "brief": "还是喜欢早期的戾气 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "43434265",
+        "name": "虾米用户",
+        "motto": "朝霞舔着快乐梦，美好的一...",
+        "link": "https://emumo.xiami.com/u/43434265",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/868/55f8d102361b0_43434265_1442369794.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-08-07 07:43",
+      "ageree_num": 3,
+      "disageree_num": 0,
+      "brief": "第一次听左小祖咒就是这首，一晃都喜欢他十年了 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "45882309",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/45882309",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-05-06 08:55",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "还是喜欢血红色的暗黑封面 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": [
+        {
+          "author": {
+            "id": "312179",
+            "name": "虾米用户",
+            "motto": "潜入深蓝，放肆幻听",
+            "link": "https://emumo.xiami.com/u/312179",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/6/59fd5cab9c7d4_312179_b_w162h162_face_w162h162_x36y13w28h34c1.png@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2017-11-04 14:19",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "cure友好 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": {
+        "id": "186269164",
+        "name": "虾米用户",
+        "motto": "我要发横财，发了横财不用...",
+        "link": "https://emumo.xiami.com/u/186269164",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/3725/57ae36e48bc23_186269164_1471035108.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-08-11 07:01",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "杀了她，来碗宫保鸡丁吧！ <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "45582426",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/45582426",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-06-19 12:47",
+      "ageree_num": 7,
+      "disageree_num": 0,
+      "brief": "当年磁带，没有空调的粘稠夏夜，左小像个幽灵在我的耳朵里飘过～这首歌几乎是华语歌曲最好之一，至今我还这么认为～ <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "35753135",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/35753135",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/715/357531351398231273.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-08-21 03:06",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "999+ <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "48940990",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/48940990",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-04-07 02:19",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "牛逼！ <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "151527",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/151527",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/3/5fca442896695_151527_1607091240.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-02-13 20:59",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "伴唱的女声太魔性了！ <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": [
+        {
+          "author": {
+            "id": "2429596",
+            "name": "虾米用户",
+            "motto": "",
+            "link": "https://emumo.xiami.com/u/2429596",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/48/2429596_1495679012.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2017-07-01 10:22",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "是他前女友，画家段英梅 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+          "replies": []
+        },
+        {
+          "author": {
+            "id": "49660160",
+            "name": "虾米用户",
+            "motto": " ",
+            "link": "https://emumo.xiami.com/u/49660160",
+            "photo_url": "https://pic.xiami.net/images/artistlogo/39/15066979325839.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2020-02-18 23:14",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "<q><b>牛耕地说：</b></q>",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": {
+        "id": "38729948",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/38729948",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-01-09 15:30",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "听了那么多的歌，仍然欣赏不了左小。。。[泪流满面]",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "38729948",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/38729948",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-01-09 15:24",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "听了那么多的歌，仍然欣赏不了左小。。。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "35951054",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/35951054",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/719/359510541398616789.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-10-17 11:14",
+      "ageree_num": 4,
+      "disageree_num": 0,
+      "brief": "这首歌是我最喜欢的作品，没有之一……歌词也是我最喜欢的诗词，也没有之一……",
+      "replies": [
+        {
+          "author": {
+            "id": "11078314",
+            "name": "虾米用户",
+            "motto": "暂无签名~",
+            "link": "https://emumo.xiami.com/u/11078314",
+            "photo_url": "https://pic.xiami.net/images/artistlogo/49/15347391987549.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2017-11-30 22:02",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "编曲可以说是很流行了 <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/402.png\"> <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+          "replies": []
+        },
+        {
+          "author": {
+            "id": "6765500",
+            "name": "虾米用户",
+            "motto": "做一个有趣的人窦唯微信群...",
+            "link": "https://emumo.xiami.com/u/6765500",
+            "photo_url": "https://pic.xiami.net/images/user/6765500/50d36caa49e5467ba2e01f92376d589c_cca5b5da654a4e388dce3bab8ac39394.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2019-07-16 18:54",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "<q><b>sendo_14说：</b></q>",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": {
+        "id": "33574251",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/33574251",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/671/33574251_1393937777.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-06-07 12:36",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "来尝宫爆鸡丁！",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "28266133",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/28266133",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/565/282661331385203056.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-03-27 22:50",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "这歌，很骚。 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1963400",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1963400",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/39/26/1963400/1963400_1305968707.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-12-29 13:41",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "舞                                                             蹈",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "16111807",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/16111807",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/322/23/16111807/161118071371657510.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-11-19 22:40",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "我是逃遁又追逐在自由王国的一碗宫爆鸡丁",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "16111807",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/16111807",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/322/23/16111807/161118071371657510.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-11-19 22:06",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "我是逃遁又追逐在自由王国的一碗宫爆鸡丁",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "11698619",
+        "name": "虾米用户",
+        "motto": "淳朴且美",
+        "link": "https://emumo.xiami.com/u/11698619",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/233/11698619_1409058942.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-11-19 22:02",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我是逃遁又追逐在自由王国的一碗宫爆鸡丁",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "11698619",
+        "name": "虾米用户",
+        "motto": "淳朴且美",
+        "link": "https://emumo.xiami.com/u/11698619",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/233/11698619_1409058942.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-11-19 21:57",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我是逃遁又追逐在自由王国的一碗宫爆鸡丁",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "10393226",
+        "name": "虾米用户",
+        "motto": "天主教徒",
+        "link": "https://emumo.xiami.com/u/10393226",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/207/86/10393226/10393226_1347176066.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-01-17 09:10",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我是逃遁又追逐在自由王国的一碗宫爆鸡丁。。。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1984219",
+        "name": "虾米用户",
+        "motto": "只听歌，不说话",
+        "link": "https://emumo.xiami.com/u/1984219",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/39/1984219_1397996062.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-11-02 16:33",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "听着是有点意思，就是听不明白、",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "4365181",
+        "name": "虾米用户",
+        "motto": "Flyman",
+        "link": "https://emumo.xiami.com/u/4365181",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/87/4365181_1426052003.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-08-29 08:47",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "我是逃遁又追逐在自由王国的一盘老醋木耳",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "4458644",
+        "name": "虾米用户",
+        "motto": "如花美眷，似水流年……",
+        "link": "https://emumo.xiami.com/u/4458644",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/89/17/4458644/4458644_1350485227.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-06-03 23:58",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "保卫神仙，捍卫祖先，来尝宫爆鸡丁，来尝宫爆鸡丁。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "412167",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/412167",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-05-26 15:55",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "坚信他人是刺杀艾青的凶手你就是杀死他的被子。。。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "332883",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/332883",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/6/65/332883/332883_1325435785.gif@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-05-15 21:34",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "左小专辑里最爱的一张，没有之一",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "2536893",
+        "name": "虾米用户",
+        "motto": "人与世界的狂欢 经久不息",
+        "link": "https://emumo.xiami.com/u/2536893",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/50/73/2536893/2536893_1306140901.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-04-25 11:04",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "坚信他人是强盗你却是靠抢劫起家的本领 坚信他人是躲在庙里给关云长烧香而你是个宗教骗子 坚信他人剽窃了捐献灾区的血你是个艺术骗子 坚信他人是刺杀艾青的凶手你就是杀死他的被子 @左小祖咒 《正宗》",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "827986",
+        "name": "虾米用户",
+        "motto": "Imagine！Zhao...",
+        "link": "https://emumo.xiami.com/u/827986",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/16/5884a97a070dc_827986_1485089146.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-04-23 19:14",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "保卫神仙,捍卫祖先,来尝宫爆鸡丁。。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3828233",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/3828233",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/76/56/3828233/3828233_1306529350.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-01-06 22:35",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "大概有点明白为什么 韩寒喜欢他了。。上帝洒了一包盐。。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3293324",
+        "name": "虾米用户",
+        "motto": "行人莫問當年事，故國東來...",
+        "link": "https://emumo.xiami.com/u/3293324",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/65/5c952c7933094_3293324_1553280121.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-12-26 21:01",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "左小这首太牛逼，多少年了，还这么喜欢～～～ 第一感觉就没错过！～～～",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "5382540",
+        "name": "虾米用户",
+        "motto": "暂无签名~",
+        "link": "https://emumo.xiami.com/u/5382540",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/107/65/5382540/5382540_1318212640.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-10-15 11:52",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我保证在下次见面时不再偷看你屁股的颜色，发誓吧。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "108",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/108",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/0/57f3c701609a5_108_1475593985.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-10-11 18:06",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "坚信他人是强盗你却是靠抢劫起家的本领<br>坚信他人是躲在庙里给关云长烧香而你是个宗教骗子<br>坚信他人剽窃了捐献灾区的血你是个艺术骗子<br>坚信他人是刺杀艾青的凶手你就是杀死他的被子",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "5389973",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/5389973",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/107/79/5389973/5389973_1313083127.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-09-06 00:54",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "叨逼叨",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "166896",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/166896",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/3/33/166896/166896_1304981235.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2009-10-11 14:53",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "宇清那时候的NO乐队么，听到宫保鸡丁认出来了。左小祖咒。。",
+      "replies": []
+    }
+  ]
+}

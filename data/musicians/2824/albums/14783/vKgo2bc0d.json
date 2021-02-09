@@ -1,0 +1,407 @@
+{
+  "name": "Nothing To Do",
+  "link": "https://emumo.xiami.com/song/vKgo2bc0d",
+  "id": "182098",
+  "album_name": "Drunk Is Beautiful",
+  "singers": "Joyside",
+  "play_count_num": 17418,
+  "share_count_num": 31,
+  "comments_num": 28,
+  "lyric": "wake up at noon,the same stinky sunshine<br>\nwalking,sitting,staring and walking again<br>\ni'm lying in my bed,thinking about my future<br>\ni got no ideas,i'm phuced up again<br>\ni don't know why,i don't wanna know why<br>\nlife's such a ***** that never makes me excited<br>\nnothing is new ,nothing is good<br>\nwhat can i change,no surprise at all<br>\nsweet sweet sunday<br>\nsweet sweet sunday<br>\ni got nothing to do<br>\ni got nothing to do<br>\ni got nothing to do<br>\ni got nothing to do<br>\nbottle in my hand ,only air in my head<br>\ni feel so lucky lonely,but maybe it's good<br>\ni've got my bad luck,i've got my boring fate<br>\nwhy do i still have so phucing many tomorrows<br>\ni got nothing to do<br>\ni got nothing to do<br>\ni got nothing to do<br>\ni got nothing to do<br>\nbaby life's so boring...<br>\nboring...<br>\nbottle in my hand ,only air in my head<br>\ni feel so lucky lonely,but maybe it's good<br>\ni got nothing to do<br>\ni got nothing to do<br>\ni got nothing to do<br>\ni got nothing to do",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 182098\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 182098\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "2625062",
+        "name": "虾米用户",
+        "motto": "手握寸铁，近人可读。",
+        "link": "https://emumo.xiami.com/u/2625062",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/52/2625062_1422282087.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-09-03 01:06",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "哔了狗了这个翻译流弊！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "35349204",
+        "name": "虾米用户",
+        "motto": "微x：littletro...",
+        "link": "https://emumo.xiami.com/u/35349204",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/706/5fc8de3f42ea4_35349204_1606999615.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-03-31 10:24",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "哈哈哈翻译                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "39742899",
+        "name": "虾米用户",
+        "motto": "我没死",
+        "link": "https://emumo.xiami.com/u/39742899",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/794/39742899_1440010479.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-11-24 02:35",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "带我草羊",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "50696316",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/50696316",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1013/57bd269f91b12_50696316_1472013983.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-11-07 11:31",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "翻译一定有故事！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "25449442",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/25449442",
+        "photo_url": "https://pic.xiami.net/images/artistlogo/40/15541321505140.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-11-07 11:07",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "哈哈哈                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "36019737",
+        "name": "虾米用户",
+        "motto": "Ohh fooooooo...",
+        "link": "https://emumo.xiami.com/u/36019737",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/720/5ef4d6f14c252_36019737_1593104113.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-09-20 23:44",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/454.png\"> <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/450.png\">",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "12309451",
+        "name": "虾米用户",
+        "motto": "音乐，第二世界！",
+        "link": "https://emumo.xiami.com/u/12309451",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/246/18/12309451/12309451_1357609805.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-08-08 02:37",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "光剩和刘浩鹏边俊杰他们排练了，庞龙操了",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "12309451",
+        "name": "虾米用户",
+        "motto": "音乐，第二世界！",
+        "link": "https://emumo.xiami.com/u/12309451",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/246/18/12309451/12309451_1357609805.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-08-08 02:36",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "哈哈哈，超jb爱这个翻译",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "29257455",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/29257455",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-08-03 14:04",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我这没歌词啊                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "34260399",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/34260399",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/685/342603991395222204.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-01-21 11:54",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "年轻！",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "42406163",
+        "name": "虾米用户",
+        "motto": "Hey",
+        "link": "https://emumo.xiami.com/u/42406163",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/848/5e5e7b4fcc992_42406163_1583250255.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-01-15 13:16",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这翻的…脑洞大开啊 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "4313697",
+        "name": "虾米用户",
+        "motto": "喜欢小黄歌的青年",
+        "link": "https://emumo.xiami.com/u/4313697",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/86/4313697_1427207181.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-10-25 00:13",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这狗蛋陪词…… <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "29164923",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/29164923",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/583/29164923_1397216755.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-06-15 17:56",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "翻得惊了 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "25125563",
+        "name": "虾米用户",
+        "motto": "伪文艺真汉子的酒窝君",
+        "link": "https://emumo.xiami.com/u/25125563",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/502/25125563_1403403913.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-06-06 23:13",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "i got nothing to do but thinking of him!! ╰_╯",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "26260768",
+        "name": "虾米用户",
+        "motto": "十号楼最帅",
+        "link": "https://emumo.xiami.com/u/26260768",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/525/26260768_1418042477.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-04-16 10:02",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "再，来，一，次！",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "2480050",
+        "name": "虾米用户",
+        "motto": "无啦啦",
+        "link": "https://emumo.xiami.com/u/2480050",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/49/60/2480050/2480050_1366470687.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-08-24 17:25",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "翻译的太亮了",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "615440",
+        "name": "虾米用户",
+        "motto": "转战网易音乐",
+        "link": "https://emumo.xiami.com/u/615440",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/12/30/615440/615440_1305097689.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-11-26 02:36",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "the perfect song for a Sunday morning",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3783509",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/3783509",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/75/67/3783509/3783509_1306515961.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-07-02 09:53",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "听国内朋克的应该没人不知道吧<br>可惜散了",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "6590555",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/6590555",
+        "photo_url": "https://pic.xiami.net/images/avatar/55/6590555/65905551320312376.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-06-06 14:13",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这翻译也是闲的蛋疼一逼啊，哈哈",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1457061",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1457061",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/29/14/1457061/1457061_1305816747.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-03-14 23:21",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "fuck!!!!",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "374303",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/374303",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/7/48/374303/374303_1305043451.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-08-15 15:38",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "我翻译的 哈哈",
+      "replies": [
+        {
+          "author": {
+            "id": "1427784",
+            "name": "虾米用户",
+            "motto": "我还没想好要写什么...",
+            "link": "https://emumo.xiami.com/u/1427784",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/28/5e2d9d5d26a74_1427784_1580047709.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2011-09-18 14:12",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "笑崩我了……哥你真有才",
+          "replies": []
+        },
+        {
+          "author": {
+            "id": "2653771",
+            "name": "虾米用户",
+            "motto": "嘿",
+            "link": "https://emumo.xiami.com/u/2653771",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/53/2653771_1477308773.jpeg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2012-09-10 14:51",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "神翻译",
+          "replies": []
+        },
+        {
+          "author": {
+            "id": "32961761",
+            "name": "虾米用户",
+            "motto": "一切终将化为乌有",
+            "link": "https://emumo.xiami.com/u/32961761",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/659/59a4f33b39f53_32961761_b_w108h108.png@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2014-03-17 13:03",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "哎呀 我这十几年英语白学了",
+          "replies": []
+        },
+        {
+          "author": {
+            "id": "42406163",
+            "name": "虾米用户",
+            "motto": "Hey",
+            "link": "https://emumo.xiami.com/u/42406163",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/848/5e5e7b4fcc992_42406163_1583250255.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2015-01-15 13:33",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "真心牛 哈哈哈哈 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": {
+        "id": "1526462",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1526462",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-07-19 10:18",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "I got nothing to do <br>I got nothing to do <br>I got nothing to do <br>I got nothing to do <br>全 被 唱 出 来 了",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "2014824",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/2014824",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/40/2014824_1452119725.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-07-05 14:59",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这翻译简直天才呀",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1370451",
+        "name": "虾米用户",
+        "motto": "fuk for Ever",
+        "link": "https://emumo.xiami.com/u/1370451",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/27/5dc998c4173e5_1370451_1573492932.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-06-15 18:23",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "挺可爱的",
+      "replies": []
+    }
+  ]
+}

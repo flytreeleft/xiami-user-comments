@@ -1,0 +1,76 @@
+{
+  "name": "You Make Me Wanna...",
+  "link": "https://emumo.xiami.com/song/gLU1144e",
+  "id": "6034",
+  "album_name": "陈小春的R&B音乐补给站VOL.2 柔情篇",
+  "singers": "Usher",
+  "lyrics_by": [
+    "DUPRI JERMAINE",
+    "RAYMOND USHER",
+    "SEAL MANUEL"
+  ],
+  "play_count_num": 8138,
+  "share_count_num": 7,
+  "comments_num": 4,
+  "lyric": "",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 6034\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 6034\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "55996574",
+        "name": "虾米用户",
+        "motto": "·",
+        "link": "https://emumo.xiami.com/u/55996574",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1119/5a8cb076b75e4_55996574_1519169654.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-01-28 14:50",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "n                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "34685840",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/34685840",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/693/59495a433ded9_34685840_1497979459.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-09-13 15:58",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/466.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "10000931",
+        "name": "虾米用户",
+        "motto": "别来看我，我怕回忆。",
+        "link": "https://emumo.xiami.com/u/10000931",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/200/5b09932e1e5c1_10000931_1527354158.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-08-29 21:29",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "为什么封面是春哥～ <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/402.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": [
+        {
+          "author": {
+            "id": "16162887",
+            "name": "虾米用户",
+            "motto": "我还没想好要写什么...",
+            "link": "https://emumo.xiami.com/u/16162887",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/323/59ad38d663fb8_16162887_1504524502.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2017-07-29 07:32",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/402.png\"> <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/402.png\"> <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/402.png\"> <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

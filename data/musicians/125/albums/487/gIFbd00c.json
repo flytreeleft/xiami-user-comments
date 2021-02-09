@@ -1,0 +1,105 @@
+{
+  "name": "哑忍MV《妈妈的话》粤语版",
+  "link": "https://emumo.xiami.com/song/gIFbd00c",
+  "id": "5833",
+  "album_name": "Sing",
+  "singers": "陈小春",
+  "lyrics_by": [
+    "李峻一"
+  ],
+  "composed_by": [
+    "陈台证",
+    "陈奂仁"
+  ],
+  "play_count_num": 16735,
+  "share_count_num": 15,
+  "comments_num": 6,
+  "lyric": "05 哑忍(粤)<br>\n作曲：陈奂仁 填词：李峻一<br>\n你 马路边抱住他<br>\n甜蜜吗 彻夜熄去电话<br>\n我 我大方到默许<br>\n逃回家 眼内积满泪水<br>\n这颗心意不懂感觉<br>\n太寂寞 还是太彷徨<br>\n无谓再咬住谁错<br>\n早知你不怕人多<br>\n从来叫座 谁分一杯羹<br>\n谁分一杯羹<br>\n三张咀分两个吻<br>\n曾多么激心 只分得一个孤枕<br>\n但是拖拖拉拉三方也气愤<br>\n从来（还是）伤身<br>\n情感仿似利刃<br>\n我 放下仅有自尊<br>\n容纳他 见面都会寒暄<br>\nEQ高到不敢鼓燥笑坏人<br>\n忘掉我是人 情绪已受陪训<br>\n多得你使我难堪<br>\n如何馈赠<br>\n从不想哑忍 三张咀<br>\n分两个吻 无比的胸襟<br>\n装不起猜忌的针<br>\n若是拖拖拉拉<br>\n悲喜也不分 <br>\n愿抽身 谁肯举剑自刎",
+  "lyric_extra": "<p>LRC歌词最后由 <a target=\"_blank\" href=\"/u/1489937\">安全地带</a> 编辑于2020-07-13 14:35</p>\n                                                                          <p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 5833\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 5833\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "2925892",
+        "name": "虾米用户",
+        "motto": "？",
+        "link": "https://emumo.xiami.com/u/2925892",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/58/5ac6b2c320402_2925892_b_w240h240.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-09-05 23:19",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "竟都唱出了戏腔，春春是真厉害                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "353848276",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/353848276",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-07-18 19:09",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "你马路边抱着他～～ <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/404.png\">不怕被车撞吗？                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "153286972",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/153286972",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/3065/5a51a532a2b1b_153286972_b_w108h108_face_w108h108_x64y17w20h25c1.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-09-19 19:28",
+      "ageree_num": 4,
+      "disageree_num": 0,
+      "brief": "三张嘴分两个吻&amp;hellip;&amp;hellip;很有镜头感                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "39286430",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/39286430",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/785/5624ff6b3ac6b_39286430_1445265259.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-12-21 18:33",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "系做唔到                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "31970545",
+        "name": "虾米用户",
+        "motto": "暂无签名~",
+        "link": "https://emumo.xiami.com/u/31970545",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-03-13 10:45",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "好懷念呀呢首歌",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "9080508",
+        "name": "虾米用户",
+        "motto": "可知道 你的光 耀了我",
+        "link": "https://emumo.xiami.com/u/9080508",
+        "photo_url": "https://pic.xiami.net/images/user/9080508/6ee99f1b700a4698a97dbc87060a221b_a4a7874ad7714a3594bb2a6aab8e2e35.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-01-13 13:54",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "14.1.13.ஐ",
+      "replies": []
+    }
+  ]
+}

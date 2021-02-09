@@ -1,0 +1,189 @@
+{
+  "name": "Open Up (Nescafe CF Chinese Version)雀巢咖啡全球最新广告歌中文版",
+  "link": "https://emumo.xiami.com/song/ka70ad689",
+  "id": "385352",
+  "album_name": "OPEN UP",
+  "singers": "顺子",
+  "lyrics_by": [
+    "Jeff.C石惠"
+  ],
+  "arranged_by": [
+    "屠颖"
+  ],
+  "play_count_num": 23118,
+  "share_count_num": 141,
+  "comments_num": 13,
+  "lyric": "梦想的世界　就在你眼前　<br>\n渴望的真倩　就该勇敢追<br>\n释放你自己　才会做的对　<br>\nOpen Up 我的心在飞<br>\n希望还在身边　应该向前　<br>\n敞开你胸怀　世界没有界限<br>\nOpen your heart, and open your mind<br>\nOpen your thoughts, Oh 活得精彩<br>\nOpen your eyes, open your mind, open your thoughts<br>\nDon't stay behind<br>\nOpen up Open up, Open up Open up<br>\nOpen up Open up, Let's get there<br>\n<br>\n梦想的世界　就在你眼前　<br>\n渴望的真倩　就该勇敢追<br>\n释放你自己　才会做的对　<br>\nOpen Up 我的心在飞<br>\nOpen your eyes, open your mind,<br>\n open your thoughts<br>\nDon't stay behind, let's get there<br>\nOpen up Open up, Open up Open up<br>\nLet's get there<br>\n<br>\nOpen your eyes, open your mind, <br>\nopen your thoughts<br>\nDon't stay behind, let's get there<br>\nOpen up Open up, Open up Open up<br>\nLet's get there<br>\n<br>\nOpen up Open up, Open up Open up,<br>\nLet's get there <br>\nOpen up Open up,Let's get there",
+  "lyric_extra": "<p>文本歌词最后由 <a target=\"_blank\" href=\"/u/41190273\">爆棚的傲娇气</a> 编辑于2020-07-13 14:32</p>\n                                                                                        <p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 385352\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 385352\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "194640175",
+        "name": "虾米用户",
+        "motto": "我想要的，都會有的。",
+        "link": "https://emumo.xiami.com/u/194640175",
+        "photo_url": "https://pic.xiami.net/images/user/194640175/29b48b095f3c4f69b7716e1db157175c_57b065f9cc3744aea1fdc3b675daac07.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-08-16 20:14",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "我拥有顺子的每一张卡带<br>每一张专辑的CD<br>直到今天车里的柏林之声<br>重温这张专辑<br>多少年过去<br>依旧这么的经典<br>是我最爱的顺子                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "7214568",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/7214568",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/144/29/7214568/7214568_1375143593.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-02-25 03:26",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "还是那么洋气                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "12362100",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/12362100",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-07-07 21:09",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "当年在超市里听到这首歌，走不了了，买了鸟窝咖啡                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "539127",
+        "name": "虾米用户",
+        "motto": "浮生若梦 为欢几何",
+        "link": "https://emumo.xiami.com/u/539127",
+        "photo_url": "https://pic.xiami.net/images/user/539127/533d5c82c0a44be1b1d50a0807d2fb21_f6309c0ed4bc427e8bea74419c121d12.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-06-01 08:33",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "open up my morning my day                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "296470230",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/296470230",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-05-15 15:46",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "好听                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "268726267",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/268726267",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1159443296_1485590885.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-05-05 08:13",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "就是喜欢得太久远，现在反倒忽略了。真的是可以每天早晨听。                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "7214568",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/7214568",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/144/29/7214568/7214568_1375143593.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-03-22 01:07",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/429.png\"> <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/429.png\"> <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/429.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1815386",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/1815386",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/36/55f96842ac7d1_1815386_1442408514.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-08-22 09:48",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "现在都觉得编曲很牛                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "6055929",
+        "name": "虾米用户",
+        "motto": "❤️",
+        "link": "https://emumo.xiami.com/u/6055929",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/121/5b17496a799fd_6055929_1528252778.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-06-16 17:47",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "当年好喜欢的一首歌啊，经典！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "24485655",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/24485655",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/489/59f41e2c38a46_24485655_b_w108h108_face_w108h108_x31y19w45h61c1.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-07-06 18:12",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "前奏好有那个时代的特点 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": [
+        {
+          "author": {
+            "id": "199292267",
+            "name": "虾米用户",
+            "motto": "不爱热闹，喜欢两个人。",
+            "link": "https://emumo.xiami.com/u/199292267",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/3985/1992922671468105943.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2017-02-25 00:46",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "是的。那个嘟嘟嘟的乐器 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": {
+        "id": "21622750",
+        "name": "虾米用户",
+        "motto": "就聽好歌",
+        "link": "https://emumo.xiami.com/u/21622750",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/432/21622750_1416838307.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-12-02 10:31",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "没人喜欢？不科学啊",
+      "replies": []
+    }
+  ]
+}

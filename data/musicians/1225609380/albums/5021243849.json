@@ -1,0 +1,76 @@
+{
+  "id": "5021243849",
+  "link": "https://emumo.xiami.com/album/5021243849",
+  "name": "Cry",
+  "photo_url": "https://pic.xiami.net/qianxun/07d8ec1a38a5462c3afbfac41413b8af/8a25a1e12829ae989a1bdeb0354fc755-600x600.jpg@4e_1c_100Q_185w_185h",
+  "artist_name": "Gryffin/John Martin",
+  "languages": [
+    "英语"
+  ],
+  "companies": [
+    "Darkroom"
+  ],
+  "published_date": [
+    "2020年10月02日"
+  ],
+  "categories": [
+    "EP",
+    "单曲"
+  ],
+  "play_count_num": 0,
+  "favorite_count_num": 1,
+  "comments_num": 2,
+  "intro": "<p></p>",
+  "songs": [
+    {
+      "name": "Cry",
+      "link": "https://emumo.xiami.com/song/yhT0Qwd8275"
+    },
+    {
+      "name": "Cry (Nevada Remix)",
+      "link": "https://emumo.xiami.com/song/nnnkog7cb60"
+    },
+    {
+      "name": "Cry (Trivecta Remix)",
+      "link": "https://emumo.xiami.com/song/nnnlRr74fb2"
+    },
+    {
+      "name": "Cry (Yoste Remix)",
+      "link": "https://emumo.xiami.com/song/yhYiz4b6b4d"
+    },
+    {
+      "name": "Cry (Majestic Remix)",
+      "link": "https://emumo.xiami.com/song/JX6xkD238c9"
+    }
+  ],
+  "comments": [
+    {
+      "author": {
+        "id": "338587809",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/338587809",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/6771/5f513f42f16af_338587809_1599160130.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-09-12 10:33",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "@@",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "441326744",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/441326744",
+        "photo_url": "https://pic.xiami.net/images/user/441326744/66b0db7ec7b342e29046d11a0b19d443_941c0c1046144b6d92362c9b9c7169f3.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-08-09 17:25",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "。",
+      "replies": []
+    }
+  ]
+}

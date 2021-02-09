@@ -1,0 +1,132 @@
+{
+  "name": "不朽",
+  "link": "https://emumo.xiami.com/song/mQ4Vbi79f77",
+  "id": "1769332474",
+  "album_name": "不朽",
+  "singers": "刘可",
+  "lyrics_by": [
+    "冀楚忱"
+  ],
+  "composed_by": [
+    "徐向荣"
+  ],
+  "play_count_num": 5321,
+  "share_count_num": 26,
+  "comments_num": 8,
+  "lyric": "浓雾锁江锁不住向往<br>\n明知会有风霜<br>\n生命也会如火的开放<br>\n<br>\n深沉的爱用无言表白<br>\n那平静的胸怀<br>\n载满惊涛骇浪的澎湃<br>\n<br>\n荆棘密布的春秋<br>\n只能划破你的衣袖<br>\n大浪淘沙依旧<br>\n你的双眸静水深流<br>\n<br>\n念着你的名字<br>\n带我峥嵘岁月重头<br>\n化作满天星斗<br>\n你在我心里从此不朽<br>\n<br>\n疾风如刀折不断劲草<br>\n无名未必渺小<br>\n因为春暖他最先知道<br>\n<br>\n生死难猜仍志心不改<br>\n那平静的胸怀<br>\n载满波澜壮阔的未来<br>\n<br>\n荆棘密布的春秋<br>\n只能划破你的衣袖<br>\n大浪淘沙依旧<br>\n你的双眸静水深流<br>\n<br>\n念着你的名字<br>\n带我峥嵘岁月重头<br>\n化作满天星斗<br>\n你在我心里从此不朽<br>\n你在我心里永远不朽",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1769332474\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1769332474\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "250964843",
+        "name": "虾米用户",
+        "motto": "好想你的包容",
+        "link": "https://emumo.xiami.com/u/250964843",
+        "photo_url": "https://pic.xiami.net/images/user/250964843/a8cbc045102240b595b8a92f18ffcd4e_c9c82929ebd14b7bafbdabe45774385b.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-02-06 09:57",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "能不朽的，能有多少，屈指可数……                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "330619269",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/330619269",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/361729729_1508242296.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-03-16 10:43",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "太好听了，可惜唱的歌太少了，近几年都不唱了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "330619269",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/330619269",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/361729729_1508242296.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-03-16 10:42",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "能打动人心的声音                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "105294218",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/105294218",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/2105/5b270d2d9e9d3_105294218_1529285933.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-01-13 21:28",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "电视剧《江阴要塞》主题曲，电视剧和歌曲一样很好！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "83893200",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/83893200",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1677/83893200_1514115313.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-03-20 14:08",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "词很棒",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "811890",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/811890",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/16/5a4c7e7fba4a8_811890_1514962559.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-12-02 12:11",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "从楼诚过来的                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "9854967",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/9854967",
+        "photo_url": "https://pic.xiami.net/images/avatar/67/9854967/98549671342540734.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-07-19 15:53",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "荆棘密布的春秋 只能划破你的衣袖 大浪淘沙依旧 你的双眸静水深流",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3196722",
+        "name": "虾米用户",
+        "motto": "人散后，一钩弯月天如水；",
+        "link": "https://emumo.xiami.com/u/3196722",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/63/3196722_1386644313.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-03-16 20:12",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "很久以前偶然听到的歌，没想到这么多年会再次相遇~",
+      "replies": []
+    }
+  ]
+}

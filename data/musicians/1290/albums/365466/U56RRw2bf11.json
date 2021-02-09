@@ -1,0 +1,235 @@
+{
+  "name": "偶像",
+  "link": "https://emumo.xiami.com/song/U56RRw2bf11",
+  "id": "1769338544",
+  "album_name": "左小祖咒原声配乐No.1",
+  "singers": "左小祖咒",
+  "lyrics_by": [
+    "左小祖咒"
+  ],
+  "composed_by": [
+    "左小祖咒",
+    "陈伟伦"
+  ],
+  "arranged_by": [
+    "管海浪",
+    "HEADS"
+  ],
+  "play_count_num": 6373,
+  "share_count_num": 23,
+  "comments_num": 15,
+  "lyric": "",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1769338544\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1769338544\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "1033598",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1033598",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/20/67/1033598/1033598_1305173763.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-10-30 10:14",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我是谁？我信仰什么？ <br>　　我暗暗地哭过 <br>　　昨夜 <br>　　我情不自禁地唱了很久 <br>　　噢 太阳升起来了 <br>　　无尽的天空 <br>　　无尽的天空 <br>　　没有人听见天使 <br>　　在说了什么 <br>　　 <br>　　我感到冷 <br>　　感到受冻 <br>　　眼睛一直在痒痒 <br>　　找不到原由 <br>　　我甚至感到肿瘤 <br>　　但这是我的错 <br>　　她的笑容打动不了我的心 <br>　　她的吻也不会让我心醉 <br>　　 <br>　　总之你不仅仅是个慷慨的人 <br>　　总之你是像传说一样 <br>　　让我爱又让我妒忌的人 <br>　　你把讥讽看作爱 <br>　　说你来还钱是上次偷了他的 <br>　　并说那样做是解决不了问题的 <br>　　那是解决不了根本问题的 <br>　　 <br>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "44534506",
+        "name": "虾米用户",
+        "motto": "我们的生活多么幸福",
+        "link": "https://emumo.xiami.com/u/44534506",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/890/5cf2c5afa4073_44534506_1559414191.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-01-14 02:31",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我很费解当时的评论是啥意思                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "44534506",
+        "name": "虾米用户",
+        "motto": "我们的生活多么幸福",
+        "link": "https://emumo.xiami.com/u/44534506",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/890/5cf2c5afa4073_44534506_1559414191.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-05-30 21:04",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "@左小祖咒@虾米音乐@小米应用商店",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "13026101",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/13026101",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/260/52/13026101/130261011379152927.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-12-11 23:51",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "他妈的，好听                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1060183",
+        "name": "虾米用户",
+        "motto": "暂无签名~",
+        "link": "https://emumo.xiami.com/u/1060183",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/21/565d5b86b30aa_1060183_1448958854.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-06-01 13:55",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "喜丧",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "188934",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/188934",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/3/579764962cd90_188934_1469539478.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-02-07 06:58",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "她的笑容打动不了我的心，她的吻也不会让我心醉",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "4767490",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/4767490",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/95/34/4767490/4767490_1310032356.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-05-11 22:29",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "左小祖咒说，我的音乐就像榴莲，开始很少人敢吃，但吃过第一次后就爱上这种味道。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "5107293",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/5107293",
+        "photo_url": "https://pic.xiami.net/images/avatar/93/5107293/51072931325568186.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-03-08 19:39",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "对于大众对他音乐“跑调”的评价，左小祖咒将音乐比作水果：我对很多观众、听众来说是榴莲，不是常态，我是把生活里面不是常态的东西变成了常态，被大家听到了，很多人喜欢了我的这些东西，开始放大了这些东西。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "10280",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/10280",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/0/10280_1421641091.jpeg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-02-17 22:40",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "突然莫名有種迪倫大爺的感覺",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "5733714",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/5733714",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/114/67/5733714/5733714_1315354846.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-12-30 08:04",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "每日一歌，我也曾如此过，但不彻底。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3329875",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/3329875",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/66/59/3329875/3329875_1306379183.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-12-05 23:37",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "偶像",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3586334",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/3586334",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/71/72/3586334/3586334_1320915700.gif@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-09-23 21:32",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "#偶像#  呐喊 左小祖",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1549264",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1549264",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/30/98/1549264/1549264_1305844448.gif@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-07-30 16:29",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "你信仰什么，你有信仰吗？你为自己感到卑微吗？你曾觉得我力吗？你曾经嬉笑怒骂过吗？你曾不被理解吗？你曾不曾理解吗？",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1549264",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1549264",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/30/98/1549264/1549264_1305844448.gif@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-07-30 13:34",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我也喜欢如此的唱歌，随心随意的。呀爽啊。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1033598",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1033598",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/20/67/1033598/1033598_1305173763.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2010-06-17 14:28",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我自言自语太久 <br>　　我怕我要死了 <br>　　我一直对谁都没有说 <br>　　这个问题困扰着我 <br>　　但这是我的错 <br>　　我怕说出了所有的人都笑话我 <br>　　这个问题一直困扰着我 <br>　　 <br>　　我感到晕 <br>　　感到下坠 <br>　　头脑发木 <br>　　飘散在空中 <br>　　甚至感到秃鹫的嘴 <br>　　在我身上叨叨 <br>　　叶片窸窣 微风轻拂 <br>　　木炭等着渐渐燃烧 <br>　　 <br>　　总之你不同于墙倒众人推的那种人 <br>　　总之你不同于撕掉游客身份 <br>　　说他们是外星人 <br>　　你还劝说他们不用去烧红烙铁把号码烙在胸口 <br>　　那样做是解决不了问题的 <br>　　那是解决不了根本问题的",
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "HeroMV",
+  "link": "https://emumo.xiami.com/song/gMtdafec",
+  "id": "6059",
+  "album_name": "That's Mine",
+  "singers": "陈小春",
+  "lyrics_by": [
+    "徐世珍"
+  ],
+  "composed_by": [
+    "包小柏"
+  ],
+  "play_count_num": 2268,
+  "share_count_num": 0,
+  "comments_num": 1,
+  "lyric": "RAP：在你左右 怕什么有我 HERO<br>\n就抬头挺胸谁也不是对手就往前冲怕什么 HERO<br>\n都在一条船上分什么你我 HERO<br>\n怕什么要做大不了做错<br>\n<br>\n不要怀疑 我在这里<br>\n我不懂 可是我都相信<br>\n不要担心 我在这里<br>\n够不够 总之我尽全力<br>\n没有月亮 没有背影<br>\n过了河 只是一个小兵<br>\n就算明天 没有续集<br>\n还有我 还有我在陪你<br>\n这一步 下一步<br>\n到哪里 输或赢<br>\n我知道你可以<br>\n反正起手无回 不过争一口气<br>\n有我 在你左右 怕什么<br>\n只要抬头挺胸谁也不是对手<br>\n要走 就往前冲 怕什么<br>\n大不了一起错<br>\n有我 在你左右 怕什么<br>\n都在一条船上还分什么你我<br>\n要做 就不回头 怕什么<br>\n不管结果至少 是个英雄<br>\nRAP：<br>\n就抬头挺胸谁也不是对手就往前冲 怕什么 HERO<br>\n都在一条船上分什么你我 HERO<br>\n怕什么要做大不了做错<br>\n怕什么有我在你左右 HERO HERO<br>\n不要怀疑 我在这里<br>\n我不懂 可是我都相信<br>\n不要担心 我在这里<br>\n够不够 总之我尽全力<br>\n没有月亮 没有背影<br>\n过了河 只是一个小兵<br>\n就算明天 没有续集<br>\n<br>\n还有我 还有我在陪你<br>\n这一步 下一步<br>\n到哪里 输或赢<br>\n<br>\n我知道你可以<br>\n反正起手无回 不过争一口气<br>\n有我 在你左右 怕什么<br>\n只要抬头挺胸谁也不是对手<br>\n要走 就往前冲 怕什么<br>\n大不了一起错<br>\n有我 在你左右 怕什么<br>\n都在一条船上还分什么你我<br>\n要做 就不回头 怕什么<br>\n不管结果至少 是个英雄<br>\n<br>\n有我 在你左右 怕什么<br>\n<br>\n就抬头挺胸谁也不是对手就往前冲 怕什么 HERO<br>\n都在一条船上分什么你我 HERO<br>\n<br>\n怕什么要做大不了做错<br>\n有我 在你左右 怕什么<br>\n只要抬头挺胸谁也不是对手<br>\n要走 就往前冲 怕什么<br>\n大不了一起错<br>\n有我 在你左右 怕什么<br>\n都在一条船上还分什么你我<br>\n要做 就不回头 怕什么<br>\n不管结果至少 是个英雄<br>\n有我 在你左右 怕什么<br>\n<br>\n只要抬头挺胸谁也不是对手<br>\n要走 就往前冲 怕什么<br>\n大不了一起错<br>\n都在一条船上还分什么你我<br>\n要做 就不回头 怕什么<br>\n不管结果至少 是个英雄<br>\n有我 在你左右 怕什么",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 6059\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 6059\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "9105510",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/9105510",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/182/11/9105510/9105510_1342937645.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-11-26 22:35",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "怪了，这个歌也好听啊，没人喜欢么？                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

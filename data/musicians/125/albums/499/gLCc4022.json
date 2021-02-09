@@ -1,0 +1,73 @@
+{
+  "name": "Silly Ho",
+  "link": "https://emumo.xiami.com/song/gLCc4022",
+  "id": "6016",
+  "album_name": "陈小春的R&B音乐补给站VOL.1 动感篇",
+  "singers": "TLC",
+  "lyrics_by": [
+    "Dallas"
+  ],
+  "play_count_num": 8227,
+  "share_count_num": 4,
+  "comments_num": 4,
+  "lyric": "－＝ TLC 《 Silly Ho 》 ＝－<br>\n<br>\nI ain't never been no Silly Ho<br>\nWaiting for your call<br>\nLike the other girls want you<br>\nI ain't never been no one to mess<br>\nWith someone else's mess<br>\nThat's not a thing for me to do<br>\nI ain't never been that chickenhead<br>\nTo wake up in your bed<br>\nAfter every club or two<br>\nWanna be the one in that mini skirt<br>\nAlways wanna flirt<br>\nWith every player on the team<br>\n<br>\nIf you really wanna find<br>\nSomeone to get some behind<br>\nI ain't the one for you<br>\nIf you really wanna know<br>\nBoy you need a silly ho<br>\nTo do whatever you wanna do<br>\nIf you really wanna find<br>\nSomeone to get some behind<br>\nI ain't the one for you<br>\nIf you really wanna know<br>\nBoy you need a silly ho<br>\nTo do whatever you wanna do, Oooh oooh<br>\n<br>\nI ain't never been no silly *****<br>\nWaiting to get rich<br>\nFrom a *****'s bank account<br>\nI have always had my own things<br>\nBought my own rings<br>\nNot goin' let you catch me out<br>\nYou should take a lesson from me<br>\nI ain't the one to be<br>\nDepending on someone else<br>\nI can run a scam before he can<br>\nBetter than a man<br>\nI always keep my game on dis<br>\n<br>\nIf you really wanna find<br>\nSomeone to get some behind<br>\nI ain't the one for you<br>\nIf you really wanna know<br>\nBoy you need a silly ho<br>\nTo do whatever you wanna do<br>\nIf you really wanna find<br>\nSomeone to get some behind<br>\nI ain't the one for you<br>\nIf you really wanna know<br>\nBoy you need a silly ho<br>\nTo do whatever you wanna do, Oooh oooh<br>\n<br>\nYou know you can't get with this<br>\nOne night you just<br>\nGo and must find a ho<br>\nTo give it up<br>\nWhy you even try your luck<br>\nStuck on silly ****<br>\nBoy you know you need to quit<br>\nAin't the one for all this<br>\nYou missed out<br>\n<br>\nI'm I'm I'm out<br>\nI'm out I'm out I'm out out out<br>\nI'm I'm I'm out out<br>\nI'm I'm out<br>\nI'm out out out<br>\n<br>\nIf you really wanna find<br>\nSomeone to get some behind<br>\nI ain't the one for you<br>\nIf you really wanna know<br>\nBoy you need a silly ho<br>\nTo do whatever you wanna do<br>\nIf you really wanna find<br>\nSomeone to get some behind<br>\nI ain't the one for you<br>\nIf you really wanna know<br>\nBoy you need a silly ho<br>\nTo do whatever you wanna do, Oooh oooh<br>\n<br>\n-=The*End=-",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 6016\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 6016\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "55337376",
+        "name": "虾米用户",
+        "motto": "88 删啦",
+        "link": "https://emumo.xiami.com/u/55337376",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1106/5fe2fba1be3df_55337376_1608711073.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-02-08 21:42",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "？                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "222750842",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/222750842",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-11-12 20:30",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "******                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "119838946",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/119838946",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/2396/599ad54388a27_119838946_1503319363.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-12-25 08:45",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "难道那个whooot是山鸡哥？                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "8675904",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/8675904",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/173/51/8675904/8675904_1338365666.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-03-10 14:18",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "还不错                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    }
+  ]
+}

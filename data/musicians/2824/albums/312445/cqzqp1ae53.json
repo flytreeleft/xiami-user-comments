@@ -1,0 +1,154 @@
+{
+  "name": "(I Am) Lazy & Wasting",
+  "link": "https://emumo.xiami.com/song/cqzqp1ae53",
+  "id": "3463027",
+  "album_name": "Everything Sucks",
+  "singers": "Joyside",
+  "play_count_num": 12059,
+  "share_count_num": 52,
+  "comments_num": 10,
+  "lyric": "(I Am) Lazy / Wasting - Joyside<br>\n<br>\n<br>\nOh baby I got nothing for you<br>\nAnd I don't mind your crying<br>\nI spend my joy with my beer<br>\nSo don't call me in the evening<br>\nI'm lazy and wasting<br>\nI'm lazy and wasting<br>\nI'm lazy and f**king wasting<br>\nI got no sweet words for you<br>\nAnd I never say sorry<br>\nDon't you hear I'm laughing at you<br>\nHa ha ha ha ha<br>\nI'm lazy and wasting<br>\nI'm lazy and wasting<br>\nI got no time for you little girl<br>\nLittle girl<br>\nGet out of my way<br>\nGet out of my way<br>\nLeave me alone<br>\nGet out of my way<br>\nGet out of my way<br>\nLeave me alone<br>\nI'm a lazy alcoholic and I'm wasting<br>\nI'm a lazy alcoholic and I'm wasting<br>\nI'm a lazy alcoholic and I'm f**king wasting<br>\nOh baby I can't change for you<br>\nI believe in my life<br>\nYou never got a chance to break my heart<br>\nI own my feelings<br>\nGet out of my way<br>\nGet out of my way<br>\nLeave me alone<br>\nGet out of my way<br>\nGet out of my way<br>\nLeave me alone<br>\nI'm a lazy alcoholic and I'm wasting<br>\nI'm a lazy alcoholic and I'm wasting<br>\nI'm a lazy alcoholic and I'm f**king wasting<br>\nI'm so lazy<br>\nI'm so lazy<br>\nI'm so lazy<br>\nI wasted my life wasting you<br>\nI'm lazy",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 3463027\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 3463027\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "418643796",
+        "name": "虾米用户",
+        "motto": "黑泽明",
+        "link": "https://emumo.xiami.com/u/418643796",
+        "photo_url": "https://pic.xiami.net/images/user/418643796/378e104bec6a4e758ebc2251f4b64fd0_4d9f452759344729888ee29be9bc4f76.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-07-05 23:15",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "听起来很纯很正                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "264748740",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/264748740",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1944583072_1484873789.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-04-03 18:10",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/401.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "51639447",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/51639447",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1032/56466f0cc78ca_51639447_1447456524.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-04-01 19:46",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这很grunge                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "48898343",
+        "name": "虾米用户",
+        "motto": "生命已经过期",
+        "link": "https://emumo.xiami.com/u/48898343",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/977/5a816da336b90_48898343_b_w162h162_face_w162h162_x44y47w76h91c1.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-04-01 17:51",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "懒废                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "276825164",
+        "name": "虾米用户",
+        "motto": "StandingClub",
+        "link": "https://emumo.xiami.com/u/276825164",
+        "photo_url": "https://pic.xiami.net/images/user/276825164/11b25f6eafbc48a2ad8d30e52fe01ea2_5a067973ff8648678b2f1bd5922086b3.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-03-31 15:18",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "：                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "7030777",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/7030777",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/140/5c62137f4bb10_7030777_1549931391.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-06-25 09:55",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "im fuxking lazy                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "12877747",
+        "name": "虾米用户",
+        "motto": "椎名林檎門下黑貓",
+        "link": "https://emumo.xiami.com/u/12877747",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/257/57c8841c08bb5_12877747_1472758812.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-06-11 01:00",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "反正我就乐意这样寂寞了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3208618",
+        "name": "虾米用户",
+        "motto": "Pulsar.: ",
+        "link": "https://emumo.xiami.com/u/3208618",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/64/3208618_1446391091.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-08-31 22:07",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "I'm lazy and wasting!                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "47970142",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/47970142",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/959/5527be8299221_47970142_1428668034.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-05-22 00:41",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "就是这股劲儿                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "7776256",
+        "name": "虾米用户",
+        "motto": "不是本人。",
+        "link": "https://emumo.xiami.com/u/7776256",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/155/5c37225cdff7f_7776256_1547117148.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-08-06 16:45",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "好呆萌的声音(´･_･`)",
+      "replies": []
+    }
+  ]
+}

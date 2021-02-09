@@ -1,0 +1,98 @@
+{
+  "name": "Everyphucingday",
+  "link": "https://emumo.xiami.com/song/jjFua02fe",
+  "id": "182110",
+  "album_name": "Drunk Is Beautiful",
+  "singers": "Joyside",
+  "play_count_num": 3876,
+  "share_count_num": 12,
+  "comments_num": 6,
+  "lyric": "&nbsp;everyday's&nbsp;a&nbsp;*******&nbsp;holiday&nbsp;<br>\n&nbsp;but&nbsp;that's&nbsp;alright&nbsp;<br>\n&nbsp;there's&nbsp;no&nbsp;glory&nbsp;in&nbsp;my&nbsp;life&nbsp;<br>\n&nbsp;but&nbsp;i&nbsp;don't&nbsp;mind&nbsp;<br>\n&nbsp;if&nbsp;you&nbsp;still&nbsp;wanna&nbsp;try&nbsp;to&nbsp;know&nbsp;<br>\n&nbsp;i&nbsp;wanna&nbsp;wanna&nbsp;go&nbsp;<br>\n&nbsp;you&nbsp;can't&nbsp;find&nbsp;me&nbsp;on&nbsp;another&nbsp;side&nbsp;<br>\n&nbsp;but&nbsp;that's&nbsp;alright&nbsp;<br>\n&nbsp;<br>\n&nbsp;it's&nbsp;nothing&nbsp;<br>\n&nbsp;why&nbsp;i&nbsp;got&nbsp;shitty&nbsp;feelings&nbsp;<br>\n&nbsp;and&nbsp;it&nbsp;always&nbsp;be&nbsp;",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 182110\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 182110\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "2804865",
+        "name": "虾米用户",
+        "motto": "此人必定改变世界。",
+        "link": "https://emumo.xiami.com/u/2804865",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/56/2804865_1410516885.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-07-29 21:53",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "中间几分钟都没声音，是故意的吗？ <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/403.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "404910330",
+        "name": "虾米用户",
+        "motto": "虾米就是最好的音乐APP",
+        "link": "https://emumo.xiami.com/u/404910330",
+        "photo_url": "https://pic.xiami.net/images/user/404910330/f4db5b52871a427ba7cd19038388e2af_2c4566f015f244a7b8d65bda25bae0d3.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-07-15 11:00",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "十年后辛爽拍了隐秘的角落 joyside也要上乐夏2了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1801026",
+        "name": "虾米用户",
+        "motto": "我的時代已經過去了",
+        "link": "https://emumo.xiami.com/u/1801026",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/36/1801026_1422489966.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-08-18 23:20",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "太爽了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "7828041",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/7828041",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/156/7828041_1419216111.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-10-28 00:19",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "hahahahaha",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "7726323",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/7726323",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/154/52/7726323/7726323_1326917233.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-06-03 16:59",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "操！！终于找到了！！忘了是他们的歌了！！特别喜欢这首",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "15681",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/15681",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/0/5a4b20b6e8426_15681_1514873014.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2009-10-03 15:18",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "同年 辛爽 李锦加入 这是Joyside的雏形<br><br>他们在清河过着每天都是操蛋的一天",
+      "replies": []
+    }
+  ]
+}

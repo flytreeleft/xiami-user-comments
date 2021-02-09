@@ -1,0 +1,22 @@
+{
+  "name": "红红的歌火火的唱",
+  "link": "https://emumo.xiami.com/song/8Gu1dq1b502",
+  "id": "1773992950",
+  "album_name": "桃花开了",
+  "singers": "庞龙",
+  "lyrics_by": [
+    "大平"
+  ],
+  "composed_by": [
+    "大平"
+  ],
+  "arranged_by": [
+    "金志文"
+  ],
+  "play_count_num": 262,
+  "share_count_num": 0,
+  "comments_num": 0,
+  "lyric": "鸟儿翩翩舞艳阳<br>\n听稻花香里青蛙歌唱<br>\n爸爸斟满一杯陈酿<br>\n和亲人共享幸福时光<br>\n一湾湖水吻月亮<br>\n看风摆荷叶蜻蜓点浪<br>\n谁家姑娘巧梳妆<br>\n那窗前玫瑰散着余香<br>\n红红的歌<br>\n火火的唱<br>\n让幸福在你心中荡漾<br>\n红红的歌<br>\n我们火火的唱<br>\n让快乐守在你身旁<br>\n红红的歌<br>\n火火的唱<br>\n让激情澎湃你的胸膛<br>\n红红的歌<br>\n我们火火的唱<br>\n让健康伴山高水长<br>\n一湾湖水吻月亮<br>\n看风摆荷叶蜻蜓点浪<br>\n谁家姑娘巧梳妆<br>\n那窗前玫瑰散着余香<br>\n红红的歌<br>\n火火的唱<br>\n让幸福在你心中荡漾<br>\n红红的歌<br>\n我们火火的唱<br>\n让快乐守在你身旁<br>\n红红的歌<br>\n火火的唱<br>\n让激情澎湃你的胸膛<br>\n红红的歌<br>\n我们火火的唱<br>\n让健康伴山高水长<br>\n红红的歌<br>\n火火的唱<br>\n让幸福在你心中荡漾<br>\n红红的歌<br>\n我们火火的唱<br>\n让快乐守在你身旁<br>\n红红的歌<br>\n火火的唱<br>\n让激情澎湃你的胸膛<br>\n红红的歌<br>\n我们火火的唱<br>\n让健康伴山高水长<br>\n让健康伴山高水长",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1773992950\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1773992950\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": []
+}

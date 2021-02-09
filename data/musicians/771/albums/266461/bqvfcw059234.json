@@ -1,0 +1,19 @@
+{
+  "name": "草原请你来做客",
+  "link": "https://emumo.xiami.com/song/bqvfcw059234",
+  "id": "1769864670",
+  "album_name": "庞龙专家班创作演唱专辑 I",
+  "singers": "韩雷",
+  "lyrics_by": [
+    "韩雷"
+  ],
+  "composed_by": [
+    "大升"
+  ],
+  "play_count_num": 17545,
+  "share_count_num": 2,
+  "comments_num": 0,
+  "lyric": "有一片神奇的土地<br>\n青青的草场 一望无际<br>\n悠扬的琴声诉说千年的记忆<br>\n翱翔的雄鹰眷恋这辽阔的美丽<br>\n有一份亲切的呼唤<br>\n轻声的呼唤远方的你<br>\n飘香的美酒斟满浓浓的情意<br>\n宽广的胸怀是牧人不变的真情<br>\n草原请你来做客<br>\n唱不尽的欢歌<br>\n奔放的舞步满载着祝福<br>\n让幸福与你共度<br>\n有一份亲切的呼唤<br>\n轻声的呼唤远方的你<br>\n飘香的美酒斟满浓浓的情意<br>\n宽广的胸怀是牧人不变的真情<br>\n草原请你来做客<br>\n唱不尽的欢歌<br>\n奔放的舞步满载着祝福<br>\n让幸福与你共度<br>\n嗨 呀咦吆 嗨<br>\n嗨 呀咦耶<br>\n嗨 呀咦耶<br>\n嗨 呀咦耶<br>\n草原请你来做客<br>\n唱不尽的欢歌<br>\n奔放的舞步满载着祝福<br>\n让幸福与你共度<br>\n草原请你来做客<br>\n唱不尽的欢歌<br>\n奔放的舞步满载着祝福<br>\n让幸福与你共度<br>\n这里是纯净圣洁的天堂<br>\n草原请你来做客",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1769864670\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1769864670\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": []
+}

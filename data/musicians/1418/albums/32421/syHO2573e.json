@@ -1,0 +1,183 @@
+{
+  "name": "ㄐ一ㄢ视 (Live)MV",
+  "link": "https://emumo.xiami.com/song/syHO2573e",
+  "id": "384876",
+  "album_name": "Happy Together 二零零三现场作品",
+  "singers": "陈珊妮",
+  "play_count_num": 7962,
+  "share_count_num": 19,
+  "comments_num": 12,
+  "lyric": "",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 384876\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 384876\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "1569233",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/1569233",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/31/1569233_1389865463.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-10-02 23:24",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "海康威视企业形象歌曲                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "5853535",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/5853535",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/117/5853535_1439782898.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-04-03 22:50",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这是什么文字                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": [
+        {
+          "author": {
+            "id": "13839428",
+            "name": "虾米用户",
+            "motto": "我还没想好要写什么...",
+            "link": "https://emumo.xiami.com/u/13839428",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/276/5f81864bdeb77_13839428_1602324043.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2019-05-21 16:34",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "注音，同jian，第一聲 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": {
+        "id": "10163803",
+        "name": "虾米用户",
+        "motto": "黑暗温柔，改变过我。",
+        "link": "https://emumo.xiami.com/u/10163803",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/203/10163803_1410756480.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-01-11 09:36",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "用你的眼袋                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "12985556",
+        "name": "虾米用户",
+        "motto": "暂无签名~",
+        "link": "https://emumo.xiami.com/u/12985556",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/259/12985556_1392436728.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-08-26 16:13",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "你看我的眼神<br>到底是什么颜色",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "2165725",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/2165725",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/43/2165725_1449202560.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-10-17 01:03",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "00",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "2165725",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/2165725",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/43/2165725_1449202560.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-10-17 00:53",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "00",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "13248908",
+        "name": "虾米用户",
+        "motto": "别叫我停下",
+        "link": "https://emumo.xiami.com/u/13248908",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/264/57ebea1603889_13248908_1475078678.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-05-04 15:52",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "你做你愛做的事，用你的眼袋。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "679277",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/679277",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/13/58/679277/679277_1305107737.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-09-13 00:27",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "发狂的寒冷的正午歇斯底里。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "2835783",
+        "name": "虾米用户",
+        "motto": "没关系",
+        "link": "https://emumo.xiami.com/u/2835783",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/56/2835783_1408287548.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-07-15 10:27",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "happy together",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1550022",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1550022",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-03-20 15:16",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "******",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "322359",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/322359",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/6/44/322359/322359_1305027856.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-03-20 14:56",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我要是唱这个是不是太挑衅了",
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "乱",
+  "link": "https://emumo.xiami.com/song/xL20jlc32bf",
+  "id": "1772316625",
+  "album_name": "真经典",
+  "singers": "麦洁文",
+  "lyrics_by": [
+    "小美"
+  ],
+  "composed_by": [
+    "徐日勤"
+  ],
+  "play_count_num": 1534,
+  "share_count_num": 3,
+  "comments_num": 1,
+  "lyric": "乱 夜里思绪太纷乱<br>\n仿似夜雨洒不断<br>\n苦痛回忆使我倦<br>\n乱 乱发跟雨也披面<br>\n仿似木偶线中断<br>\n只对寒风说怀念<br>\n风中倚着你胸<br>\n唇在颤抖心跳动<br>\n温馨的在抱拥 全被你打动<br>\n恨 恨我痴爱得荒谬<br>\n想你念你却依旧<br>\n早晚黄昏跟午后<br>\n愿 愿我思绪快中断<br>\n不再为你空思念<br>\n苦痛回忆太迷乱<br>\n当初握着你手 曾共晚星讲以后<br>\n星星闪像跳豆<br>\n其实似哭后<br>\n剩低了梦 令心隐痛<br>\n仍未惯没你入梦<br>\n急风吹仿似说哀求<br>\n期望会再聚如旧<br>\n但这个梦实早冰冻<br>\n全没法觅你入梦<br>\n伤心的伤心得快疯<br>\n哀哭声声声都扑空<br>\nMusic<br>\n～～<br>\nEnd",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1772316625\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1772316625\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "305394410",
+        "name": "虾米用户",
+        "motto": "No pains αnd...",
+        "link": "https://emumo.xiami.com/u/305394410",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/6107/5a48a79b7ff9b_305394410_b_w108h108.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-11-03 19:25",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "好听                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

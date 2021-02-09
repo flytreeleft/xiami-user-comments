@@ -1,0 +1,121 @@
+{
+  "name": "深宵三点",
+  "link": "https://emumo.xiami.com/song/iXmNa8987",
+  "id": "134213",
+  "album_name": "新曲与精选",
+  "singers": "麦洁文",
+  "lyrics_by": [
+    "林振强"
+  ],
+  "composed_by": [
+    "Bruce Brody",
+    "Sam Brown",
+    "Greg Sutton"
+  ],
+  "play_count_num": 2993,
+  "share_count_num": 7,
+  "comments_num": 7,
+  "lyric": "",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 134213\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 134213\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "305394410",
+        "name": "虾米用户",
+        "motto": "No pains αnd...",
+        "link": "https://emumo.xiami.com/u/305394410",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/6107/5a48a79b7ff9b_305394410_b_w108h108.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-08-07 12:59",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "好听                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "302041378",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/302041378",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1122341632_1496638456.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-06-25 12:06",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "很好                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "245316915",
+        "name": "虾米用户",
+        "motto": "港乐分享93122340...",
+        "link": "https://emumo.xiami.com/u/245316915",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/4906/5b17f0c8c187b_245316915_1528295624.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-05-09 13:17",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "钟意                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "61697170",
+        "name": "虾米用户",
+        "motto": "不了解一生太多音乐空旷",
+        "link": "https://emumo.xiami.com/u/61697170",
+        "photo_url": "https://pic.xiami.net/images/user/61697170/e2ef4d492a8a419fa67bd7e3cf73ce20_9123225de2b7464ca9713069048d2e14.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-03-07 21:17",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "经典好歌                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "279000",
+        "name": "虾米用户",
+        "motto": "改编歌曲挖掘机",
+        "link": "https://emumo.xiami.com/u/279000",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/5/58/279000/279000_1305014882.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-03-20 20:22",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "Sam Brown-- Stop",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "57120",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/57120",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1/14/57120/57120_1304948125.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2009-02-25 14:13",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "好听啊 经典！没试听~~",
+      "replies": [
+        {
+          "author": {
+            "id": "1489937",
+            "name": "虾米用户",
+            "motto": "",
+            "link": "https://emumo.xiami.com/u/1489937",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/29/79/1489937/1489937_1319763683.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2020-10-30 15:34",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "那时候没有人发布",
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

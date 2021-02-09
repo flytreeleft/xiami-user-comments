@@ -1,0 +1,137 @@
+{
+  "name": "谜语铜镜Riddle in the Bronze Mirrors",
+  "link": "https://emumo.xiami.com/song/8fOl42872",
+  "id": "125483",
+  "album_name": "迷路新娘",
+  "singers": "林笛",
+  "lyrics_by": [
+    "林笛"
+  ],
+  "composed_by": [
+    "林笛"
+  ],
+  "arranged_by": [
+    "林笛"
+  ],
+  "play_count_num": 6391,
+  "share_count_num": 21,
+  "comments_num": 8,
+  "lyric": "作曲 : 林笛<br>\n作词 : 林笛<br>\n对面头戴花冠的新娘 幸福就象那鲜花一样<br>\n肩上披着红霞的新娘 命运也会落在你肩上<br>\n手上的戒指闪闪亮 爱人却在迷雾山上<br>\n脚上的银铃叮叮当 跟着风行走在沙上<br>\n穿上绫罗绸缎的新娘 是否觉得身上有些凉<br>\n插上金银发簪的新娘 是否留恋青涩的模样<br>\n胸前的宝石闪闪亮 爱人却在战乱之乡<br>\n窗外的白云千般样 想家时候就看天上",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 125483\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 125483\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "335433933",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/335433933",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/6708/5a6b3117c7198_335433933_b_w216h216.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-05-04 17:38",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "一直听，听了好几年。                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "358696915",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/358696915",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-10-20 09:13",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "******                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": [
+        {
+          "author": {
+            "id": "322235515",
+            "name": "虾米用户",
+            "motto": "在音乐里澎湃，在玩笑里开...",
+            "link": "https://emumo.xiami.com/u/322235515",
+            "photo_url": "https://pic.xiami.net/images/user/322235515/8911fa73942f4858b1a4f52e2d780d7b_2b428882992c41099fd21aa806e0776c.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2019-02-16 23:31",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "功力不够，哥。这砖你听个十遍，再来说。我觉得每一首都美不胜收！我发现宝了。 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": {
+        "id": "39004226",
+        "name": "虾米用户",
+        "motto": "嘘 这是环形废墟的隐秘汇...",
+        "link": "https://emumo.xiami.com/u/39004226",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/780/5fc6912907f90_39004226_1606848809.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-09-25 18:09",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "。                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "7842116",
+        "name": "虾米用户",
+        "motto": "我早已失魂落魄",
+        "link": "https://emumo.xiami.com/u/7842116",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/156/5954d6c82709c_7842116_1498732232.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-02-02 09:10",
+      "ageree_num": 4,
+      "disageree_num": 0,
+      "brief": "四年之后重新听",
+      "replies": [
+        {
+          "author": {
+            "id": "214317511",
+            "name": "虾米用户",
+            "motto": "",
+            "link": "https://emumo.xiami.com/u/214317511",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/4286/5a756413a1d53_214317511_b_w108h108.png@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2018-02-03 15:32",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "四年了 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+          "replies": []
+        },
+        {
+          "author": {
+            "id": "252879264",
+            "name": "虾米用户",
+            "motto": "努力活自己吧！！",
+            "link": "https://emumo.xiami.com/u/252879264",
+            "photo_url": "https://pic.xiami.net/images/user/252879264/ce372b175f2841af9b058ea8326f14fc_216e12a9f4ac498da36803e9284b17dc.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2019-07-28 02:33",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "快回来听听。 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+          "replies": []
+        },
+        {
+          "author": {
+            "id": "7842116",
+            "name": "虾米用户",
+            "motto": "我早已失魂落魄",
+            "link": "https://emumo.xiami.com/u/7842116",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/156/5954d6c82709c_7842116_1498732232.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2019-07-28 20:25",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "<q><b>喂鱼使我快乐说：</b></q>",
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

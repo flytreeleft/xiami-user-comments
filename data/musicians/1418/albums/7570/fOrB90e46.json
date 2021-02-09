@@ -1,0 +1,146 @@
+{
+  "name": "极限",
+  "link": "https://emumo.xiami.com/song/fOrB90e46",
+  "id": "384931",
+  "album_name": "后来 我们都哭了",
+  "singers": "陈珊妮",
+  "lyrics_by": [
+    "珊妮"
+  ],
+  "composed_by": [
+    "陈珊妮"
+  ],
+  "play_count_num": 18827,
+  "share_count_num": 31,
+  "comments_num": 8,
+  "lyric": "极限<br>\n词曲：作词：陈珊妮　作曲：陈珊妮　编曲：李雨寰　男声：李雨寰 　<br>\n越想容忍你的沉默　越是惹得你的沉默闯了祸<br>\n越想倾听你的要求　越是宁愿放纵我的耳朵<br>\n就白白的浪费着烧完了我们的火花<br>\n就凭空的虚度了剩下的一点光阴<br>\n爱与恨之间　没有极限<br>\n你和我之间　没有极限<br>\n要怎么抱紧你啊？<br>\n热恋的试探　没有极限<br>\n痴情的清耗　没有极限<br>\n要怎么抱紧你啊？<br>\n要怎么抱紧你啊？<br>\n越想躺在你的胸口　越担心禁不起一夜感动<br>\n越想陪你一生时空　越贪恋陌生人一刻诱惑<br>\n越想抱紧你一秒钟　我总是有极限<br>\n越想抱紧你一辈子　我总有极限　总有极限…<br>\n虾米网www.xiami.com",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 384931\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 384931\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "6512547",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/6512547",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/130/25/6512547/6512547_1319952226.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-10-27 23:55",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "越想躺在你的胸口，越担心禁不起一夜感动。越想陪你一生时空，越贪恋陌生人一刻诱惑。就白白地浪费着烧完了我们的火花，就凭空地虚度了剩下的一点光阴。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "780411",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/780411",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/15/5eae8a77edaf6_780411_1588497015.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-11-11 16:41",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "废了一下午脑细胞，终于想起这首歌得歌名了！！",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1556500",
+        "name": "虾米用户",
+        "motto": "暂无签名~",
+        "link": "https://emumo.xiami.com/u/1556500",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/31/1556500_1412688889.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-11-03 11:46",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "真是把空虚写到极致了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "57986",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/57986",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1/15/57986/57986_1309858639.gif@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-06-16 19:47",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这是我听的陈珊妮第一首歌，到现在也是最喜欢的一首……实在不喜欢去年出的那张",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "17020623",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/17020623",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/340/41/17020623/170206231373346780.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-07-13 10:07",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "（补回昨天：每日一曲）就白白的浪费着烧完的我们火花",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "8510941",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/8510941",
+        "photo_url": "https://pic.xiami.net/images/avatar/41/8510941/85109411332215657.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-05-17 07:58",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "越想容忍你的沉默，越是惹得你的沉默闯了祸。越想倾听你的要求，越是宁愿放纵我的耳朵。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1890783",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1890783",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/37/81/1890783/1890783_1305946929.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-03-03 02:19",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "就白白的浪费着烧完了我们的火花",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "7732024",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/7732024",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/154/64/7732024/7732024_1326964073.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-01-24 11:52",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "2119363",
+        "name": "虾米用户",
+        "motto": "喂！",
+        "link": "https://emumo.xiami.com/u/2119363",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/42/2119363_1518439272.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-10-29 20:15",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "要怎么抱紧你啊？",
+      "replies": []
+    }
+  ]
+}

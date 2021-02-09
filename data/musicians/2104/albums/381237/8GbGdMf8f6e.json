@@ -1,0 +1,77 @@
+{
+  "name": "Inspiration (Giant Swing Mix)",
+  "link": "https://emumo.xiami.com/song/8GbGdMf8f6e",
+  "id": "1769522410",
+  "album_name": "Inspiration",
+  "singers": "顺子",
+  "lyrics_by": [
+    "顺子"
+  ],
+  "composed_by": [
+    "顺子",
+    "王继康"
+  ],
+  "play_count_num": 2349,
+  "share_count_num": 4,
+  "comments_num": 4,
+  "lyric": "",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1769522410\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1769522410\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "75947132",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/75947132",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1518/5bc1ea6ead450_75947132_1539435118.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-04-15 00:17",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "☁️                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "41595666",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/41595666",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/831/600ff8693f47d_41595666_1611659369.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-03-04 12:45",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "339673076",
+        "name": "虾米用户",
+        "motto": "love myself",
+        "link": "https://emumo.xiami.com/u/339673076",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/6793/5cd5381a5d0e2_339673076_1557477402.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-03-03 01:18",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "308673405",
+        "name": "虾米用户",
+        "motto": "这家伙很懒什么也没留下....",
+        "link": "https://emumo.xiami.com/u/308673405",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/6173/5abb811389366_308673405_1522237715.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-02-13 02:50",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/424.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    }
+  ]
+}

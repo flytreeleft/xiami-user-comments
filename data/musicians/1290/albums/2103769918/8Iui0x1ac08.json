@@ -1,0 +1,91 @@
+{
+  "name": "偶像 (艺术家中的艺术家)",
+  "link": "https://emumo.xiami.com/song/8Iui0x1ac08",
+  "id": "1803474019",
+  "album_name": "艺术家中的艺术家",
+  "singers": "左小祖咒",
+  "lyrics_by": [
+    "左小祖咒"
+  ],
+  "composed_by": [
+    "左小祖咒",
+    "陈伟伦"
+  ],
+  "play_count_num": 2923,
+  "share_count_num": 25,
+  "comments_num": 5,
+  "lyric": "[ti:偶像]<br>\n[ar:左小祖咒]<br>\n[al:֪6һ]<br>\n[ly:左小祖咒]<br>\n[mu:左小祖咒 / 陈伟伦]<br>\n[ma:左小祖咒]<br>\n[pu:]<br>\n[by:ttpod]<br>\n[total:335647]<br>\n[offset:0]<br>\n[00:00.191]偶像 - 左小祖咒<br>\n[00:01.093]作词：左小祖咒<br>\n[00:01.993]作曲：左小祖咒 / 陈伟伦<br>\n[00:03.395]编曲：左小祖咒<br>\n[00:04.334]制作人：左小祖咒 / 方无行<br>\n[00:06.054]木吉他 / 主音吉他 / 节奏吉他：李延亮<br>\n[00:08.505]节奏吉他：左小祖咒<br>\n[00:09.806]贝斯：李九君<br>\n[00:10.657]鼓：关菲<br>\n[00:11.258]剪辑 / 键盘：陈伟伦<br>\n[00:12.608]开头的键盘：郭大纲<br>\n[00:13.960]混音工程师：李士先<br>\n[00:15.461]<br>\n[00:19.411]我是谁我信仰什么<br>\n[00:24.016]我暗暗地哭过<br>\n[00:28.380]昨夜我情不自禁地唱了很久<br>\n[00:33.634]噢 太阳升起来了<br>\n[00:38.636]无尽的天空<br>\n[00:41.072]无尽的天空<br>\n[00:48.188]没有人听见天使<br>\n[00:51.540]在说了什么<br>\n[00:56.645]<br>\n[01:07.256]我感到冷<br>\n[01:09.857]感到受冻<br>\n[01:12.210]眼睛一直痒痒<br>\n[01:14.263]找不到原由<br>\n[01:16.714]我甚至感到肿瘤<br>\n[01:19.193]但这是我的错<br>\n[01:26.596]她的笑容打动不了我的心<br>\n[01:36.203]她的吻也不会让我心醉<br>\n[01:45.880]总之你不仅仅是个慷慨的人<br>\n[01:55.346]总之你是像传说一样<br>\n[02:00.097]让我爱又让我妒忌的人<br>\n[02:07.431]你把讥讽看作爱<br>\n[02:12.190]说你来还钱是上次偷了他的<br>\n[02:21.848]并说那样做是解决不了问题的<br>\n[02:26.555]那是解决不了根本问题的<br>\n[02:34.264]<br>\n[02:52.867]我自言自语太久<br>\n[02:55.419]怕我要死了<br>\n[02:57.523]我一直都没有说<br>\n[03:02.579]这个问题困扰着我<br>\n[03:07.134]但这是我的错<br>\n[03:12.185]我怕说出所有的人都笑话我<br>\n[03:21.797]这个问题一直困绕着我<br>\n[03:30.753]<br>\n[03:50.442]我感到晕<br>\n[03:53.044]感到下坠<br>\n[03:55.445]头脑发木<br>\n[03:57.799]飘散在空中<br>\n[04:00.213]甚至感到秃鹫的嘴<br>\n[04:02.968]在我身上叨叨<br>\n[04:09.868]叶片窸窣 微风轻拂<br>\n[04:19.425]木炭等着渐渐燃烧<br>\n[04:29.080]总之你不同于墙倒众人推的那种人<br>\n[04:38.645]总之你不同于撕掉游客身份<br>\n[04:44.851]说他们是外星人<br>\n[04:50.609]你还劝说他们不用去<br>\n[04:55.260]烧红烙铁把号码烙在胸口<br>\n[05:02.668]那样做是解决不了问题的<br>\n[05:07.695]那是解决不了根本问题的<br>\n[05:12.197]那是解决不了问题的<br>\n[05:16.315]那是解决不了根本问题的",
+  "lyric_extra": "<p>文本歌词最后由 <a target=\"_blank\" href=\"/u/56071981\">左小祖咒</a> 编辑于2020-06-24 16:44</p>\n                                                                                        <p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1803474019\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1803474019\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "17001998",
+        "name": "虾米用户",
+        "motto": "虾米像一道闪电，雷到了，...",
+        "link": "https://emumo.xiami.com/u/17001998",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/340/17001998_1430810279.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-09-10 09:07",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我欣赏的来，还想喉两嗓子，结果被老婆骂了！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "29285843",
+        "name": "虾米用户",
+        "motto": "潜鱼水底传心诀，栖鸟枝头...",
+        "link": "https://emumo.xiami.com/u/29285843",
+        "photo_url": "https://pic.xiami.net/images/user/29285843/79d4c578dc004e239dc7448f683f1d72_39e3fce084154ca0a37e7903cda1ba95.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-09-10 01:25",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "左小这编曲魔性，牛逼                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "123246788",
+        "name": "虾米用户",
+        "motto": "Music is my ...",
+        "link": "https://emumo.xiami.com/u/123246788",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/2464/591874056c09b_123246788_1494774789.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-07-10 19:20",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "窦唯！[带墨镜笑]                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "36957952",
+        "name": "虾米用户",
+        "motto": "暂无签名~",
+        "link": "https://emumo.xiami.com/u/36957952",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/739/36957952_1408979472.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-07-09 03:36",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/400.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "346087991",
+        "name": "虾米用户",
+        "motto": "医路漫漫 音乐为伴",
+        "link": "https://emumo.xiami.com/u/346087991",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/40539571_1516718871.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-07-09 00:33",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/437.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

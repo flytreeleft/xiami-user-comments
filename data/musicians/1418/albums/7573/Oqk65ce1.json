@@ -1,0 +1,146 @@
+{
+  "name": "6月29日",
+  "link": "https://emumo.xiami.com/song/Oqk65ce1",
+  "id": "93202",
+  "album_name": "2001现场作品限量版",
+  "singers": "陈珊妮",
+  "lyrics_by": [
+    "陈珊妮"
+  ],
+  "composed_by": [
+    "陈珊妮"
+  ],
+  "play_count_num": 3762,
+  "share_count_num": 12,
+  "comments_num": 9,
+  "lyric": "",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 93202\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 93202\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "250825",
+        "name": "虾米用户",
+        "motto": "半调子一个",
+        "link": "https://emumo.xiami.com/u/250825",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/5/250825_1489473005.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-06-29 07:41",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "今天                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "48153990",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/48153990",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/963/551abac5ecb81_48153990_1427815109.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-06-29 14:47",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "today                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "4306305",
+        "name": "虾米用户",
+        "motto": "你听过千百首歌",
+        "link": "https://emumo.xiami.com/u/4306305",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/86/5a6c972231271_4306305_1517066018.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-12-16 00:02",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "奇怪，先是听了生日快乐，又听了六月二十九日，又听了越洋电话，这连起来，最终变成了在六月二十九日越洋电话生日快乐。 这个巧合我服，这些歌都是我第一次听，我服。好吧，十二月十六号了，生日快乐。                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "36761455",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/36761455",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/735/36761455_1400417929.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-06-29 00:12",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "某人生日快乐！",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "8879031",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/8879031",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-06-29 01:12",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "6月29日送给今天.",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "94669",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/94669",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1/89/94669/94669_1304959384.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-06-29 23:25",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "live版",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3274359",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/3274359",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/65/5d58c6725d87c_3274359_1566099058.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-12-14 21:59",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "所以今年我决定不再打电话给你<br>不想祝你生日快乐<br>因为我要努力长大<br>首先要改掉坏习惯<br>包括在深夜打电话给你<br>给你的冷漠再多一些，就找回自己再多一点",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1356563",
+        "name": "虾米用户",
+        "motto": "突然悲しくなるのは何故",
+        "link": "https://emumo.xiami.com/u/1356563",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/27/56abcaa24e9b8_1356563_1454099106.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-11-22 19:05",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "竟然有一首歌唱的是我破壳日那天...QAQ马克之...",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1356563",
+        "name": "虾米用户",
+        "motto": "突然悲しくなるのは何故",
+        "link": "https://emumo.xiami.com/u/1356563",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/27/56abcaa24e9b8_1356563_1454099106.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-11-22 19:02",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "6月29日生日的人路过....",
+      "replies": []
+    }
+  ]
+}

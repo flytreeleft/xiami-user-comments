@@ -1,0 +1,42 @@
+{
+  "name": "关河令underground liveGuan He Song",
+  "link": "https://emumo.xiami.com/song/xLDdK69914d",
+  "id": "1774852136",
+  "album_name": "这小小的葡萄我从来没吃过 Live",
+  "singers": "左小祖咒",
+  "play_count_num": 2175,
+  "share_count_num": 2,
+  "comments_num": 2,
+  "lyric": "[ti:关河令 (Live)]<br>\n[ar:左小祖咒]<br>\n[al:左小祖咒 2010-2013北京现场]<br>\n[by:]<br>\n[offset:0]<br>\n[00:00.00]关河令 (Live) - 左小祖咒<br>\n[00:00.82]作词：左小祖咒<br>\n[00:01.04]作曲：左小祖咒<br>\n[00:02.07]<br>\n[00:27.54]把你的三项插头<br>\n[00:31.58]<br>\n[00:32.57]插在我口里<br>\n[00:36.59]<br>\n[00:39.43]亲爱的 你能感到<br>\n[00:43.44]<br>\n[00:44.66]我的心跳加速<br>\n[00:49.46]<br>\n[00:51.43]就像上个月天空下<br>\n[01:00.30]过一场大雨<br>\n[01:02.52]<br>\n[01:03.57]你在小雨的夜给<br>\n[01:09.33]我打来一个电话<br>\n[01:12.71]<br>\n[01:27.69]说的第一句话 你疤裂啦<br>\n[01:37.20]<br>\n[01:39.72]接着你说已感到我的葵花<br>\n[01:46.70]<br>\n[01:48.92]面向你面向你这颗<br>\n[01:55.94]太阳在蓬勃发展<br>\n[02:01.64]<br>\n[02:03.43]在衷心地治疗着你的干燥<br>\n[02:13.61]<br>\n[02:39.79]让我潮湿的心紧靠着你<br>\n[02:49.42]<br>\n[02:51.80]让我唱支悲哀的歌解毒<br>\n[03:01.19]<br>\n[03:03.83]让我缀泣的泪水<br>\n[03:07.92]<br>\n[03:08.62]变成你的饮水<br>\n[03:13.17]<br>\n[03:15.75]灌溉向日葵拖着<br>\n[03:21.43]线飘起风筝<br>\n[03:25.64]<br>\n[03:27.71]和着我秋天的歌<br>\n[03:31.46]<br>\n[03:33.83]疗化你的干燥<br>\n[03:37.24]<br>\n[03:38.79]我唱着悲哀的歌点燃着蜡烛<br>\n[03:49.16]<br>\n[03:50.72]我唱着悲哀的歌伴随你的笑<br>\n[04:00.80]<br>\n[04:02.66]我唱着悲哀的歌<br>\n[04:07.15]<br>\n[04:09.75]搂着干燥的木料",
+  "lyric_extra": "<p>文本歌词最后由 <a target=\"_blank\" href=\"/u/56071981\">左小祖咒</a> 编辑于2020-08-07 11:49</p>\n                                            <p>LRC歌词最后由 <a target=\"_blank\" href=\"/u/56071981\">左小祖咒</a> 编辑于2020-06-23 13:35</p>\n                                                                          <p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1774852136\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1774852136\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "8439",
+        "name": "虾米用户",
+        "motto": "和着我秋天的歌疗化你的干...",
+        "link": "https://emumo.xiami.com/u/8439",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/0/16/8439/8439_1304933528.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-07-19 11:03",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "哎哟  歌词好隐晦呀  纯洁的你看懂了吗                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "426960728",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/426960728",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-06-27 02:20",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "惊艳！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    }
+  ]
+}

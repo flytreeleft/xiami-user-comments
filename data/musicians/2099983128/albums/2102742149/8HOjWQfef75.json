@@ -1,0 +1,90 @@
+{
+  "name": "愿做菩萨那朵莲",
+  "link": "https://emumo.xiami.com/song/8HOjWQfef75",
+  "id": "1795853380",
+  "album_name": "站在草原唱情歌2017",
+  "singers": "梅朵",
+  "lyrics_by": [
+    "马双云"
+  ],
+  "composed_by": [
+    "路勇"
+  ],
+  "play_count_num": 23376,
+  "share_count_num": 77,
+  "comments_num": 5,
+  "lyric": "愿做菩萨那朵莲<br>\n修炼心法永无杂念<br>\n花开花落在你身边<br>\n做前世今生的水莲<br>\n善因结善缘<br>\n慈悲大无边<br>\n宽阔的胸怀<br>\n动感天地间<br>\n斩断尘世缘<br>\n烦恼丢一边<br>\n跪拜在佛前<br>\n常常把经念<br>\n愿做菩萨那朵莲<br>\n修炼心法开的娇艳<br>\n那河水声荡在心间<br>\n有如歌声般那迷恋<br>\n愿做菩萨那朵莲<br>\n修炼心法永无杂念<br>\n花开花落在你身边<br>\n做前世今生的水莲<br>\n<br>\n善因结善缘<br>\n慈悲大无边<br>\n宽阔的胸怀<br>\n动感天地间<br>\n斩断尘世缘<br>\n烦恼丢一边<br>\n跪拜在佛前<br>\n常常把经念<br>\n愿做菩萨那朵莲<br>\n修炼心法开的娇艳<br>\n那河水声荡在心间<br>\n有如歌声般那迷恋<br>\n愿做菩萨那朵莲<br>\n修炼心法永无杂念<br>\n花开花落在你身边<br>\n做前世今生的水莲<br>\n愿做菩萨那朵莲<br>\n修炼心法开的娇艳<br>\n那河水声荡在心间<br>\n有如歌声般那迷恋",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1795853380\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1795853380\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "313196482",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/313196482",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/6263/597d52410f368_313196482_b_w162h162_face_w162h162_x63y60w56h74c1.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-05-23 01:31",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/443.png\"> <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/443.png\"> <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/443.png\"> <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/443.png\"> <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/443.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "319859433",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/319859433",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1816806603_1502940439.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-05-04 17:22",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "太好听了，单曲循环 <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/401.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "28108371",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/28108371",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/562/5ab1a62f0ed18_28108371_1521591855.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-02-24 01:48",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "细听了几遍，这个版本的编曲换了风格，笛声悠扬                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "327463308",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/327463308",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/892524187_1506723661.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-11-16 12:03",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "能让浮燥的心静下来。                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "26068572",
+        "name": "虾米用户",
+        "motto": "离开喧嚣，持一隅清静之地...",
+        "link": "https://emumo.xiami.com/u/26068572",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/521/260685721383554954.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-08-15 22:59",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "阿弥吒佛，莲心净空。                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

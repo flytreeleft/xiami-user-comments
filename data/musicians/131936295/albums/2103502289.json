@@ -1,0 +1,65 @@
+{
+  "id": "2103502289",
+  "link": "https://emumo.xiami.com/album/2103502289",
+  "name": "粉色少女",
+  "photo_url": "https://pic.xiami.net/images/album/img95/131936295/9864831516986484.jpg@4e_1c_100Q_185w_185h",
+  "artist_name": "权小康",
+  "languages": [
+    "国语"
+  ],
+  "companies": [
+    "独立发行"
+  ],
+  "published_date": [
+    "2018年01月27日"
+  ],
+  "categories": [
+    "EP",
+    "单曲"
+  ],
+  "styles": [
+    "流行 Pop",
+    "电音流行 Electropop",
+    "国语流行 Mandarin Pop"
+  ],
+  "play_count_num": 2897,
+  "favorite_count_num": 5,
+  "comments_num": 2,
+  "intro": "<p> 最新单曲专辑《粉丝少女》。</p>",
+  "songs": [
+    {
+      "name": "粉红少女",
+      "link": "https://emumo.xiami.com/song/xN1oVD9d48b"
+    }
+  ],
+  "comments": [
+    {
+      "author": {
+        "id": "336650155",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/336650155",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1458380644_1511281120.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-02-05 02:11",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "康康 <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/405.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "347130426",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/347130426",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-02-02 10:13",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "好听哟！ <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/406.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

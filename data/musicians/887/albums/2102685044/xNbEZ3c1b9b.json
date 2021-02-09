@@ -1,0 +1,90 @@
+{
+  "name": "城市之光 (2017新版)",
+  "link": "https://emumo.xiami.com/song/xNbEZ3c1b9b",
+  "id": "1795491499",
+  "album_name": "汪峰2017经典歌曲新编精选集",
+  "singers": "汪峰",
+  "lyrics_by": [
+    "汪峰"
+  ],
+  "composed_by": [
+    "汪峰"
+  ],
+  "play_count_num": 27697,
+  "share_count_num": 17,
+  "comments_num": 5,
+  "lyric": "子夜时分我们都奔向极地<br>\n为了那些威士忌般的爱人<br>\n破碎的电音如同神的呢喃<br>\n燃烧的牛仔好似梦的子弹<br>\n城市之光啊<br>\n你总是如此耀眼<br>\n我们却在其间<br>\n精神褴褛默默蹒跚<br>\n城市之光啊<br>\n你总是如此灿烂<br>\n我们却在其间<br>\n茫然若失失落成行<br>\n城市之光<br>\n城市之光<br>\n<br>\n人们从不掩饰不安的渴望<br>\n购买着生命中璀璨的荒凉<br>\n虚空的霓虹和超载的欲望<br>\n填满了圣徒般卑微的胸膛<br>\n城市之光啊<br>\n你总是如此耀眼<br>\n我们却在其间<br>\n精神褴褛默默蹒跚<br>\n城市之光啊<br>\n你总是如此灿烂<br>\n我们却在其间<br>\n茫然若失失落成行<br>\n城市之光<br>\n城市之光<br>\n城市之光<br>\n城市之光<br>\n<br>\n总有一天我们失落到疯狂<br>\n黄色的脸刻着红色的悲伤<br>\n当救赎的钟声从墙外传来<br>\n这无奈与泪水将何处安放<br>\n城市之光啊<br>\n你总是如此耀眼<br>\n我们却在其间<br>\n精神褴褛默默蹒跚<br>\n城市之光啊<br>\n你总是如此灿烂<br>\n我们却在其间<br>\n茫然若失失落成行<br>\n城市之光<br>\n城市之光<br>\n城市之光<br>\n城市之光",
+  "lyric_extra": "<p>文本歌词最后由 <a target=\"_blank\" href=\"/u/38918617\">方小猪Kellen</a> 编辑于2020-07-13 14:22</p>\n                                                                                        <p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1795491499\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1795491499\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "213697462",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/213697462",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/4273/5c46010534379_213697462_1548091653.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-06-21 23:44",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/450.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "64557112",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/64557112",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1291/645571121442190864.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-05-22 17:16",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "喜欢汪峰                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "291683551",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/291683551",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1948275502_1493217188.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-04-27 18:37",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/427.png\"> <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/427.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "220743856",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/220743856",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-02-09 13:10",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "好好的一首歌，这搞得D厅串烧一样                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "213326057",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/213326057",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/4266/57b1a520d880b_213326057_1471259936.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-02-04 13:49",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这首重新编曲毁了。。。                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

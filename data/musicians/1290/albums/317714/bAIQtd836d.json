@@ -1,0 +1,175 @@
+{
+  "name": "六枝花Six Flowers",
+  "link": "https://emumo.xiami.com/song/bAIQtd836d",
+  "id": "3528523",
+  "album_name": "走失的主人",
+  "singers": "左小祖咒",
+  "lyrics_by": [
+    "左小祖咒"
+  ],
+  "composed_by": [
+    "左小祖咒"
+  ],
+  "play_count_num": 10015,
+  "share_count_num": 42,
+  "comments_num": 11,
+  "lyric": "[ti:六枝花]<br>\n[ar:左小祖咒]<br>\n[al:走失的主人]<br>\n[ly:]<br>\n[mu:]<br>\n[ma:]<br>\n[pu:]<br>\n[by:ttpod]<br>\n[total:312973]<br>\n[offset:0]<br>\n[00:00.001]六枝花 - 左小祖咒<br>\n[00:01.523]<br>\n[00:17.723]你道出一条线索<br>\n[00:28.078]蛆是苍蝇的祖宗<br>\n[00:36.030]蚂蚁是蛆的丧钟<br>\n[00:43.930]苍蝇是蚂蚁鳏夫<br>\n[00:51.616]<br>\n[01:02.822]苍蝇 蚂蚁 蛆<br>\n[01:10.778]谁是谁的丧钟<br>\n[01:18.530]谁死谁手中<br>\n[01:26.623]他们吓得哆嗦<br>\n[01:34.879]<br>\n[01:53.455]你理出一个谬论<br>\n[02:03.983]酒是瓶子脉搏<br>\n[02:12.026]肛门由瓶子制造<br>\n[02:20.233]瓶子 肛门是难友<br>\n[02:38.691]瓶子 肛门 酒<br>\n[02:46.743]谁是谁的朋友<br>\n[02:54.598]谁会死在谁手<br>\n[03:02.698]不要留下活口<br>\n[03:10.551]不要弄坏瓶口<br>\n[03:18.553]苍蝇 蚂蚁 蛆<br>\n[03:32.119]瓶子 肛门 酒<br>\n[03:45.281]苍蝇 蚂蚁 蛆<br>\n[03:58.584]瓶子 肛门 酒<br>\n[04:11.912]苍蝇 蚂蚁 蛆<br>\n[04:25.475]瓶子 肛门 酒",
+  "lyric_extra": "<p>文本歌词最后由 <a target=\"_blank\" href=\"/u/56071981\">左小祖咒</a> 编辑于2020-06-24 11:36</p>\n                                                                                        <p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 3528523\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 3528523\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "6088217",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/6088217",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-03-29 00:11",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "更喜彼时～                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "309621719",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/309621719",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-08-29 17:50",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "有毒                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "6688315",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/6688315",
+        "photo_url": "https://pic.xiami.net/images/avatar/15/6688315/66883151320757039.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-06-09 01:51",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "极度重口味的视觉意象。左小好像在访谈里提过，是取材于当年东村搞行为艺术那一群人的",
+      "replies": [
+        {
+          "author": {
+            "id": "48084409",
+            "name": "虾米用户",
+            "motto": "我还没想好要写什么..",
+            "link": "https://emumo.xiami.com/u/48084409",
+            "photo_url": "https://pic.xiami.net/images/user/48084409/1618625b20644968b1620753c53e4b1f_cfd3dd3b7d394af4bc49db5124d7a915.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2018-01-04 20:23",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "行为艺术家马六明的一次惊世骇俗的行为艺术",
+          "replies": []
+        },
+        {
+          "author": {
+            "id": "6688315",
+            "name": "虾米用户",
+            "motto": "",
+            "link": "https://emumo.xiami.com/u/6688315",
+            "photo_url": "https://pic.xiami.net/images/avatar/15/6688315/66883151320757039.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2018-01-04 21:58",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "<q><b>山和水99说：</b></q>",
+          "replies": []
+        },
+        {
+          "author": {
+            "id": "48084409",
+            "name": "虾米用户",
+            "motto": "我还没想好要写什么..",
+            "link": "https://emumo.xiami.com/u/48084409",
+            "photo_url": "https://pic.xiami.net/images/user/48084409/1618625b20644968b1620753c53e4b1f_cfd3dd3b7d394af4bc49db5124d7a915.jpg@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2018-01-04 22:37",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "<q><b>Tokugawa说：</b></q>",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": {
+        "id": "43153617",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/43153617",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/863/5f0761d86a028_43153617_1594319320.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-11-18 11:47",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "+",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "11909181",
+        "name": "虾米用户",
+        "motto": "怎么听音乐？",
+        "link": "https://emumo.xiami.com/u/11909181",
+        "photo_url": "https://pic.xiami.net/images/avatar/81/11909181/119091811355372874.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-09-27 12:09",
+      "ageree_num": 3,
+      "disageree_num": 0,
+      "brief": "九十年代的歌，也不知道父辈们能欣赏不！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "49599389",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/49599389",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/991/495993891430045270.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-05-25 08:38",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "太美味了 <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/405.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "389112",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/389112",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/7/78/389112/389112_1305047907.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2009-09-27 12:07",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "谁能讲讲这首歌歌词的含义？感觉很诡异，尤其是结合音乐一起品味",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "66139",
+        "name": "虾米用户",
+        "motto": "我们病了。。。",
+        "link": "https://emumo.xiami.com/u/66139",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1/32/66139/66139_1304950827.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2009-03-05 13:27",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "“一个追求无限完美的人，一个高尚的人。”<br>要是所有音乐人都像祖大学习，那，我们的耳朵有福了。",
+      "replies": []
+    }
+  ]
+}

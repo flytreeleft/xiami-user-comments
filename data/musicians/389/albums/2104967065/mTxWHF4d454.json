@@ -1,0 +1,28 @@
+{
+  "name": "My Love",
+  "link": "https://emumo.xiami.com/song/mTxWHF4d454",
+  "id": "1811999667",
+  "album_name": "幸福指南编辑部",
+  "singers": "品冠",
+  "play_count_num": 593,
+  "share_count_num": 1,
+  "comments_num": 1,
+  "lyric": "制作人：郑楠@SBMS Beijing<br>\n录音师：汝文博@SBMS Beijing<br>\n配唱制作人：郑楠<br>\n和声：郑楠<br>\n和声编写：郑楠<br>\n吉他：郭一凡 / 郑楠<br>\n鼓：贝贝<br>\n鼓录音：李杨@55TEC / 李游@55TEC<br>\n人声编辑：汝文博@SBMS Beijing<br>\n混音师：赵靖@SBMS Beijing<br>\n录音：SBMS Beijing<br>\n混音室：SBMS Beijing<br>\nA&amp;R：王瑜Fish Wong<br>\n后期母带处理工程师：Gene Grimaldi<br>\n后期母带处理录音室：OASIS Mastering Studio(Los Angeles)<br>\nOP：好撑音乐有限公司 FULL MUSIC LTD.<br>\nSP：PEERUSIC (TAIWAN) LTD.<br>\n<br>\n睁开眼第一件事情<br>\n脑袋装的全都是你<br>\nMy love my love<br>\n新的意义<br>\n不需要再多做怀疑<br>\n心中确定那就是你<br>\nMy love my love<br>\n我属于你<br>\n从没后悔爱上你<br>\n踏上彼此的约定<br>\n让这种幸福继续下去<br>\n总问我有多爱你<br>\n藏心里的小秘密<br>\n答案是一辈子不分离<br>\nMy love my love<br>\nMy love<br>\nMy love my love<br>\nMy love<br>\n怎么突然变得安静<br>\n无法停止地想念你<br>\nMy love my love<br>\n我的唯一<br>\n不需要再多做怀疑<br>\n心中确定那就是你<br>\nMy love my love<br>\n我属于你<br>\n从没后悔爱上你<br>\n踏上彼此的约定<br>\n让这种幸福继续下去<br>\n总问我有多爱你<br>\n藏心里的小秘密<br>\n答案是一辈子不分离<br>\nMy love my love<br>\nMy love<br>\nMy love my love<br>\n左手牵右手<br>\n踩着相同步伐前进<br>\n躺在你怀里<br>\n无可取代的温度<br>\n无法控制的自己<br>\n从没后悔爱上你<br>\n踏上彼此的约定<br>\n让这种幸福继续下去<br>\n总问我有多爱你<br>\n藏心里的小秘密<br>\n答案是一辈子不分离<br>\n答案是一辈子不分离",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1811999667\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1811999667\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "52528267",
+        "name": "虾米用户",
+        "motto": "仙女下凡，打怪升级",
+        "link": "https://emumo.xiami.com/u/52528267",
+        "photo_url": "https://pic.xiami.net/images/user/52528267/6276ecc191724788979985012d65ba2a_7b39d5b18fff4a08869e538a7e85e304.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-04-25 22:56",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "世上还会有像品冠一样温柔的人么                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

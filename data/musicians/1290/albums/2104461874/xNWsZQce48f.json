@@ -1,0 +1,42 @@
+{
+  "name": "黄泉大道",
+  "link": "https://emumo.xiami.com/song/xNWsZQce48f",
+  "id": "1808991650",
+  "album_name": "左小祖咒在地安门",
+  "singers": "左小祖咒",
+  "play_count_num": 1344,
+  "share_count_num": 18,
+  "comments_num": 2,
+  "lyric": "[ti:黄泉大道]<br>\n[ar:左小祖咒]<br>\n[al:×óÐ¡×æÖäÔÚµØ°²ÃÅ]<br>\n[ly:]<br>\n[mu:]<br>\n[ma:]<br>\n[pu:]<br>\n[by:ttpod]<br>\n[total:264646]<br>\n[offset:0]<br>\n[00:00.000]黄泉大道 - 左小祖咒<br>\n[00:01.906]<br>\n[00:35.476]悲伤的旧事<br>\n[00:39.334]在回忆的岸边越来越淡漠<br>\n[00:48.406]快乐的记忆<br>\n[00:52.415]在黑暗的长河里越来越清晰<br>\n[01:01.341]喔 你好 今天我走在黄泉道上<br>\n[01:14.630]我还记得你<br>\n[01:19.045]给过我唯一兴奋的泪水<br>\n[01:28.280]<br>\n[01:45.431]悲伤的旧事<br>\n[01:49.235]在回忆的岸边越来越淡漠<br>\n[01:58.265]快乐的记忆<br>\n[02:02.325]在黑暗的长河里越来越清晰<br>\n[02:11.055]喔 你好 今天我走在黄泉道上<br>\n[02:24.542]我还记得你<br>\n[02:28.950]给过我唯一兴奋的泪水<br>\n[02:37.759]<br>\n[03:12.461]喔 黄泉大道美好相逢<br>\n[03:21.187]宽恕我踉跄的身子骨<br>\n[03:24.336]顶着马戏团的头颅入道<br>\n[03:34.169]亲爱的同志 我的爱啊<br>\n[03:42.948]你在星光与水光搀扶时闪烁着<br>\n[03:51.624]你在星光与水光搀扶时闪烁着",
+  "lyric_extra": "<p>文本歌词最后由 <a target=\"_blank\" href=\"/u/56071981\">左小祖咒</a> 编辑于2020-06-24 18:55</p>\n                                                                                        <p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1808991650\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1808991650\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "173579114",
+        "name": "虾米用户",
+        "motto": "网易云：Vulcanit...",
+        "link": "https://emumo.xiami.com/u/173579114",
+        "photo_url": "https://pic.xiami.net/images/user/173579114/c6fdd2c6e3374c8e92b9e582c27d8265_1cc08b1230b84db9a5514d7004a58772.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-05-06 12:02",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "爱                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "43475535",
+        "name": "虾米用户",
+        "motto": "内生宿主",
+        "link": "https://emumo.xiami.com/u/43475535",
+        "photo_url": "https://pic.xiami.net/images/user/43475535/73f227809094469dba17b8138b48308e_024a92d01da743fea1b3fccffbb83187.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-01-24 16:31",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/414.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

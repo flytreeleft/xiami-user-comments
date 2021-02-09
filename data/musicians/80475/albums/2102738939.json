@@ -1,0 +1,46 @@
+{
+  "id": "2102738939",
+  "link": "https://emumo.xiami.com/album/2102738939",
+  "name": "That's What I Like",
+  "photo_url": "https://pic.xiami.net/images/album/img67/263867/2638671493263867.jpg@4e_1c_100Q_185w_185h",
+  "artist_name": "Jason Chen",
+  "languages": [
+    "英语"
+  ],
+  "companies": [
+    "Music Never Sleeps"
+  ],
+  "published_date": [
+    "2017年04月13日"
+  ],
+  "categories": [
+    "EP",
+    "单曲"
+  ],
+  "play_count_num": 30670,
+  "favorite_count_num": 10,
+  "comments_num": 1,
+  "intro": "",
+  "songs": [
+    {
+      "name": "That's What I Like",
+      "link": "https://emumo.xiami.com/song/bf2fack305fd"
+    }
+  ],
+  "comments": [
+    {
+      "author": {
+        "id": "73857918",
+        "name": "虾米用户",
+        "motto": "在黎明之前",
+        "link": "https://emumo.xiami.com/u/73857918",
+        "photo_url": "https://pic.xiami.net/images/user/73857918/94e783512e044074862c214d6b0d2b9e_4584e75cea9a46f88cceda93cf8acad0.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-05-02 12:21",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/442.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

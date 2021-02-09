@@ -1,0 +1,135 @@
+{
+  "name": "醉人的诗意",
+  "link": "https://emumo.xiami.com/song/borcbfafc",
+  "id": "93200",
+  "album_name": "2001现场作品限量版",
+  "singers": "陈珊妮",
+  "lyrics_by": [
+    "陈珊妮"
+  ],
+  "composed_by": [
+    "陈珊妮"
+  ],
+  "arranged_by": [
+    "徐千秀"
+  ],
+  "play_count_num": 7383,
+  "share_count_num": 27,
+  "comments_num": 8,
+  "lyric": "",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 93200\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 93200\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "53795339",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/53795339",
+        "photo_url": "https://pic.xiami.net/images/user/53795339/fafc9857b2c94ab589f6aa49c913b8ef_242274fadd57497c858c7dacadd76968.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-08-29 16:47",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "现场版的好好听，小激动                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3011686",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/3011686",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/60/55c5cadba5e7e_3011686_1439025883.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-04-23 20:17",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "回来了，整理照片，这北京春天的夜晚适合听陈珊妮。。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1924421",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1924421",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/38/1924421_1445291797.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-04-12 06:10",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "“好，来”                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "481046",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/481046",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/9/62/481046/481046_1372472829.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-05-20 21:45",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这个版本好听",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3456810",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/3456810",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/69/57c4d70912723_3456810_1472517897.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-04-28 01:14",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这夜晚疯狂爱着你 喝醉的美丽 男人都摇摆起来 个个有轻佻的动机...这夜晚疯狂爱着你 离开的背影 女人都狂野起来 个个有了淫荡的潜力...这虚荣有你 是那么感伤 这夜晚疯狂爱着你 醉人的诗意。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "6395683",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/6395683",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/127/91/6395683/6395683_1320730231.gif@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-02-20 00:47",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我怎么听这首歌那么憷呢？",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "7811830",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/7811830",
+        "photo_url": "https://pic.xiami.net/images/avatar/30/7811830/78118301327650662.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-02-17 13:50",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "今日2月17日我的好歌推荐是 陈珊妮《醉人的诗意》希望大家能够喜欢。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "6132894",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/6132894",
+        "photo_url": "https://pic.xiami.net/images/avatar/94/6132894/61328941317883652.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-11-16 22:11",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "最近在听",
+      "replies": []
+    }
+  ]
+}

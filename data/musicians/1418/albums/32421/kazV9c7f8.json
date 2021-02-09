@@ -1,0 +1,59 @@
+{
+  "name": "缓慢 (Live)",
+  "link": "https://emumo.xiami.com/song/kazV9c7f8",
+  "id": "384887",
+  "album_name": "Happy Together 二零零三现场作品",
+  "singers": "陈珊妮",
+  "lyrics_by": [
+    "珊妮"
+  ],
+  "play_count_num": 5702,
+  "share_count_num": 4,
+  "comments_num": 3,
+  "lyric": "作词 ：陈珊妮<br>\n作曲 ：陈珊妮<br>\n我的眼泪瞬间<br>\n停留在原来的眼眶<br>\n你的眼神瞬间<br>\n闪烁着无辜的泪光<br>\n我的快乐瞬间<br>\n凝结还假装太坚强<br>\n你的笑靥瞬间<br>\n遗忘以为青春不够长<br>\n瞬间太缓慢<br>\n错不过太忧伤<br>\n缓慢缓慢<br>\n缓慢到失常<br>\n我的眼泪瞬间<br>\n停留在原来的眼眶<br>\n你的眼神瞬间<br>\n闪烁着无辜的泪光<br>\n我的快乐瞬间<br>\n凝结还假装太坚强<br>\n你的笑靥瞬间<br>\n遗忘以为青春不够长<br>\n瞬间太缓慢<br>\n错不过太忧伤<br>\n缓慢缓慢<br>\n缓慢到失常<br>\n缓慢缓慢缓慢<br>\n贪图你一刻在身旁<br>\n缓慢缓慢<br>\n缓慢缓慢缓慢",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 384887\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 384887\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "39119490",
+        "name": "虾米用户",
+        "motto": "倔強少女",
+        "link": "https://emumo.xiami.com/u/39119490",
+        "photo_url": "https://pic.xiami.net/images/user/39119490/5bc212eecbbc48cdb03c5d4e5767de23_f84ee651e1c04403a3a31f9a0ce4d2b0.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-07-06 02:00",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "日子一天天。                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "8534061",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/8534061",
+        "photo_url": "https://pic.xiami.net/images/avatar/61/8534061/85340611341798713.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-03-11 22:25",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "有                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "2104605",
+        "name": "虾米用户",
+        "motto": "曲中意常非我之意，旋律只...",
+        "link": "https://emumo.xiami.com/u/2104605",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/42/9/2104605/2104605_1337040408.gif@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-12-29 22:11",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "“瞬间太缓慢”，这首歌，怎么没评论，不要去追逐主打歌",
+      "replies": []
+    }
+  ]
+}

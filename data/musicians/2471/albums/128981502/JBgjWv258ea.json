@@ -1,0 +1,62 @@
+{
+  "name": "爱磁场",
+  "link": "https://emumo.xiami.com/song/JBgjWv258ea",
+  "id": "1774170053",
+  "album_name": "张韶涵 同名专辑",
+  "singers": "张韶涵",
+  "lyrics_by": [
+    "崔惟楷"
+  ],
+  "composed_by": [
+    "Jae Chong"
+  ],
+  "play_count_num": 11359,
+  "share_count_num": 6,
+  "comments_num": 4,
+  "lyric": "牵着手一起走 心跳跃的节奏<br>\n仔细去感受 就很快乐<br>\n<br>\n用微笑当窗口 分享给你温柔<br>\n每个人都有 大能量<br>\n爱 充满心中<br>\n爱 万里晴空<br>\nLove love love 方式很直接<br>\nLove love love 点亮了世界<br>\n<br>\n爱 在身边环绕 love love love<br>\n让生命燃烧<br>\n爱 在心里主导 love love love<br>\n张开双手拥抱<br>\n爱 爱 让我们很美好<br>\n<br>\n心情别再沉默<br>\n惊喜大声的说<br>\n高调的散播 所有快乐<br>\n用音符当点播<br>\n发送爱的电波<br>\n每个人都是 爱磁场<br>\n爱 充满心中<br>\n<br>\n爱 万里晴空<br>\nLove love love 方式很直接<br>\nLove love love 点亮了世界<br>\n<br>\n爱 在身边环绕 love love love<br>\n让生命燃烧<br>\n爱 在心里主导 love love love<br>\n张开双手拥抱<br>\n爱 爱 让我们很美好<br>\n爱是强烈讯号<br>\n爱不用再寻找<br>\n一点默契 就会明了<br>\n爱是一个预兆<br>\n爱是一种依靠<br>\n当你遇见 就知道<br>\n爱 在身边环绕 love love love<br>\n让生命燃烧<br>\n爱 在心里主导 love love love<br>\n张开双手拥抱<br>\n爱 爱 让我们很美好<br>\n爱 爱 让我们很美好<br>\n<br>\n爱是一个预兆<br>\n爱是一种依靠<br>\n当你遇见 就知道",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1774170053\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1774170053\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "278741507",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/278741507",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/5574/5acdb3bc7111a_278741507_b_w240h240.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-12-13 11:00",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "张韶涵总算有红回来了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "40104382",
+        "name": "虾米用户",
+        "motto": "整理歌单，迎接2018",
+        "link": "https://emumo.xiami.com/u/40104382",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/802/59c778b34ab58_40104382_b_w162h162.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-06-22 23:16",
+      "ageree_num": 3,
+      "disageree_num": 0,
+      "brief": "一首被忽视的电音好歌                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "49090682",
+        "name": "虾米用户",
+        "motto": "Nothing real...",
+        "link": "https://emumo.xiami.com/u/49090682",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/981/5c8a44ce8f8fe_49090682_1552565454.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-05-18 13:33",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "no                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

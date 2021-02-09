@@ -1,0 +1,62 @@
+{
+  "name": "Mama Mama (Live)",
+  "link": "https://emumo.xiami.com/song/4dWR3abd7",
+  "id": "165021",
+  "album_name": "百变张韶涵2007世界巡回演唱会 台北场",
+  "singers": "张韶涵",
+  "lyrics_by": [
+    "光中"
+  ],
+  "composed_by": [
+    "陈伟"
+  ],
+  "play_count_num": 7860,
+  "share_count_num": 7,
+  "comments_num": 4,
+  "lyric": "",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 165021\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 165021\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "298828894",
+        "name": "虾米用户",
+        "motto": "生活需要一个逗号，可以想...",
+        "link": "https://emumo.xiami.com/u/298828894",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/5976/59252e2f899e5_298828894_b_w162h162.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-12-23 02:09",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "真是可惜了一位有实力的歌手，她的声音很有辨识度                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "112657022",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/112657022",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/2253/5a31cb66a47f6_112657022_1513212774.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-11-28 10:12",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "哇！唱的好酷呀！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3806832",
+        "name": "虾米用户",
+        "motto": "愿力无尽。",
+        "link": "https://emumo.xiami.com/u/3806832",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/76/13/3806832/3806832_1366290507.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-06-07 06:58",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "COOL！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    }
+  ]
+}

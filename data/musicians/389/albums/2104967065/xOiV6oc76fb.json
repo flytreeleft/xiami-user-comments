@@ -1,0 +1,28 @@
+{
+  "name": "暗恋美学Aesthetics of Dark Love",
+  "link": "https://emumo.xiami.com/song/xOiV6oc76fb",
+  "id": "1811999666",
+  "album_name": "幸福指南编辑部",
+  "singers": "品冠",
+  "play_count_num": 457,
+  "share_count_num": 2,
+  "comments_num": 1,
+  "lyric": "发一条微信却写满了屏<br>\n刻骨铭心却没有回应<br>\n越是等待越是感慨<br>\n仿佛眼前全是未来<br>\n<br>\n被你伤害是一种绚烂<br>\n重叠的伤口最浪漫<br>\n不需要药片<br>\n只需要时间<br>\n把疼痛熬成最热烈的缠绵<br>\n<br>\n想要被你一直拒绝<br>\n暗恋的美学<br>\n更不在乎所有奉献<br>\n你视而不见<br>\n这种爱越是可悲 越叫人崩溃<br>\n越是无限美<br>\n空白是 留给我的思念<br>\n<br>\nWoo…独自享受<br>\nWoo…尽情占有<br>\n<br>\n被你忽略<br>\n是一种实验<br>\n空洞的次元最耀眼<br>\n不需要救援<br>\n只需要想念<br>\n把寂寞熬成最完美的热恋<br>\n<br>\n想要被你一直拒绝<br>\n暗恋的美学<br>\n更不在乎所有奉献<br>\n你视而不见<br>\n这种爱越是可悲 越叫人崩溃<br>\n越是无限美<br>\n空白是 留给我的思念<br>\n没有<br>\n什么值得被赞美<br>\n至少可以被体会<br>\n这种爱情<br>\n卑微也是尊贵<br>\n<br>\n想要被你一直拒绝<br>\n暗恋的美学<br>\n其实你懂如何把我<br>\n留在你身边<br>\n这种爱越是残缺 越叫人心碎<br>\n越是无限美<br>\n空白是 留给我的思念<br>\n<br>\nProducer制作人：罗宇轩Josh Lo(吗哪音乐）<br>\nGuitar吉他：shamril salleh<br>\nDrum鼓：陈柏州Mr.Q@Mr.Q Studio<br>\nString Orchestra弦乐：国际首席爱乐乐团<br>\nChorus和声：许叔男<br>\nRecording Engineer录音师：潘尧泓Hendrick Pan<br>\nRecording Studio录音室：白金录音室<br>\nMixing Engineer混音师：林正忠<br>\nMixing Studio混音室：白金录音室<br>\nA&amp;R：王瑜Fish Wong<br>\nMastering Engineer后期母带处理工程师：Gene Grimaldi<br>\nMastering Studio后期母带处理录音室：OASIS Mastering Studio（Los Angeles）<br>\nOP：Touch Music Publishing Co Ltd, Beijing北京大石音乐版权有限公司<br>\nOP：Touch Music Publishing Co Ltd, Beijing北京大石音乐版权有限公司",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1811999666\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1811999666\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "31806133",
+        "name": "虾米用户",
+        "motto": "暂无签名~",
+        "link": "https://emumo.xiami.com/u/31806133",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/636/31806133_1403279286.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-05-16 21:53",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "第一 <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/414.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    }
+  ]
+}

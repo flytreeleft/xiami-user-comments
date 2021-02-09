@@ -1,0 +1,182 @@
+{
+  "name": "Trouble (Remix)",
+  "link": "https://emumo.xiami.com/song/JSW5a75c",
+  "id": "76386",
+  "album_name": "Orange",
+  "singers": "华语群星",
+  "play_count_num": 10312,
+  "share_count_num": 9,
+  "comments_num": 12,
+  "lyric": "",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 76386\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 76386\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "265673645",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/265673645",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-11-11 22:25",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "来了，我的作梦呢？                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "7928152",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/7928152",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/158/79281521391946196.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-04-19 16:16",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "酷啊                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "2375136",
+        "name": "虾米用户",
+        "motto": "暂无签名~",
+        "link": "https://emumo.xiami.com/u/2375136",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/47/50/2375136/2375136_1371768319.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-06-08 15:23",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "好爽！",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "6180417",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/6180417",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/123/60/6180417/6180417_1318157863.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-03-13 15:36",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "太爽了  放进MP3里面  明天晚上跑步单曲循环100遍",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "6899353",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/6899353",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/137/98/6899353/6899353_1321881626.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-03-13 13:28",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "@蒋昊天-",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3648792",
+        "name": "虾米用户",
+        "motto": "周末夜狂热",
+        "link": "https://emumo.xiami.com/u/3648792",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/72/97/3648792/3648792_1314874786.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-10-28 05:42",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "11",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1089343",
+        "name": "虾米用户",
+        "motto": "不听音乐就会死星人",
+        "link": "https://emumo.xiami.com/u/1089343",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/21/78/1089343/1089343_1330410333.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-09-03 21:12",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "you got fucking trouble！！",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "6763808",
+        "name": "虾米用户",
+        "motto": "不在虾米上",
+        "link": "https://emumo.xiami.com/u/6763808",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/135/55c7f3b709ec8_6763808_1439167415.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-11-14 21:57",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "戴上你的耳机不说话",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "4183418",
+        "name": "虾米用户",
+        "motto": "。",
+        "link": "https://emumo.xiami.com/u/4183418",
+        "photo_url": "https://pic.xiami.net/xiamiWeb/4652bd78d3a05cf37c4ff8a547b61109/4d690c661ba92d26530a996a0aa54cab-498x600.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-07-14 11:20",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1084058",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1084058",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/21/68/1084058/1084058_1305189014.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2010-12-10 16:48",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "听到的只是愤怒。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1512426",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1512426",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/30/24/1512426/1512426_1305833347.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2010-10-18 22:57",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "说的很愤青啊。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1512426",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/1512426",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/30/24/1512426/1512426_1305833347.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2010-10-18 22:57",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "说的很愤青啊。",
+      "replies": []
+    }
+  ]
+}

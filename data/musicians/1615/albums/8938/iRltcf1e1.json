@@ -1,0 +1,70 @@
+{
+  "name": "宁静海",
+  "link": "https://emumo.xiami.com/song/iRltcf1e1",
+  "id": "111057",
+  "album_name": "爱得愉快",
+  "singers": "何真真",
+  "play_count_num": 5284,
+  "share_count_num": 10,
+  "comments_num": 4,
+  "lyric": "来自江西萍乡<br>\n<br>\n我感慨 世界不是纯白<br>\n许多陆离光怪<br>\n好伤怀 好无奈<br>\n走向海 等待海浪的澎湃<br>\n享受宁静地带<br>\n不徘徊走向海<br>\n把心打开 轻风吹拂的痛快<br>\n飞到宇宙未来<br>\n不让恨成为阻碍<br>\n心不依赖 像浮云般自在<br>\n有向远看的胸怀<br>\n勇敢去爱花就开<br>\n<br>\n我感慨 世界不是纯白<br>\n许多陆离光怪<br>\n好伤怀 好无奈<br>\n走向海 等待海浪的澎湃<br>\n享受宁静地带<br>\n不徘徊走向海<br>\n把心打开 轻风吹拂的痛快<br>\n飞到宇宙未来<br>\n不让恨成为阻碍<br>\n心不依赖 像浮云般自在<br>\n有向远看的胸怀<br>\n勇敢去爱花就开<br>\n<br>\n知道该不该 知道好与坏<br>\n知道自己生命 飞跃的姿态<br>\n飞得远或快 管它怪不怪<br>\n痛苦或愉快 就是把握现在<br>\n他爱我或不爱 都可以释怀<br>\n脚步向前迈开 走向阳光的新未来<br>\n<br>\n把心打开 轻风吹拂的痛快<br>\n飞到宇宙未来<br>\n不让恨成为阻碍<br>\n心不依赖 像浮云般自在<br>\n有向远看的胸怀<br>\n勇敢去爱花就开<br>\n心打开 勇敢爱",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 111057\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 111057\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "229805652",
+        "name": "虾米用户",
+        "motto": "世事无绝对，唯有真情趣，...",
+        "link": "https://emumo.xiami.com/u/229805652",
+        "photo_url": "https://pic.xiami.net/images/user/229805652/438990c961ec49ceb754b1f707a2088e_fc09c507285e484b8c7f2d86782a8831.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-09-22 17:42",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "我变了，变的静了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "40935203",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/40935203",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/818/40935203_1424017802.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-05-07 12:43",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "江西萍乡，我的家乡                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "43816145",
+        "name": "虾米用户",
+        "motto": "品味是一个无底洞",
+        "link": "https://emumo.xiami.com/u/43816145",
+        "photo_url": "https://pic.xiami.net/images/user/43816145/a51f0f2523004994a876fc2efca7684f_7d5a92671f4c4a31ba6e0fea35ae8567.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-11-15 20:17",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "我想静静了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "15340322",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/15340322",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/306/80/15340322/15340322_1368961134.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-06-03 20:35",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "宁静海",
+      "replies": []
+    }
+  ]
+}

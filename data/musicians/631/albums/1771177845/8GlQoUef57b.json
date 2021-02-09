@@ -1,0 +1,76 @@
+{
+  "name": "Piano Man (Live) ",
+  "link": "https://emumo.xiami.com/song/8GlQoUef57b",
+  "id": "1771944820",
+  "album_name": "Dream On Live 2013 林一峰游乐会",
+  "singers": "林一峰",
+  "lyrics_by": [
+    "Billy Joel"
+  ],
+  "composed_by": [
+    "Billy Joel"
+  ],
+  "play_count_num": 3290,
+  "share_count_num": 5,
+  "comments_num": 4,
+  "lyric": "",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1771944820\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1771944820\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "293142259",
+        "name": "虾米用户",
+        "motto": "若我還是不回來 就把我靈...",
+        "link": "https://emumo.xiami.com/u/293142259",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/5862/5a7ce8f4174ea_293142259_1518135540.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-12-08 13:18",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "坐等丙哥出道，最後一句好聽哭了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "5443127",
+        "name": "虾米用户",
+        "motto": "COMING SOON",
+        "link": "https://emumo.xiami.com/u/5443127",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/108/5443127_1426920667.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-09-25 23:01",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "Mr.Everything                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "15813968",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/15813968",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/316/27/15813968/158139681370261909.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-11-09 18:18",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "And you&amp;#039;ve got us feelin&amp;#039; alright",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "1844",
+        "name": "虾米用户",
+        "motto": "农夫 山泉 有点田",
+        "link": "https://emumo.xiami.com/u/1844",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/0/3/1844/1844_1332522851.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-07-03 22:26",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "林一峰+何秉舜",
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "小人国",
+  "link": "https://emumo.xiami.com/song/bf9krlm2e025",
+  "id": "1900520826",
+  "album_name": "小人国",
+  "singers": "王梵瑞",
+  "lyrics_by": [
+    "王梵瑞"
+  ],
+  "composed_by": [
+    "王梵瑞"
+  ],
+  "play_count_num": 109,
+  "share_count_num": 0,
+  "comments_num": 0,
+  "lyric": "记得出门时 爸爸对我说<br>\n当你感到伤心的时侯 孩子<br>\n就算全世界没人在乎你的梦<br>\n爸爸在乎你 会一直看护你<br>\n<br>\n站在35楼俯视三环路 这城市是个小人国<br>\n汽车那么小楼房那么小 人群那么小<br>\n当我回到人群的时候，城市又变成个巨人国<br>\n汽车那么多 楼房那么高 你们是那么高大<br>\n我小心翼翼的行走在这个巨大的城市<br>\n抱着我心爱的那个巨大的梦<br>\n可没有人在意他们脚下那个渺小的我<br>\n我必须小心翼翼的抱着我的那个梦<br>\n<br>\n记得出门时 爸爸对我说<br>\n当你感到伤心的时侯 孩子<br>\n就算全世界没人在乎你的梦<br>\n爸爸在乎你 会一直看护你<br>\n<br>\n我是个小人国的人 迷失在这个巨大的城市<br>\n当我伤心的时候 我就抬头仰望这星空<br>\n我是个小人国的人 迷失在这个巨大的城市<br>\n当我伤心的时候 我就看一看我手里的 那个梦<br>\n<br>\n记得出门时 爸爸对我说<br>\n当你感到伤心的时侯 孩子<br>\n就算全世界没人在乎你的梦<br>\n爸爸在乎你 会一直看护你<br>\n<br>\n记得出门时 我的爸爸对我说<br>\n当你感到伤心的时侯 孩子<br>\n就算全世界没人在乎你的梦<br>\n爸爸在乎你会一直看护你<br>\n<br>\n我是个小人国的人 迷失在这个巨大的城市<br>\n当我伤心的时候 我就看一看我手里的 那个梦<br>\n哦 我的梦 你的梦<br>\n<br>\n哦 你的梦<br>\n<br>\n制作人：王梵瑞<br>\n电吉他：张晓熙<br>\n木吉他：王梵瑞<br>\n贝斯：王梵瑞<br>\n键盘：王梵瑞<br>\n鼓：姬伟<br>\n混音：王梵瑞<br>\n母带处理：华山<br>\n和声：刘子滔 周文祎 王梵瑞",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1900520826\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1900520826\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": []
+}

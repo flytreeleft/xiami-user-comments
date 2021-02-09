@@ -1,0 +1,118 @@
+{
+  "name": "爱的劳工 (Live)",
+  "link": "https://emumo.xiami.com/song/b1qjp4j417ff",
+  "id": "1774447905",
+  "album_name": "万事如意Live",
+  "singers": "左小祖咒",
+  "lyrics_by": [
+    "左小祖咒"
+  ],
+  "composed_by": [
+    "左小祖咒"
+  ],
+  "play_count_num": 7383,
+  "share_count_num": 79,
+  "comments_num": 7,
+  "lyric": "[ti:爱的劳工 (Live)]<br>\n[ar:左小祖咒]<br>\n[al:]<br>\n[ly:]<br>\n[mu:]<br>\n[ma:]<br>\n[pu:]<br>\n[by:ttpod]<br>\n[total:288104]<br>\n[offset:0]<br>\n[00:00.370]爱的劳工 (Live) - 左小祖咒<br>\n[00:02.676]<br>\n[00:25.453]秋风吹开了妹妹的花裙在萧瑟地飘<br>\n[00:38.110]青鸟成群地在你的长腿上盘旋<br>\n[00:50.781]妹妹你可知道我胸口的热血汹涌<br>\n[01:03.204]像这山谷下的驴儿打滚<br>\n[01:15.727]妹妹啊把我这快乐的外衣披上吧<br>\n[01:28.494]那感觉如何<br>\n[01:34.654]那感觉如何<br>\n[01:40.868]我已经听见了你的歌唱<br>\n[01:47.383]<br>\n[02:18.944]秋灯映着我翠绿的面孔在叮当地跑<br>\n[02:31.755]青烟袅袅地在我的双腿间升腾<br>\n[02:44.378]妹妹你可知道母亲<br>\n[02:48.832]卖掉了父亲的勋章在昨天<br>\n[02:57.152]像你屁股上吊着的水壶底那么大<br>\n[03:09.849]妹妹啊把我这疯狂的外衣披上吧<br>\n[03:22.972]那感觉如何<br>\n[03:29.036]那感觉如何<br>\n[03:35.696]我已经听见了你的歌唱<br>\n[03:43.814]我已经听见了你在努力地歌唱<br>\n[03:54.936]这感觉如何<br>\n[04:01.251]这感觉如何<br>\n[04:07.865]我想我听见了你的笑<br>\n[04:14.026]我想我听见了你在努力地笑",
+  "lyric_extra": "<p>文本歌词最后由 <a target=\"_blank\" href=\"/u/56071981\">左小祖咒</a> 编辑于2020-08-07 12:06</p>\n                                                                                        <p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1774447905\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1774447905\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "273034482",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/273034482",
+        "photo_url": "https://pic.xiami.net/images/user/273034482/35dfede7d89243fc9298c24d11645db0_a1a274536ef743158eee37dd6b934765.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-02-18 16:08",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "Re.<br>2012                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "332270640",
+        "name": "虾米用户",
+        "motto": "两个字:后摇！",
+        "link": "https://emumo.xiami.com/u/332270640",
+        "photo_url": "https://pic.xiami.net/images/user/332270640/1be0fb6625a84073837257789c4f8fb2_01c8b10af89e42a3b73777886ca78bae.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-10-29 22:58",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这个就是左小祖咒！！！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "259383028",
+        "name": "虾米用户",
+        "motto": "Lord, hear m...",
+        "link": "https://emumo.xiami.com/u/259383028",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/5187/5a1bcbfe1aa7d_259383028_1511771134.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-07-09 23:34",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "不怎么样 希望我知道自己有多绝望                      <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "43490131",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/43490131",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-09-10 02:54",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "就喜欢这慵懒又洒脱的感觉                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "17819982",
+        "name": "虾米用户",
+        "motto": "你在看我吗我在看什么。",
+        "link": "https://emumo.xiami.com/u/17819982",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/356/17819982_1459150329.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-03-19 14:34",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "午后 有阳光  还在复习                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "87998336",
+        "name": "虾米用户",
+        "motto": "美空作品 http://...",
+        "link": "https://emumo.xiami.com/u/87998336",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1759/879983361448974426.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-12-26 12:56",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "哈哈哈哈哈",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "35753135",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/35753135",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/715/357531351398231273.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-08-18 00:43",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/408.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

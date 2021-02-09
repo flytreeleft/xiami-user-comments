@@ -1,0 +1,62 @@
+{
+  "name": "谁是最爱",
+  "link": "https://emumo.xiami.com/song/eiw85399",
+  "id": "5894",
+  "album_name": "黑洞",
+  "singers": "陈小春                      \t\t                      \t                      \t\t;                       \t\t                      \t\t蜜雪薇琪",
+  "lyrics_by": [
+    "Zhi Nian Lin"
+  ],
+  "composed_by": [
+    "Sofia Li"
+  ],
+  "play_count_num": 4356,
+  "share_count_num": 9,
+  "comments_num": 3,
+  "lyric": "每当心神不宁任谁都能看得出来<br>\n享爱被爱 却反而整天无精打采<br>\n我的无奈 谁能明白 我的悲哀往哪里摆<br>\n原来我的痛苦来自不知如何对爱坦白<br>\n乱了思绪 恨不得怎么自己大卸八块<br>\n真的不是 故意使坏<br>\n如果可以不希望任何人受伤害<br>\n谁是最爱 谁被取代<br>\n我在等待 谜底快点解开<br>\n说拜拜（不值得为我等待）<br>\n你会跟谁先拜拜 要赶快<br>\n介入你的生活 不是我存心安排<br>\n最不应该 让自私占满整个脑袋<br>\n良心不安 无法掩盖 却停不了对你依赖<br>\n是我的错 让单纯的爱产生意外<br>\n我的肩膀 不足以扛起两份真爱<br>\n左右为难 我好失败<br>\n给我时间去整理该如何面对爱<br>\n谁是最爱 谁被取代<br>\n我在等待 答案快点出来（脑袋快要爆开）<br>\n说拜拜（不值得为我等待）<br>\n你会跟谁先拜拜 要赶快<br>\n谁是最爱（都是最爱） 谁被淘汰（怎么淘汰）<br>\n只是等待 心会揪成一块<br>\n说拜拜（抱歉该怎么说出来）<br>\n害怕你会说拜拜失去爱<br>\n若只是一时糊涂但愿你会记得回来<br>\n我不想从此辜负你的爱BABY<br>\n你让我陷入爱里就算沈没不想出来<br>\n你的爱太激烈 我们都需要冷静下来<br>\n谁是最爱 谁被取代<br>\n我在等待 答案快点出来（哦 no~）<br>\n说拜拜（怎么可以那么快爱爱）<br>\n你会跟谁先拜拜 要赶快<br>\n谁是最爱（爱）谁被淘汰（是我活该）<br>\n只是等待 心会揪成一块<br>\n说拜拜（说拜拜都是因为我活该）<br>\n害怕你会说拜拜失去爱（分开也许是最好的交代）",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 5894\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 5894\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "204760739",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/204760739",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-01-20 21:49",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "15年了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3419686",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/3419686",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/68/3419686_1388298067.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-08-29 01:46",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "蜜雪薇琪首度发声                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "6513356",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/6513356",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/130/26/6513356/6513356_1332383357.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-11-12 23:16",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "好听",
+      "replies": []
+    }
+  ]
+}

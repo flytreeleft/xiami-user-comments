@@ -1,0 +1,115 @@
+{
+  "name": "你太好看",
+  "link": "https://emumo.xiami.com/song/bErZ172e6",
+  "id": "93203",
+  "album_name": "2001现场作品限量版",
+  "singers": "陈珊妮",
+  "lyrics_by": [
+    "珊妮"
+  ],
+  "play_count_num": 5869,
+  "share_count_num": 28,
+  "comments_num": 7,
+  "lyric": "",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 93203\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 93203\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "8191448",
+        "name": "虾米用户",
+        "motto": "相似度多少你才会开口",
+        "link": "https://emumo.xiami.com/u/8191448",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/163/5b0ea1372f893_8191448_1527685431.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-08-09 01:36",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": ".                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "3480112",
+        "name": "虾米用户",
+        "motto": "我还没想好要写什么...",
+        "link": "https://emumo.xiami.com/u/3480112",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/69/5c1a01f6c7c21_3480112_1545208310.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-01-26 09:31",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "存到手机里不会删除的歌                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "58597692",
+        "name": "虾米用户",
+        "motto": "借一晚灯不关，恨你实在太...",
+        "link": "https://emumo.xiami.com/u/58597692",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1171/585976921440731882.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2016-08-26 22:12",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "借一晚灯不关／恨你实在太好看",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "50795469",
+        "name": "虾米用户",
+        "motto": "biu",
+        "link": "https://emumo.xiami.com/u/50795469",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1015/5b0414e2689d6_50795469_1526994146.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-09-11 14:41",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "好听好听 你太好看                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "2049654",
+        "name": "虾米用户",
+        "motto": "Auf dem Weg....",
+        "link": "https://emumo.xiami.com/u/2049654",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/40/5d70992e836cb_2049654_1567660334.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2014-04-19 23:36",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我决定配着这首歌品味老王。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "306289",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/306289",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/6/12/306289/306289_1320987552.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-11-15 23:32",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "很想听非常想听非常非常非常想听@见信如唔 的版本啊~好好听~~~ 借一晚灯不关 恨你 实在太好看   太好看",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "134697",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/134697",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/2/69/134697/134697_1304971453.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2010-12-09 03:37",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我能替你找一个肤浅点的理由不？总得有个堂而皇之的理由不是...其实、那个、好吧、我承认我很自恋、自恋是因为我真的“太好看”...",
+      "replies": []
+    }
+  ]
+}

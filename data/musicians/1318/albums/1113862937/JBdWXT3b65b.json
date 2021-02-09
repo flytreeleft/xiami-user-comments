@@ -1,0 +1,31 @@
+{
+  "name": "绿色家园",
+  "link": "https://emumo.xiami.com/song/JBdWXT3b65b",
+  "id": "1773643521",
+  "album_name": "如果爱还活着",
+  "singers": "白雪",
+  "composed_by": [
+    "印青"
+  ],
+  "play_count_num": 3504,
+  "share_count_num": 5,
+  "comments_num": 1,
+  "lyric": "我的心有一双鹰的翅膀<br>\n<br>\n在绿色的家园快乐的飞翔<br>\n<br>\n芳草青青绿荫长长<br>\n<br>\n每一次呼吸都是生命<br>\n生命在歌唱<br>\n<br>\n爱上你的百花开<br>\n我的心花也怒放<br>\n<br>\n爱上你的树成林<br>\n我的好运排成行<br>\n<br>\n爱上你的清清水呀<br>\n我的心儿荡起浆<br>\n<br>\n爱上你那蓝蓝的天<br>\n<br>\n我的胸怀也宽广<br>\n<br>\n我的心有一双鹰的翅膀<br>\n<br>\n在绿色的家园快乐的飞翔<br>\n<br>\n鸟在歌唱微风送爽<br>\n<br>\n每一次漫步都是生命<br>\n生命在延长<br>\n<br>\n爱上你的百花开<br>\n我的心花也怒放<br>\n<br>\n爱上你的树成林<br>\n我的好运排成行<br>\n<br>\n爱上你的清清水呀<br>\n我的心儿荡起浆<br>\n爱上你那蓝蓝的天<br>\n<br>\n我的胸怀也宽广<br>\n啦啦啦啦啦啦啦啦<br>\n啦啦啦啦啦<br>\n<br>\n啦啦啦啦啦啦啦啦<br>\n啦啦啦啦啦<br>\n<br>\n绿色的家园啊生命的天堂<br>\n<br>\n黄金有价你无价<br>\n<br>\n你是我们永恒的向往",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1773643521\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1773643521\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "306051868",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/306051868",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/130592576_1497946587.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-04-12 10:01",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "不错。                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    }
+  ]
+}

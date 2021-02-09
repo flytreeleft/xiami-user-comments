@@ -1,0 +1,99 @@
+{
+  "name": "低等动物",
+  "link": "https://emumo.xiami.com/song/eLdb533f0",
+  "id": "134167",
+  "album_name": "呈献",
+  "singers": "麦洁文",
+  "play_count_num": 4499,
+  "share_count_num": 4,
+  "comments_num": 6,
+  "lyric": "",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 134167\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 134167\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "901190",
+        "name": "虾米用户",
+        "motto": " SCC",
+        "link": "https://emumo.xiami.com/u/901190",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/18/5c99f36a84bdc_901190_1553593194.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-11-14 21:56",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "听是好听，歌词真的受不了，太.........",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "186795",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/186795",
+        "photo_url": "https://pic.xiami.net/images/avatar/95/186795/1867951348234326.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-10-27 22:31",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这首歌的原唱居然是麦洁文……枉我一直以为是陈奕迅！",
+      "replies": [
+        {
+          "author": {
+            "id": "42736362",
+            "name": "虾米用户",
+            "motto": "",
+            "link": "https://emumo.xiami.com/u/42736362",
+            "photo_url": "https://pic.xiami.net/images/avatar_new/854/561e49596ede2_42736362_1444825433.png@1e_1c_0i_1o_100Q_100w_100h"
+          },
+          "time": "2015-10-06 00:37",
+          "ageree_num": 0,
+          "disageree_num": 0,
+          "brief": "是陈奕迅，你看看专辑日期。 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": {
+        "id": "111193",
+        "name": "虾米用户",
+        "motto": "微信号toogo1",
+        "link": "https://emumo.xiami.com/u/111193",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/2/22/111193/111193_1304964362.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2013-01-16 21:20",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "黄伟文 这词水了。未能发挥......",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "9301514",
+        "name": "虾米用户",
+        "motto": "独立唱作人",
+        "link": "https://emumo.xiami.com/u/9301514",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/186/3/9301514/9301514_1350698155.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-10-06 23:18",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "欲望歌曲，但麦洁文唱得很好。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "555039",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/555039",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/11/10/555039/555039_1305088271.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2012-08-18 20:28",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "粤语版的比**尺度大得不止一点",
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2102870884",
+  "link": "https://emumo.xiami.com/album/2102870884",
+  "name": "海王星",
+  "photo_url": "https://pic.xiami.net/images/album/img60/79760/7239491507723949.jpg@4e_1c_100Q_185w_185h",
+  "artist_name": "李悦君",
+  "languages": [
+    "国语"
+  ],
+  "companies": [
+    "独立发行"
+  ],
+  "published_date": [
+    "2017年10月11日"
+  ],
+  "categories": [
+    "EP",
+    "单曲"
+  ],
+  "styles": [
+    "电子 Electronic",
+    "爵士 Jazz"
+  ],
+  "play_count_num": 3159,
+  "favorite_count_num": 5,
+  "comments_num": 1,
+  "intro": "<p>你的眼睛</p>",
+  "songs": [
+    {
+      "name": "海王星",
+      "link": "https://emumo.xiami.com/song/xNh0Ubc40c1"
+    },
+    {
+      "name": "海王星（remix）",
+      "link": "https://emumo.xiami.com/song/JCDy7m21f52"
+    }
+  ],
+  "comments": [
+    {
+      "author": {
+        "id": "5127044",
+        "name": "虾米用户",
+        "motto": "卷你妹到蝦米盡頭",
+        "link": "https://emumo.xiami.com/u/5127044",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/102/5e824c696fbe7_5127044_1585597545.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-10-11 23:25",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/400.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    }
+  ]
+}

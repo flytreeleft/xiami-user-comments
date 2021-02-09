@@ -1,0 +1,317 @@
+{
+  "name": "那天晚上",
+  "link": "https://emumo.xiami.com/song/nnyNuu8e330",
+  "id": "2107728672",
+  "album_name": "一名低音吉他手",
+  "singers": "左小祖咒                      \t\t                      \t                      \t\t;                       \t\t                      \t\t周云蓬                      \t\t                      \t                      \t\t;                       \t\t                      \t\t央吉玛",
+  "lyrics_by": [
+    "左小祖咒"
+  ],
+  "composed_by": [
+    "左小祖咒"
+  ],
+  "arranged_by": [
+    "孟凡荻"
+  ],
+  "play_count_num": 15116,
+  "share_count_num": 74,
+  "comments_num": 21,
+  "lyric": "男：说起来有点好笑<br>\n我们没有很多钱<br>\n那天晚上我们开始谈人生<br>\n谈人生的看法<br>\n谈自己的欢喜<br>\n甚至谈起自己的对象<br>\n那天夜晚你让我有了理解<br>\n女：所以你要保重自己<br>\n亲爱的我真的爱你<br>\n我不像那些知道自己有能耐的人<br>\n那样<br>\n一点儿也不<br>\n男：当我还是个小孩子时<br>\n就憧憬这世界<br>\n五百年之后还有五百年<br>\n六百年之后还有六百年<br>\n而我只能活一百二十年<br>\n充其量会活二百年<br>\n我开始忧伤了<br>\n想爸妈哪天要离我而去<br>\n小狗要离我而去<br>\n小兔子要离我而去<br>\n我依偎在他们身旁<br>\n幻想给他们买个大房<br>\n幻想做一个巡演的魔术师<br>\n在世界到处巡演<br>\n女：所以你要保重自己<br>\n亲爱的我真的爱你<br>\n我不像那些知道自己有能耐的人<br>\n那样<br>\n一点儿也不<br>\n<br>\n合：我希望你没有爱上我<br>\n爱会让你忧郁<br>\n忧郁会让人写诗<br>\n写诗会让我唱歌<br>\n唱歌不是为了你<br>\n唱歌是为了我们如何万事兴",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 2107728672\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 2107728672\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "10180228",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/10180228",
+        "photo_url": "https://pic.xiami.net/images/avatar/28/10180228/101802281344734371.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2021-02-01 11:30",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "歌词文本最后一句少了两个字                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "2770528",
+        "name": "虾米用户",
+        "motto": "不要跟我谈什么永生。",
+        "link": "https://emumo.xiami.com/u/2770528",
+        "photo_url": "https://pic.xiami.net/images/user/2770528/5f5d5d376d894b018f2e8d246ddaf7c2_88bccb86adc04415a66b0777573501a7.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-09 11:32",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这歌就像好朋友围坐在一起聊天，还没到1分钟就听哭了。",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "313317548",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/313317548",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-07 23:11",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "真的不要唱不要有人声不要有歌词，毁了毁了毁了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "51482305",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/51482305",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-07 11:54",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "哈哈哈",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "362852251",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/362852251",
+        "photo_url": "https://pic.xiami.net/images/user/362852251/fd6aa38ca1884c4089bca41a394646a8_a999f46ddb9e4896998f5eb1999ab0d9.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-07 08:20",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "听就行了                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "11416610",
+        "name": "虾米用户",
+        "motto": "我就笑笑不说话~~",
+        "link": "https://emumo.xiami.com/u/11416610",
+        "photo_url": "https://pic.xiami.net/images/user/11416610/1bfa4eb8e3be4a328be94d5822577c21_38aca871dd6f46b8b788835e359532fd.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-07 07:01",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "活120年？                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "242205630",
+        "name": "虾米用户",
+        "motto": "大闹一场，悄然离去。",
+        "link": "https://emumo.xiami.com/u/242205630",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/4844/5ed66e417263f_242205630_1591111233.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-06 23:30",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这种旋律不需要人声                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "257781935",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/257781935",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/5155/5a050687c159c_257781935_b_w162h162.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-06 17:02",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我也曾经这么忧伤过&amp;hellip;&amp;hellip;                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "252290968",
+        "name": "虾米用户",
+        "motto": "何处吟春雪，何处有牧歌。",
+        "link": "https://emumo.xiami.com/u/252290968",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/5045/5ce07b05b7a84_252290968_1558215429.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-06 06:14",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "感觉周老板有点敷衍 <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/402.png\">                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "2127206",
+        "name": "虾米用户",
+        "motto": "冬雪小公主",
+        "link": "https://emumo.xiami.com/u/2127206",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/42/54/2127206/2127206_1326108824.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-06 02:45",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "感觉很实验性的一张专辑                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "52240731",
+        "name": "虾米用户",
+        "motto": "音乐是填补人生空白不可或...",
+        "link": "https://emumo.xiami.com/u/52240731",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1044/5e3d36d82e03c_52240731_1581070040.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-05 21:19",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "这旋律真的是贝斯？我去这么高音吗 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "45103",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/45103",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/0/90/45103/45103_1304944510.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-05 13:08",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "真好听，希望虾米还在。比李志的歌还在要重要一丢丢。 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "50869938",
+        "name": "虾米用户",
+        "motto": "我的一年，有四个春天。",
+        "link": "https://emumo.xiami.com/u/50869938",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1017/5bfde9dbcd07f_50869938_1543367131.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-05 10:30",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "最后一句&amp;hellip;&amp;hellip; <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "37874337",
+        "name": "虾米用户",
+        "motto": "漫长的告别",
+        "link": "https://emumo.xiami.com/u/37874337",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/757/601a3c18b9771_37874337_1612332056.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-05 08:12",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "哈哈，嗨起来 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "5913428",
+        "name": "虾米用户",
+        "motto": "後搖患者//樂是萬能藥",
+        "link": "https://emumo.xiami.com/u/5913428",
+        "photo_url": "https://pic.xiami.net/images/user/5913428/67c9d3dbbe7e42c1b874f434e023a816_1ab3fd60513f4743a34c559edbfcaad8.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-03 00:36",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "還是我左叔叔最好聽 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "52811433",
+        "name": "虾米用户",
+        "motto": "河流是相通的，不然，我怎...",
+        "link": "https://emumo.xiami.com/u/52811433",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1056/528114331437493879.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-02 21:10",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "虽然不是新歌，但什么时候听都那么新鲜，带着亲切的刺激，柔情的酷，大爱～ <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "324850786",
+        "name": "虾米用户",
+        "motto": "當你我錯過今天 人潮將彼...",
+        "link": "https://emumo.xiami.com/u/324850786",
+        "photo_url": "https://pic.xiami.net/images/user/324850786/2cb868af2f7b4598a688b4f9041036e3_09126bf53c7c4ec2a3e0c4f269b33b9f.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-02 07:29",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "纯贝斯作品吗 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "55465402",
+        "name": "虾米用户",
+        "motto": "我要天上的星星，也要尘世...",
+        "link": "https://emumo.xiami.com/u/55465402",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/1109/554654021439820721.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-01 22:35",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "好听 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "368881345",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/368881345",
+        "photo_url": "https://pic.xiami.net/images/user/368881345/a25a173ded724a9e9945fef88af09c07_883b6ce97e5446128a0eda3b7f3d2398.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-01 21:59",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "一首一首听 <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "199246",
+        "name": "虾米用户",
+        "motto": "无我 无用",
+        "link": "https://emumo.xiami.com/u/199246",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/3/98/199246/199246_1308556045.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-01 20:44",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "真感人 左叔快唱哭了 <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/419.png\"> <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "332920473",
+        "name": "虾米用户",
+        "motto": "音乐和爱情与年龄无关，",
+        "link": "https://emumo.xiami.com/u/332920473",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/6658/59fbbf606bd94_332920473_1509670752.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-12-01 20:03",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/445.png\"> <img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/445.png\"> <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    }
+  ]
+}

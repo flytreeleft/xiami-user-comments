@@ -1,0 +1,56 @@
+{
+  "name": "雌雄大盗",
+  "link": "https://emumo.xiami.com/song/xOfPtFa2769",
+  "id": "1811260839",
+  "album_name": "四大名著Ⅳ江湖",
+  "singers": "左小祖咒                      \t\t                      \t                      \t\t;                       \t\t                      \t\t宝罗",
+  "play_count_num": 1708,
+  "share_count_num": 8,
+  "comments_num": 3,
+  "lyric": "[ti:雌雄大盗]<br>\n[ar:左小祖咒 / 宝罗]<br>\n[al:δ֪Ƭ (2019/1/22 11:03:11)]<br>\n[ly:左小祖咒]<br>\n[mu:左小祖咒]<br>\n[ma:雨墨 / 左小祖咒]<br>\n[pu:]<br>\n[by:ttpod]<br>\n[total:593397]<br>\n[offset:0]<br>\n[00:00.222]雌雄大盗 - 左小祖咒 / 宝罗<br>\n[00:02.356]作词：左小祖咒<br>\n[00:03.679]作曲：左小祖咒<br>\n[00:04.949]编曲：雨墨 / 左小祖咒<br>\n[00:06.831]制作人：左小祖咒 / 方无行<br>\n[00:09.072]剪接：刘韧<br>\n[00:10.041]录音工程师：李越<br>\n[00:11.567]混音工程师：李士先<br>\n[00:13.757]<br>\n[00:32.871]宝罗：当我熟睡 你用抚摸把我思念<br>\n[00:43.763]<br>\n[00:58.907]当我熟睡 你用抚摸把我思念<br>\n[01:08.065]<br>\n[01:20.933]当我熟睡 你用抚摸把我思念<br>\n[01:29.932]<br>\n[01:44.062]当我熟睡 你用抚摸把我思念<br>\n[01:53.013]<br>\n[03:08.679]左小祖咒：你拿着1998的钥匙<br>\n[03:15.909]怎么能打开2046的门<br>\n[03:20.179]这可是我宝贝儿住的地方<br>\n[03:24.348]我宝贝儿住的地方<br>\n[03:30.096]等等 好像有点儿问题<br>\n[03:37.622]这钥匙怎么打不开门了啊<br>\n[03:46.102]这钥匙怎么打不开门了啊<br>\n[03:55.005]这钥匙怎么打不开门了啊<br>\n[04:03.830]啊 我可能是喝得太晕了<br>\n[04:12.373]我真不该喝得太晕了<br>\n[04:20.050]<br>\n[05:03.421]宝罗：当我熟睡 你用抚摸把我思念<br>\n[05:13.590]<br>\n[05:31.179]当我熟睡 你用抚摸把我思念<br>\n[05:40.731]<br>\n[05:51.729]当我熟睡 你用抚摸把我思念<br>\n[06:00.311]<br>\n[06:14.907]当我熟睡 你用抚摸把我思念<br>\n[06:23.497]<br>\n[06:46.860]左小祖咒：你拿着1998的钥匙<br>\n[06:54.083]怎么能打开2046的门<br>\n[06:58.357]这可是我宝贝儿住的地方<br>\n[07:02.629]我宝贝儿住的地方<br>\n[07:08.273]等等 好像有点儿问题<br>\n[07:15.741]这钥匙怎么打不开门了啊<br>\n[07:24.380]这钥匙怎么打不开门了啊<br>\n[07:33.170]这钥匙怎么打不开门了啊<br>\n[07:42.072]啊 我可能是喝得太晕了<br>\n[07:50.665]我真不该喝得太晕了<br>\n[07:57.975]<br>\n[08:13.771]宝罗：当我熟睡 你用抚摸把我思念<br>\n[08:29.275]当我熟睡 你用抚摸把我思念<br>\n[08:42.426]当我熟睡 你用抚摸把我思念<br>\n[08:54.939]喜欢 那就别伤感<br>\n[09:05.679]当我熟睡 你用抚摸把我思念",
+  "lyric_extra": "<p>文本歌词最后由 <a target=\"_blank\" href=\"/u/56071981\">左小祖咒</a> 编辑于2020-06-23 19:13</p>\n                                                                                        <p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1811260839\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1811260839\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "20192649",
+        "name": "虾米用户",
+        "motto": "没人看公号：太鱼TAIY...",
+        "link": "https://emumo.xiami.com/u/20192649",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/403/5f4e4d369d816_20192649_1598967094.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-08-27 05:53",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "发现左叔有些音乐的歌词灵感来自电影",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "20192649",
+        "name": "虾米用户",
+        "motto": "没人看公号：太鱼TAIY...",
+        "link": "https://emumo.xiami.com/u/20192649",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/403/5f4e4d369d816_20192649_1598967094.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-08-27 05:52",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "编曲",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "279014778",
+        "name": "虾米用户",
+        "motto": "这家伙很聪明什么也没留下...",
+        "link": "https://emumo.xiami.com/u/279014778",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/5580/5ba7a46746478_279014778_1537713255.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2019-05-06 21:54",
+      "ageree_num": 1,
+      "disageree_num": 0,
+      "brief": "<img src=\"//img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/402.png\">没练开锁                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    }
+  ]
+}

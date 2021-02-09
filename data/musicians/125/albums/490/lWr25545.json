@@ -1,0 +1,49 @@
+{
+  "name": "有种",
+  "link": "https://emumo.xiami.com/song/lWr25545",
+  "id": "5897",
+  "album_name": "黑洞",
+  "singers": "陈小春",
+  "lyrics_by": [
+    "淑雅",
+    "继聪"
+  ],
+  "composed_by": [
+    "张继聪"
+  ],
+  "play_count_num": 3273,
+  "share_count_num": 1,
+  "comments_num": 2,
+  "lyric": "什么颜色 什么噪音<br>\n我都不想看 我都不想听<br>\n别想要我戴上你们 打造的面具<br>\n什么事情 什么原因<br>\n跟谁有关系 跟谁没关系<br>\n别想莫明奇妙 扯到我这里<br>\n<br>\nHey 咱们都说普通话<br>\n不管你哪一挂<br>\n请你讲点我 听得懂的话<br>\n有种 神话<br>\n<br>\n不是拥抱 不是惩罚<br>\n是我坚持的步伐<br>\n有种 造化<br>\n不会孤单 不会害怕 我不会搞砸<br>\n<br>\n谁会关心 谁会在意<br>\n我要的游戏 我要的呼吸<br>\n我的身边一年四季 都是冷空气<br>\n说话的人 看看自己<br>\n嘴里灌酒精 手叼尼古丁<br>\n还要忙着喋喋不休 挑毛病<br>\n<br>\nHey 咱们都说普通话<br>\n不管你哪一挂<br>\n请你讲点我 听得懂的话<br>\n有种 神话<br>\n<br>\n不是拥抱 不是惩罚<br>\n是我坚持的步伐<br>\n有种 造化<br>\n<br>\n不会孤单 不会害怕 我不会搞砸<br>\n<br>\n有种 神话<br>\n<br>\n不是拥抱 不是惩罚<br>\n是我坚持的步伐<br>\n有种 造化<br>\n<br>\n不会孤单 不会害怕 我不会搞砸<br>\n<br>\n有一种神话<br>\n不是拥抱 不是惩罚<br>\n是我坚持的步伐<br>\n有种 造化<br>\n不会孤单 不会害怕 我不会",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 5897\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 5897\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "427387",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/427387",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/8/5f13bdfbde33b_427387_1595129339.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2018-04-23 10:40",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "？？所以现在的音乐发展是怎么回事？？                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "6513356",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/6513356",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/130/26/6513356/6513356_1332383357.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2011-11-12 23:17",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "好听",
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "永远向前",
+  "link": "https://emumo.xiami.com/song/xNEMk5c2b42",
+  "id": "1804813883",
+  "album_name": "带上爱飞翔",
+  "singers": "刘媛媛",
+  "lyrics_by": [
+    "邱进"
+  ],
+  "composed_by": [
+    "斯琴朝克图"
+  ],
+  "play_count_num": 384,
+  "share_count_num": 3,
+  "comments_num": 0,
+  "lyric": "掩上面前的案卷<br>\n胸中掀起层层的波澜<br>\n东方的启明星悬挂在天边<br>\n侦查员不眠<br>\n不眠的夜晚<br>\n啊 祖国信任我<br>\n交给我千钧重担<br>\n啊 人民培育我<br>\n培育我忠诚 勇敢<br>\n要让那五星红旗永远鲜艳<br>\n绝不忘先辈们创业那百倍的艰难<br>\n啊 永远向前<br>\n轻轻掩上面前的案卷<br>\n胸中掀起层层的波澜<br>\n灿烂的阳光下孩子们的笑声<br>\n侦查员力量<br>\n力量的源泉<br>\n啊 祖国信任我<br>\n交给我千钧重担<br>\n啊 人民培育我<br>\n培育我忠诚 勇敢<br>\n无论遇到多少风风雨雨<br>\n我们有不变的信念<br>\n保卫着红色的江山<br>\n啊红色的江山<br>\n绝不忘先辈们创业那百倍的艰难<br>\n啊 永远向前",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1804813883\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1804813883\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": []
+}

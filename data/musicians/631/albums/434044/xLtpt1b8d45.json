@@ -1,0 +1,42 @@
+{
+  "name": "Arcturus(live)",
+  "link": "https://emumo.xiami.com/song/xLtpt1b8d45",
+  "id": "1770130025",
+  "album_name": "One Cake One Live",
+  "singers": "林一峰                      \t\t                      \t                      \t\t;                       \t\t                      \t\tThe Pancakes",
+  "play_count_num": 2387,
+  "share_count_num": 6,
+  "comments_num": 2,
+  "lyric": "Arcturus oh arcturus<br>\nAre you gay or are you stright<br>\nMonday wednesday friday you are stright<br>\nArcturus oh arcturus<br>\nWhat you told they were not to say<br>\nTuesday thursday saturday you are gay<br>\nHow about sunday<br>\nHow about sunday<br>\nDo you want to sleep with me anyway<br>\nHow about sunday<br>\nHow about sunday<br>\nMaybe you should let me sleep with you<br>\nAnd let me tell you if you're okay<br>\nArcturus oh arcturus<br>\nAre you gay or are you stright<br>\nMonday wednesday friday you are stright<br>\nArcturus oh arcturus<br>\nWhat you told they were not to say<br>\nTuesday thursday saturday you are gay<br>\nHow about sunday<br>\nHow about today<br>\nDo you want to sleep with me anyway<br>\nHow about sunday<br>\nHow about sunday<br>\nMaybe you should let me sleep with you and<br>\nLet me tell you if you're okay<br>\nHow about how about how about today<br>\nDo you want to sleep with me anyway<br>\nHow about sunday<br>\nHow about sunday<br>\nMaybe you should let me sleep with you and<br>\nLet me tell you if you're okay",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1770130025\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1770130025\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "13790931",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/13790931",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/275/13790931_1426510037.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-04-07 22:42",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "我燃起来了！！！啊啊啊啊啊！                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "223532",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/223532",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/4/55be3cb7a5ca9_223532_1438530743.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2015-01-03 11:09",
+      "ageree_num": 2,
+      "disageree_num": 0,
+      "brief": "Monday Wednesday Friday you are gayyyyyyyy……",
+      "replies": []
+    }
+  ]
+}

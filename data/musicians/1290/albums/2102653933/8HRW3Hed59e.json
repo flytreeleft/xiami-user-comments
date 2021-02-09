@@ -1,0 +1,51 @@
+{
+  "name": "等待我的船Wait for My Boat",
+  "link": "https://emumo.xiami.com/song/8HRW3Hed59e",
+  "id": "1796754913",
+  "album_name": "上海岁月",
+  "singers": "左小祖咒",
+  "lyrics_by": [
+    "左小祖咒"
+  ],
+  "composed_by": [
+    "左小祖咒"
+  ],
+  "arranged_by": [
+    "雨墨"
+  ],
+  "play_count_num": 2277,
+  "share_count_num": 19,
+  "comments_num": 2,
+  "lyric": "嗯……可以进来一起吗？<br>\n我不想独自一个人在外面<br>\n如果没下雨的话 艾丽莎<br>\n喜欢你在画布上涂抹<br>\n请让我进来吧 好冷啊<br>\n清冷的五角场<br>\n过去这里是我梦乡<br>\n因为时间过得很快<br>\n因为时间可以过得很快<br>\n等待我的船 艾丽莎<br>\n听见你的声音 我怎能忘记你<br>\n无论它有多艰难<br>\n我趴在你胸膛哭得鼻涕连天 昏死过去<br>\n当你说 说要离开我<br>\n我知道我将无法适应新的生活<br>\n嗯……可以进来一起吗？<br>\n我不想独自一个人在外面<br>\n如果没下雨的话 艾丽莎<br>\n你想和我做点什么<br>\n请让我进来吧 好冷啊<br>\n清冷的五角场<br>\n当你想去你想去的地方 想飞在高空<br>\n莞尔一笑  低头不语<br>\n宝贝，你会变成巨人一样<br>\nundefined",
+  "lyric_extra": "<p>\n                \t                    \t\t\t\t\t\n\t\t\t\t\t<script>\n\t\t\t\t\tfunction doPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 1,\n\t\t\t\t\t\t\t'song_id': 1796754913\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', true);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\tfunction undoPure() {\n\t\t\t\t\t\t$.get('/song/puresong',\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t'mark': 0,\n\t\t\t\t\t\t\t'song_id': 1796754913\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction(data) {\n\t\t\t\t\t\t\tif (data.status) {\n\t\t\t\t\t\t\t\t$('input[name=\"pure\"]').attr('checked', false);\n\t\t\t\t\t\t\t\tclosedialog();\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}\n\t\t\t\t\t$(function() {\n\t\t\t\t\t\t$('input[name=\"pure\"]').click(function() {\n\t\t\t\t\t\t\tif ($(this).attr('checked')) {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"doPure();return false;\">是，纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse {\n\t\t\t\t\t\t\t\tshowDialog('', '<h3>提示</h3><div class=\"dialog_content\"><p class=\"alert\"><span>歌曲是否为纯音乐，没有歌词？</span><a class=\"button major\" href=\"\" onclick=\"undoPure();return false;\">不是纯音乐</a><a class=\"button minor\" href=\"\" onclick=\"closedialog();return false;\">取消</a></p></div><a href=\"\" class=\"jqmClose\">关闭</a>');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\treturn false;\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t\t</script>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t</p>",
+  "comments": [
+    {
+      "author": {
+        "id": "440850371",
+        "name": "虾米用户",
+        "motto": "",
+        "link": "https://emumo.xiami.com/u/440850371",
+        "photo_url": "https://pic.xiami.net/images/default/xiami_8/avatar_new_3x.png@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2020-03-18 17:39",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "来自两年后的第二条评论                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自android客户端</a>",
+      "replies": []
+    },
+    {
+      "author": {
+        "id": "5795275",
+        "name": "虾米用户",
+        "motto": " ",
+        "link": "https://emumo.xiami.com/u/5795275",
+        "photo_url": "https://pic.xiami.net/images/avatar_new/115/5a0ea42808d4d_5795275_1510908968.jpg@1e_1c_0i_1o_100Q_100w_100h"
+      },
+      "time": "2017-09-11 17:15",
+      "ageree_num": 0,
+      "disageree_num": 0,
+      "brief": "五角场往事...我是第一个留言的吗                     <br><br><a href=\"//emumo.xiami.com/apps/mobile\" target=\"_blank\">来自iPhone客户端</a>",
+      "replies": []
+    }
+  ]
+}
