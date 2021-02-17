@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/63d69e2d900f9856510544646ace3c93.jpg)](https://i.xiami.com/luowuamu) | **播放数**: 20223890<br>**粉丝数**: 4908<br>**评论数**: 105<br>**地区**: China 中国大陆<br>**风格**: <br> |
+| [![](../../images/musicians/63d69e2d900f9856510544646ace3c93.jpg)<br>阿木](https://i.xiami.com/luowuamu) | **播放数**: 20223890<br>**粉丝数**: 4908<br>**评论数**: 105<br>**地区**: China 中国大陆<br>**风格**: <br> |
 
 ## 档案
 
@@ -66,6 +66,33 @@
 排解压力的方法：上网玩游戏
 
 ## 专辑
+
+| 名称 | 语种 | 唱片公司 | 发行时间 | 专辑类别 | 专辑风格 |
+| :--: | :-- | :-- | :-- | :-- | :-- |
+| [![](../../images/albums/eea118d21559b6ecccd5a44bcf1634da.jpg)<br>我太难了 (合唱版)](https://emumo.xiami.com/album/2105376595) | 国语 | 美乐文化 | 2019年10月28日 | EP, 单曲 |  |
+| [![](../../images/albums/8a832606387a31b645a57780db2da615.jpg)<br>还是会想她](https://emumo.xiami.com/album/2105370204) | 国语 | YuGe音乐 | 2019年10月24日 | EP, 单曲 | 国语流行 Mandarin Pop |
+| [![](../../images/albums/d663ebf7c833d3db0a79c9cfda298625.jpg)<br>风儿会替我为你歌唱](https://emumo.xiami.com/album/2104965258) | 国语 | 美乐文化 | 2019年07月01日 | EP, 单曲 |  |
+| [![](../../images/albums/3f918f74547fd3c47e9623e7f94ab886.jpg)<br>要嫁就嫁到龙门来](https://emumo.xiami.com/album/2104421712) | 国语 | 壹字唱片 | 2018年12月27日 | EP, 单曲 | 国语流行 Mandarin Pop |
+| [![](../../images/albums/4a4ac256af98868115864aac3f9e0fad.jpg)<br>喝多了想你了](https://emumo.xiami.com/album/2104317635) | 国语 | 京粤世纪 | 2018年11月30日 | EP, 单曲 | 国语流行 Mandarin Pop |
+| [![](../../images/albums/b7e27fec2f543571cbfe1a22bd4b88ac.jpg)<br>爱太深](https://emumo.xiami.com/album/2102736787) | 国语 | 巨象文化 | 2017年04月24日 | EP, 单曲 |  |
+| [![](../../images/albums/fed9bc607bfa435411943811f62d5b20.jpg)<br>太纵容](https://emumo.xiami.com/album/2102653604) | 国语 | 新奥视讯 | 2016年11月17日 | EP, 单曲 |  |
+| [![](../../images/albums/3291ef7abdc1bdfec01a2d7b97c73d31.jpg)<br>替身](https://emumo.xiami.com/album/1331494694) | 国语 | 华音世纪 | 2015年05月13日 | EP, 单曲 |  |
+| [![](../../images/albums/d396c00c300daa6e0e47736fef2b51da.jpg)<br>手](https://emumo.xiami.com/album/13354352) | 国语 | 华音世纪 | 2014年10月15日 | 录音室专辑 |  |
+| [![](../../images/albums/6e66c2020924d70cd0d767e2925bb339.jpg)<br>等不到的爱情](https://emumo.xiami.com/album/1775088804) | 国语 | 华音世纪 | 2013年07月29日 | EP, 单曲 |  |
+| [![](../../images/albums/25d6198fc35807f0ea474c90b247db5f.jpg)<br>爱过的你还在我心里(独唱版)](https://emumo.xiami.com/album/1668152833) | 国语 | 华音世纪, 美乐文化 | 2013年05月10日 | EP, 单曲 |  |
+| [![](../../images/albums/900a3ee12512cb803053c97fee7c2597.jpg)<br>鹊鹁](https://emumo.xiami.com/album/63251991) | 国语 | 华音世纪 | 2013年03月14日 | EP, 单曲 |  |
+| [![](../../images/albums/747b55d30400cd9f5a56752a1fad25df.jpg)<br>能爱多久爱多久](https://emumo.xiami.com/album/571406) | 国语 | 美乐文化 | 2012年12月27日 | EP, 单曲 |  |
+| [![](../../images/albums/79dc92cd59107e1160e97bc3bb5aab87.jpg)<br>你是我的唯一](https://emumo.xiami.com/album/448434) | 国语 | 美乐文化 | 2011年06月22日 | EP, 单曲 |  |
+| [![](../../images/albums/fbbc4216923c26a2710717593d249f57.jpg)<br>悬崖上的爱](https://emumo.xiami.com/album/430958) | 国语 | 美乐文化 | 2011年03月17日 | EP, 单曲 |  |
+| [![](../../images/albums/bc2b997419a21eaeb5f10d363da9331a.jpg)<br>不要说我们是朋友](https://emumo.xiami.com/album/412783) | 国语 | 美乐文化 | 2010年11月23日 | EP, 单曲 |  |
+| [![](../../images/albums/38315f0aed025939a5915b372e7e718e.jpg)<br>江山](https://emumo.xiami.com/album/380519) | 国语 | 美乐文化 | 2010年03月22日 | EP, 单曲 |  |
+| [![](../../images/albums/0e0f03082032681dc2ffbbb0c9dfee7b.jpg)<br>爱过的你还在我心里](https://emumo.xiami.com/album/364711) | 国语 | 美乐文化 | 2010年01月01日 | 录音室专辑 |  |
+| [![](../../images/albums/41807ebefdda41e6b03d52dcbe947ebb.jpg)<br>向远方](https://emumo.xiami.com/album/412042) | 国语 | 龙源音乐 | 2010年01月01日 | 录音室专辑 |  |
+| [![](../../images/albums/cad72ab73f6fbc7439a03c12839ce1a7.jpg)<br>不该爱的人](https://emumo.xiami.com/album/339211) | 国语 | 美乐文化 | 2009年07月29日 | EP, 单曲 |  |
+| [![](../../images/albums/083614b5751ca5a2facbfa10c5efcfb8.jpg)<br>梦想的方向](https://emumo.xiami.com/album/439884) | 国语 | 美乐文化 | 2008年03月06日 | EP, 单曲 |  |
+| [![](../../images/albums/c56d09b0b8368fa38474bd6f3e106beb.jpg)<br>有一种爱叫做放手Love](https://emumo.xiami.com/album/30) | 国语 | 俏佳人 | 2007年05月28日 | 录音室专辑 | 摇滚 Rock & Roll, 流行摇滚 Pop Rock, 国语流行 Mandarin Pop |
+| [![](../../images/albums/8a799fd1e41e79e8053c25b21351f5fd.jpg)<br>戏梦Play Dream](https://emumo.xiami.com/album/31) | 国语 | 俏佳人 | 2007年03月19日 | 录音室专辑 | 国语流行 Mandarin Pop |
+| [![](../../images/albums/33a0dae873262679e27d4871f9498d04.jpg)<br>37.2℃男友](https://emumo.xiami.com/album/32) | 国语 | 泰达唱片 | 2004年10月25日 | 录音室专辑 | 摇滚 Rock & Roll, 流行摇滚 Pop Rock, 国语流行 Mandarin Pop |
 
 ## 评论
 
