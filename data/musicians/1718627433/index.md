@@ -360,7 +360,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85568296)<br>只有阳光而无阴影 只有欢...<br>2017-09-27 08:06<br>赞(0) 踩(0) | <div>好厉害！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326204257)<br><br>2017-09-26 15:46<br>赞(1) 踩(0) | <div>24号那天晚上的现场你满脸都是幸福  希望和你的小哥哥一直走下去 加油啊 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326762309)<br><br>2017-09-25 12:58<br>赞(1) 踩(0) | <div>第一次听到心里的欢喜</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302295190)<br><br>2017-09-25 12:48<br>赞(0) 踩(0) | <div>..............................<br>.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302295190)<br><br>2017-09-25 12:48<br>赞(0) 踩(0) | <div>...............................</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244849389)<br>世界以疼吻我，要我报之以...<br>2017-09-24 10:48<br>赞(1) 踩(0) | <div>好喜欢你的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197985627)<br>什么都不要，只要自由<br>2017-09-21 22:42<br>赞(1) 踩(0) | <div>有才华，歌声自然流水般清澈。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269388625)<br><br>2017-09-16 07:11<br>赞(0) 踩(0) | <div>春花老婆↖(^&amp;omega;^)↗</div> |

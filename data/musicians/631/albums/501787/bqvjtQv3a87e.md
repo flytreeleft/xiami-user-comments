@@ -105,7 +105,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4903867)<br>这家伙很聪明什么也没留下...<br>2012-06-15 01:34<br>赞(0) 踩(0) | <div>。。。而你似看穿我扮強悍 笑我姿勢未純熟 吸了煙　呼出眼淚。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3158161)<br><br>2012-06-14 13:45<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356131)<br><br>2012-06-02 22:36<br>赞(4) 踩(0) | <div>这首歌是不是完胜周董的《给我一首歌的时间》，林一峰的歌都细腻的要死了，果然GAY写词都很棒嘛。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4069618)<br><br>2012-05-07 19:20<br>赞(0) 踩(0) | <div>gaixiangbugaixianggaitingbugai<br>ting</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4069618)<br><br>2012-05-07 19:20<br>赞(0) 踩(0) | <div>gaixiangbugaixianggaitingbugaiting</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4069618)<br><br>2012-04-19 16:56<br>赞(0) 踩(0) | <div>随机播放竟然随到了这首，疯了吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7968176)<br><br>2012-04-16 19:18<br>赞(1) 踩(0) | <div>有些癮戒不掉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532661)<br>不要停止我的音乐<br>2012-04-14 17:29<br>赞(0) 踩(0) | <div>好伤心既一首</div> |

@@ -964,7 +964,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/741567)<br> <br>2011-11-07 22:27<br>赞(0) 踩(0) | <div>那只女子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3819550)<br><br>2011-11-07 19:53<br>赞(0) 踩(0) | <div>第一次听她的声音就喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/523143)<br>你听见了吗？<br>2011-11-07 10:30<br>赞(0) 踩(0) | <div>像这样的清新女声有点儿太多了，有时候听着听着就免疫了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5952982)<br><br>2011-11-06 15:15<br>赞(0) 踩(0) | <div>like..........................<br>...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5952982)<br><br>2011-11-06 15:15<br>赞(0) 踩(0) | <div>like.............................</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4959148)<br><br>2011-11-06 13:00<br>赞(0) 踩(0) | <div>舒服的女声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2887455)<br><br>2011-11-06 10:03<br>赞(0) 踩(0) | <div>Oo La La  Oo La La  Oo La La</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2943000)<br><br>2011-11-05 18:53<br>赞(0) 踩(0) | <div>一点点欢快的小清新</div> |

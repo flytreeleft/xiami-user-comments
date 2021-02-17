@@ -325,7 +325,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299820)<br><br>2013-03-03 10:52<br>赞(0) 踩(0) | <div>like</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13289675)<br><br>2013-03-01 19:37<br>赞(0) 踩(0) | <div>疯子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5904635)<br>无<br>2013-02-27 16:01<br>赞(0) 踩(0) | <div>正喔</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3920064)<br><br>2013-02-25 16:28<br>赞(0) 踩(0) | <div>..............................<br>..............................<br>..</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3920064)<br><br>2013-02-25 16:28<br>赞(0) 踩(0) | <div>............................................................<br>..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13193128)<br>守敬<br>2013-02-23 16:53<br>赞(0) 踩(0) | <div>.........</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12804354)<br>乱弹<br>2013-02-22 15:54<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12982380)<br><br>2013-02-10 09:37<br>赞(0) 踩(0) | <div>疯子</div> |

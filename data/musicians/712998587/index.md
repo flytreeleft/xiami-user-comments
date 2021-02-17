@@ -126,7 +126,7 @@ Noicybino，自由作曲人。<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18631407)<br>在所有物是人非的景色里最...<br>2015-08-20 06:15<br>赞(0) 踩(0) | <div><q><b>Noicybino说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38812126)<br> <br>2015-08-10 18:11<br>赞(0) 踩(0) | <div>歌太少，不够听，非常棒</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2015-08-31 21:02<br>赞(0) 踩(0) | <div>谢谢支持！希望喜欢我的首专！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2015-08-10 12:18<br>赞(60) 踩(0) | <div>关于这次的首个专辑，如果非加一个目的，就是纪念过去，珍惜现在。lane本义是一条小巷、小路，是通向我脑海深处的一条路，lonely\anonymous\narrative\ev<br>aporate四个词又分别对应着走过这条路时的我的一些碎碎念吧。希望有人会喜欢。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2015-08-10 12:18<br>赞(60) 踩(0) | <div>关于这次的首个专辑，如果非加一个目的，就是纪念过去，珍惜现在。lane本义是一条小巷、小路，是通向我脑海深处的一条路，lonely\anonymous\narrative\evaporate四个词又分别对应着走过这条路时的我的一些碎碎念吧。希望有人会喜欢。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290274232)<br>不过矫情罢了<br>2018-12-02 07:40<br>赞(0) 踩(0) | <div>终于听到了正解<br>封面也很有意蕴<br>彩色的路像是一个人站着山上看红色的夕阳</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4009230)<br>青秧栽满田，低头水中天<br>2015-08-09 16:53<br>赞(0) 踩(0) | <div>Silent 2009，我喜欢这个名字！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2015-08-31 21:02<br>赞(0) 踩(0) | <div>谢谢支持！</div> |

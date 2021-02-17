@@ -22,7 +22,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49227080)<br><br>2015-05-31 01:04<br>赞(4) 踩(0) | <div>夜色如霜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18355768)<br>马孔多在下雨。<br>2015-05-15 18:16<br>赞(4) 踩(0) | <div>美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47725538)<br>暂无签名~<br>2015-05-05 01:27<br>赞(3) 踩(0) | <div>幻想四⊙_⊙ 泪流满面</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-02-01 00:30<br>赞(2) 踩(0) | <div>good..........................<br>........!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-02-01 00:30<br>赞(2) 踩(0) | <div>good..................................!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16131804)<br><br>2014-03-11 23:31<br>赞(2) 踩(0) | <div>123</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/852998)<br>西尔德斯神话<br>2013-07-17 10:25<br>赞(4) 踩(0) | <div>今天耳塞播放到了幻想三国志四的原声，突然觉得这首特别美（好吧，来自哪个场景我还有印象，问题是这首拿出来单听也很空灵）（我的仙人哟……每次想脱F的时候，一想到他还是觉得放不下，好基友就不能都不死么）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2880200)<br>我还没想好要写什么...<br>2012-07-25 00:11<br>赞(4) 踩(0) | <div>九眼之虚场景音乐</div> |

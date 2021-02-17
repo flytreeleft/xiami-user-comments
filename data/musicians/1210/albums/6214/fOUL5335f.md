@@ -1951,7 +1951,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8212211)<br><br>2012-04-26 17:12<br>赞(0) 踩(0) | <div>再见。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3544291)<br><br>2012-04-23 01:20<br>赞(0) 踩(0) | <div>这颗心，终于找到家了。再见，周小姐…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4264473)<br><br>2012-04-21 15:51<br>赞(0) 踩(0) | <div>不回头~~~不回头走下去~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6353032)<br>：<br>2012-04-19 21:15<br>赞(0) 踩(0) | <div>再见~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6353032)<br>：<br>2012-04-19 21:15<br>赞(0) 踩(0) | <div>再见~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8539902)<br><br>2012-04-19 20:59<br>赞(0) 踩(0) | <div>介个是慢版的么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112797)<br><br>2012-04-19 08:04<br>赞(0) 踩(0) | <div>最近很喜欢听这歌 特有感觉 早安 祈求今天全广东不要下太大雨……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8885247)<br><br>2012-04-18 13:54<br>赞(0) 踩(0) | <div>我怕我没有机会跟你说1声再见</div> |

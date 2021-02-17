@@ -412,7 +412,7 @@ Chinese Football
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7645492)<br>CREEPY_DOLL<br>2016-01-09 00:53<br>赞(1) 踩(0) | <div>写材料写的昏天黑地还是提前溜了去看现场。现场挺棒的。王老师真是和蔼可亲啊： ）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46284980)<br>谢谢你让我成为了我<br>2016-01-08 23:21<br>赞(0) 踩(0) | <div>终于如愿看到你们了，晚安！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50872379)<br>=<br>2016-01-08 23:01<br>赞(0) 踩(0) | <div>四百米真棒 今天成都小酒馆  可惜大家都不是很嗨</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6975678)<br>生命如此短暂我比烟花灿烂<br>2016-01-05 18:16<br>赞(0) 踩(0) | <div>nooooooooooooo................<br>.....1月8号没法回成都......听不成了............</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6975678)<br>生命如此短暂我比烟花灿烂<br>2016-01-05 18:16<br>赞(0) 踩(0) | <div>nooooooooooooo.....................1月8号没法回成都......听不成了............</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8128176)<br>好好活着<br>2016-01-03 22:57<br>赞(0) 踩(0) | <div>这是武汉的乐队吗？不错耶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51957189)<br>我还没想好要写什么...<br>2016-01-02 01:37<br>赞(0) 踩(0) | <div>棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14288675)<br><br>2016-01-01 01:20<br>赞(0) 踩(0) | <div>不错呀</div> |

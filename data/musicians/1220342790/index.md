@@ -1167,7 +1167,7 @@ TTa.k.a.TizzyT，优秀的年轻Hip-Hop音乐制作人和饶舌歌手。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51642469)<br>Fly<br>2015-06-22 17:46<br>赞(1) 踩(0) | <div>帅了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44937009)<br><br>2015-06-20 16:54<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51507094)<br><br>2015-06-20 12:48<br>赞(0) 踩(0) | <div><img src="../../images/comments/aa870edd44d3f615d76bed2188beb79d.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37423384)<br>.<br>2015-06-19 18:39<br>赞(0) 踩(0) | <div>..............................<br>....................</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37423384)<br>.<br>2015-06-19 18:39<br>赞(0) 踩(0) | <div>..................................................</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40252759)<br>我可是正人君子<br>2015-06-19 12:19<br>赞(1) 踩(0) | <div>棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50870230)<br>不想知道谁最美，只想比谁...<br>2015-06-19 00:04<br>赞(1) 踩(0) | <div><img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png">太爱你的嗓音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39788841)<br> .<br>2015-06-17 08:59<br>赞(0) 踩(0) | <div>lium</div> |

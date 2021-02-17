@@ -232,7 +232,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15485844)<br>暂无签名~<br>2014-08-14 17:49<br>赞(0) 踩(0) | <div>学起来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34532959)<br>喜欢隔着板墙一起听雨的感...<br>2014-08-14 16:42<br>赞(0) 踩(0) | <div>感谢声碎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31983378)<br><br>2014-08-14 03:19<br>赞(0) 踩(0) | <div>看云的少年，想要分享给大家这首歌～哈哈，我是鹿鹿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/547986)<br><br>2014-08-14 00:37<br>赞(0) 踩(0) | <div>intent:#Intent;S.K_1171477665=<br>;end 缘分，西安草莓，那年大二，第一次去音乐节，第二天上午的第一组艺人，我站在舞台下，踩着栏杆，下着雨，我带</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/547986)<br><br>2014-08-14 00:37<br>赞(0) 踩(0) | <div>intent:#Intent;S.K_1171477665=;end 缘分，西安草莓，那年大二，第一次去音乐节，第二天上午的第一组艺人，我站在舞台下，踩着栏杆，下着雨，我带</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9297378)<br><br>2014-08-14 00:23<br>赞(0) 踩(0) | <div>呃 听前奏还以为耳机坏掉里(*&amp;gt;.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/586220)<br>爱和音乐<br>2014-08-14 00:11<br>赞(0) 踩(0) | <div>#跳电台# 真想再听一次现场。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29766359)<br>一切执念皆幻象<br>2014-08-13 23:20<br>赞(0) 踩(0) | <div>真没想到好声音还有人唱声音碎片的……听到的时候着实无语了</div> |

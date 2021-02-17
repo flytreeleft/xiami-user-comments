@@ -1106,7 +1106,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35530268)<br>So What？<br>2015-02-23 10:23<br>赞(0) 踩(0) | <div><q><b>吃个馒头压压惊说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35420797)<br>别看了，想不出签名！<br>2015-03-01 10:13<br>赞(0) 踩(0) | <div><q><b>陈铎LeahChan说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35530268)<br>So What？<br>2015-03-01 10:24<br>赞(0) 踩(0) | <div><q><b>吃个馒头压压惊说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10312958)<br>无远不近，心有所动<br>2015-02-15 19:52<br>赞(2) 踩(0) | <div>婷。回来国内发展吧，国内的潜在歌迷是加拿大的好多倍，，，，，，，，，，，，，，，，，，，，，；；；；；；；；；；；；；；；；；；；；；；；；</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10312958)<br>无远不近，心有所动<br>2015-02-15 19:52<br>赞(2) 踩(0) | <div>婷。回来国内发展吧，国内的潜在歌迷是加拿大的好多倍，，，，，，，，，，，，，，，，，，，，，；；；；；；；；；<br>；；；；；；；；；；；；；；；</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4816409)<br><br>2015-03-26 04:30<br>赞(0) 踩(0) | <div>国内的大多数歌迷听歌不愿意花钱，曲婉婷会饿死的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40580399)<br>既得不到救赎，又无法克制...<br>2015-04-19 10:17<br>赞(0) 踩(0) | <div><q><b>虫子说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35530268)<br>So What？<br>2015-02-11 11:07<br>赞(0) 踩(0) | <div>爱人</div> |

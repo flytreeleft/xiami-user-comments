@@ -116,7 +116,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27511373)<br><br>2014-05-17 10:29<br>赞(0) 踩(0) | <div>不要疑惑而停下来，不要失败而停下来，上帝会牵著你的手只要你勇敢往前走，一切再重来。2014年5月23日是你们11个人首场SHOWCASE，加油EXO!！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11447006)<br><br>2014-03-22 20:42<br>赞(0) 踩(0) | <div>为爱付出的过程 会让你坚强而伟大！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7536085)<br>无楽不悦<br>2013-12-25 23:44<br>赞(0) 踩(0) | <div>我可以，一定可以！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13937802)<br>lalalalala<br>2013-04-13 11:29<br>赞(0) 踩(0) | <div>httptechgroupsyahoocomgroupnid<br>ongde1024</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13937802)<br>lalalalala<br>2013-04-13 11:29<br>赞(0) 踩(0) | <div>httptechgroupsyahoocomgroupnidongde1024</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1553443)<br><br>2012-12-14 22:19<br>赞(0) 踩(0) | <div>忽然想起的一首、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10787280)<br>Mack Wu<br>2012-09-26 23:57<br>赞(0) 踩(0) | <div>【晚安·心静】&amp;quot;过去的辉煌/暂时彻底忘掉吧/先不去想过去的美好/不要疑惑而停下来/不要失败而停下来/上帝会牵著你的手/只要你勇敢往前走&amp;quot;—张震岳《一切再重来》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1048203)<br> <br>2012-08-24 10:45<br>赞(0) 踩(0) | <div>重来吧 魔咒延续</div> |

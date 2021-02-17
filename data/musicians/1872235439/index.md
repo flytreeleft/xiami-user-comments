@@ -257,7 +257,7 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4123238)<br><br>2016-02-16 16:31<br>赞(0) 踩(0) | <div>喜欢这种沸腾但不“燥”的音乐，所以我决定了听腻一首在听下首，我怕耳朵以后会挑食！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5493286)<br>。<br>2016-02-16 00:43<br>赞(1) 踩(0) | <div>过来听喜庆的过年新歌了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2016-02-15 12:54<br>赞(0) 踩(0) | <div>美</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2016-02-15 12:21<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2016-02-15 12:21<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58573018)<br> <br>2016-02-12 23:19<br>赞(0) 踩(0) | <div>王利夫飞大了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54354813)<br>Wow...<br>2016-02-06 11:36<br>赞(0) 踩(0) | <div>太棒了！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16365190)<br>混蛋的另一种<br>2016-02-11 18:12<br>赞(0) 踩(0) | <div>新年快乐</div> |

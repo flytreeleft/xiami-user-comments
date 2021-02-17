@@ -159,7 +159,7 @@ ISRC CN-A13-14-00131
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13902825)<br>唇语也绽放似昙花一现<br>2014-06-26 20:33<br>赞(0) 踩(0) | <div>很惊艳哦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37752412)<br><br>2014-06-26 19:06<br>赞(0) 踩(0) | <div>玩心大发了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6539801)<br>不小心洒上了拉面汤扔掉了<br>2014-06-26 18:38<br>赞(60) 踩(0) | <div>这首歌好惊艳！！歌词太有意思了 博大精深的中华文化被发挥的感觉……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2830464)<br><br>2014-06-26 15:58<br>赞(0) 踩(0) | <div>yiweideyiweideyiweideyiweideyi<br>wei……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2830464)<br><br>2014-06-26 15:58<br>赞(0) 踩(0) | <div>yiweideyiweideyiweideyiweideyiwei……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8949962)<br>后知后觉。<br>2014-06-26 14:56<br>赞(1) 踩(0) | <div>这词写的太酷炫了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14502882)<br><br>2014-06-26 09:11<br>赞(3) 踩(0) | <div>郁可唯这张新专辑太好听了...无法形容，全都是淡淡的淡淡的，好喜欢❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15440187)<br><br>2014-06-26 07:53<br>赞(0) 踩(0) | <div>唯以为 唯一的一位未倚偎 为倚偎 未一味的倚偎 唯以为 倚偎唯一的一位 唯一位 倚偎了唯一的另一位 倚偎 唯一的一位 一味的倚偎</div> |

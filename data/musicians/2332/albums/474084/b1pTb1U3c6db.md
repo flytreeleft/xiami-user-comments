@@ -80,7 +80,7 @@ You Are you
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7270794)<br><br>2011-12-25 14:46<br>赞(0) 踩(0) | <div>Merry Christmas~献给心中永远最珍贵的圣诞节~一年尾声最重要的节日，年末最诚挚的祝福，希望藉由圣诞节可以给大家无穷的力量和希望。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7333267)<br><br>2011-12-25 01:59<br>赞(0) 踩(0) | <div>晚安~.not.u.ndy..you.are.leaving..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3263149)<br><br>2011-12-24 18:37<br>赞(0) 踩(0) | <div>「Christmas is coming But I still feel lonely」你答應給我一個擁抱 一場大雪 可是 你只給了我一個朗尼Christmas</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/564724)<br><br>2011-12-24 11:36<br>赞(0) 踩(0) | <div>Merry Christmas~~~~~~~~~~~~~~~~~~~~~<br>~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/564724)<br><br>2011-12-24 11:36<br>赞(0) 踩(0) | <div>Merry Christmas~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2990665)<br><br>2011-12-18 18:00<br>赞(0) 踩(0) | <div>太應景,不小心被打到。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5028516)<br><br>2011-12-06 14:45<br>赞(0) 踩(0) | <div>Christmas is coming and I can see the reindeer.Love isn’t always icy.圣诞快到了，那些single或者4 in love的人儿，都要快乐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5028516)<br><br>2011-12-06 14:45<br>赞(0) 踩(0) | <div>Christmas is coming and I can see the reindeer.Love isn’t always icy.圣诞快到了，那些或single或fall in love的人儿，都要快乐。</div> |

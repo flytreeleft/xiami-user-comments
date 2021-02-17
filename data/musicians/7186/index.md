@@ -427,7 +427,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11576854)<br>自由之思想/独立之人格<br>2015-01-01 19:19<br>赞(0) 踩(0) | <div><q><b>Q_lear说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6865761)<br>暂无签名~<br>2017-10-30 10:03<br>赞(0) 踩(0) | <div><q><b>Quandtudors说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3055754)<br>Eyes of the ...<br>2014-12-19 08:08<br>赞(0) 踩(0) | <div>See u tonight</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6053498)<br>丢<br>2014-12-14 13:48<br>赞(0) 踩(0) | <div>..............................<br>...................</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6053498)<br>丢<br>2014-12-14 13:48<br>赞(0) 踩(0) | <div>.................................................</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31749205)<br><br>2014-12-11 21:40<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39165874)<br><br>2014-11-30 22:18<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10860336)<br>暂无签名~<br>2014-11-27 13:19<br>赞(0) 踩(0) | <div>❤</div> |

@@ -1908,7 +1908,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8379648)<br> <br>2013-05-26 10:29<br>赞(0) 踩(0) | <div>Jackie park;)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9045628)<br><br>2013-05-26 01:17<br>赞(0) 踩(0) | <div>阿猫阿狗海绵宝宝全部都带上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8131419)<br><br>2013-05-25 09:12<br>赞(0) 踩(0) | <div>猫宁~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10147473)<br><br>2013-05-24 21:18<br>赞(0) 踩(0) | <div>lululu~~hahaha~bababa~dedede~w<br>ohu~wohu~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10147473)<br><br>2013-05-24 21:18<br>赞(0) 踩(0) | <div>lululu~~hahaha~bababa~dedede~wohu~wohu~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3099203)<br><br>2013-05-24 14:46<br>赞(0) 踩(0) | <div>动力之歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15358433)<br><br>2013-05-23 19:27<br>赞(0) 踩(0) | <div>来点儿欢乐的~笑哈哈，出发发发发发</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15358433)<br><br>2013-05-23 19:20<br>赞(0) 踩(0) | <div>来点儿欢乐的~笑哈哈</div> |

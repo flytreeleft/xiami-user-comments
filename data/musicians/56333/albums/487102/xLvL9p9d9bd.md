@@ -478,9 +478,9 @@ Life repeats again and again<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21391069)<br><br>2013-09-09 11:30<br>赞(0) 踩(0) | <div>#听个歌呗#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34290)<br>赶路的人啊 永远不明白<br>2013-09-06 22:27<br>赞(0) 踩(0) | <div>这首歌好好听！！！！！！！！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13942755)<br> <br>2013-09-03 00:30<br>赞(0) 踩(0) | <div>what a strange love to make me so real</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20630681)<br>inner peace<br>2013-08-29 22:36<br>赞(0) 踩(0) | <div>IhadadreamandI039mmakingitbeau<br>tiful</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20630681)<br>inner peace<br>2013-08-29 22:36<br>赞(0) 踩(0) | <div>IhadadreamandI039mmakingitbeautiful</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10362998)<br> <br>2013-08-28 19:58<br>赞(0) 踩(0) | <div>I</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19576813)<br>吶   不過如此有時候<br>2013-08-23 16:39<br>赞(0) 踩(0) | <div>ihadadreamandmakeitbeautifulth<br>isisalovejustlikechemical</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19576813)<br>吶   不過如此有時候<br>2013-08-23 16:39<br>赞(0) 踩(0) | <div>ihadadreamandmakeitbeautifulthisisalovejustlikechemical</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8751449)<br><br>2013-08-22 05:14<br>赞(0) 踩(0) | <div>操着北京爷们儿腔唱英式摇滚儿，闹哪样儿？！哈哈哈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8751449)<br><br>2013-08-22 05:08<br>赞(0) 踩(0) | <div>操着北京爷们儿腔唱英式摇滚儿，闹哪样儿?中国的coldplay儿？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8751449)<br><br>2013-08-22 05:02<br>赞(0) 踩(0) | <div>操着京城爷们儿腔儿唱英式摇滚儿，中国的coldplay儿。</div> |

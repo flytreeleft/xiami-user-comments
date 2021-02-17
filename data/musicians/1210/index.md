@@ -1310,7 +1310,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18459879)<br>上帝拣选的小屁孩儿<br>2015-07-04 21:08<br>赞(1) 踩(0) | <div>最好的音乐人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3582113)<br><br>2015-07-02 16:17<br>赞(4) 踩(0) | <div>有某一个时刻很想听张震岳</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36536789)<br>深锁广寒宫殿<br>2015-07-02 00:26<br>赞(1) 踩(0) | <div>红红火火</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-06-29 19:35<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-06-29 19:35<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43682433)<br>Agori<br>2015-06-29 14:42<br>赞(4) 踩(0) | <div>昨晚我看了阿岳和热狗的表演 离阿岳真的好近 我看到他向我招手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13755111)<br> <br>2015-06-24 22:38<br>赞(1) 踩(0) | <div>亞洲jason maraz~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15365174)<br><br>2015-06-24 21:09<br>赞(0) 踩(0) | <div>。。</div> |
@@ -1943,7 +1943,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17397621)<br>翻倒爱。<br>2013-07-22 19:29<br>赞(0) 踩(0) | <div>就是喜欢这种自由的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13322231)<br><br>2013-07-22 10:03<br>赞(0) 踩(0) | <div>沙哑的嗓音，随性的调调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17317864)<br><br>2013-07-20 18:43<br>赞(0) 踩(0) | <div>声音狠淳朴</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17219112)<br><br>2013-07-19 13:05<br>赞(0) 踩(0) | <div>http1temta0ba0c0m1temhtmspma22<br>0z1000880009u6pzuamp1d1******a<br>mpbucket_1d19</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17219112)<br><br>2013-07-19 13:05<br>赞(0) 踩(0) | <div>http1temta0ba0c0m1temhtmspma220z1000880009u6pzuamp1d1******a<br>mpbucket_1d19</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17441790)<br><br>2013-07-19 11:50<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17472591)<br><br>2013-07-19 11:31<br>赞(0) 踩(0) | <div>好听！爱听！有感觉！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3267377)<br>音乐无关歌词。<br>2013-07-18 17:36<br>赞(0) 踩(0) | <div>金牛座音乐的典范 属于自然 回归大地</div> |

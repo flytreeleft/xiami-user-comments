@@ -309,7 +309,7 @@ EP album ‘Ili’ ‘Do You (Remix)’,’Wonky’,’Afterhours’ was release
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14365044)<br> <br>2015-09-06 12:01<br>赞(0) 踩(0) | <div>只恨太晚听到你，每个点都能击打在我心上！太棒了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44858319)<br>永远是我最爱的虾米<br>2015-09-01 14:40<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8650555)<br><br>2015-08-25 22:17<br>赞(0) 踩(0) | <div>迷幻电子乐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-08-19 11:21<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-08-19 11:21<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45075389)<br>心若是海，浪便是爱<br>2015-08-16 03:41<br>赞(0) 踩(0) | <div>现在才晓得五月他去nasa了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1341023)<br>去海边<br>2015-08-13 17:22<br>赞(0) 踩(0) | <div>好听哭了，好后悔现在才知道，错过现场了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/905006)<br>Music rememb...<br>2015-08-11 19:45<br>赞(0) 踩(0) | <div>omg... this is sooo amazing !</div> |

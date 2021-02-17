@@ -599,7 +599,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6925863)<br>Z*  Z*  Z*<br>2012-11-05 18:03<br>赞(0) 踩(0) | <div>另类！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2910544)<br><br>2012-10-27 17:00<br>赞(0) 踩(0) | <div>超越美国的后朋克乐队了 就用用英文歌词 唱成中文 买菜的都能听懂 没有内涵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6193601)<br>听点阳间的东西<br>2012-10-27 16:03<br>赞(6) 踩(0) | <div>内容已删除</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-02 23:16<br>赞(0) 踩(0) | <div>叼炸凶 你知道www.letv.com/ptv/vplay/2007969<br>4.html 31分后的歌曲是哪首吗 我听完了都没有找到</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-02 23:16<br>赞(0) 踩(0) | <div>叼炸凶 你知道www.letv.com/ptv/vplay/20079694.html 31分后的歌曲是哪首吗 我听完了都没有找到</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/630382)<br>分类真是件浩瀚的工程<br>2012-10-23 14:44<br>赞(0) 踩(0) | <div>大拼盘啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1948934)<br>WHO DARES WI...<br>2012-10-13 16:32<br>赞(3) 踩(0) | <div>很多音乐，人们认为不好并不是音乐做的没感情，反过来说更多的是听众不能产生共鸣。这也许是习惯，也许是态度问题。中国摇滚乐队可能技术不牛逼，演奏不华丽。 但是某些感情并不是屁民们能理解的，这不是生活的歌颂也不是澎湃的激情。亦不是某时肾上腺素分泌过剩产生的风骚柔情。这是摇滚，是几代人铁一般的历史上，用无数人的鲜血积累下的仇恨！感情无法宣泄已到爆发的边缘，却只能用英语来呐喊，心中有多不舒服。反而被一些所谓的音乐人评价来评价去，你们并不懂音乐，也不是高尚艺术家，只是一帮卖弄的猴子。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11008119)<br>klain<br>2012-10-13 04:38<br>赞(0) 踩(0) | <div>中国人，搞什么英语，入美国籍吧</div> |
@@ -660,7 +660,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2202110)<br>作梦中梦 悟身外身<br>2012-08-24 10:44<br>赞(0) 踩(0) | <div><q><b>jingdouer说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340970)<br>◕‿◕✿<br>2014-04-06 12:38<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-02 20:10<br>赞(0) 踩(0) | <div>北京草莓他们真的很棒</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-02 23:15<br>赞(0) 踩(0) | <div>www.letv.com/ptv/vplay/2007969<br>4.html  暗叉桑你知道31分后的歌曲是哪首吗？我听完他们的歌也木有找到</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-02 23:15<br>赞(0) 踩(0) | <div>www.letv.com/ptv/vplay/20079694.html  暗叉桑你知道31分后的歌曲是哪首吗？我听完他们的歌也木有找到</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447058)<br>已迁移至网易云，祝好——...<br>2014-05-02 23:33<br>赞(0) 踩(0) | <div><q><b>Tautou说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-02 23:34<br>赞(0) 踩(0) | <div><q><b>暗叉说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-05 08:24<br>赞(0) 踩(0) | <div><q><b>暗叉说：</b></q></div> |
@@ -966,7 +966,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2972790)<br>我如此爱你<br>2011-02-25 14:55<br>赞(0) 踩(0) | <div>就是喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2972790)<br>我如此爱你<br>2011-02-25 14:50<br>赞(0) 踩(0) | <div>很棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2947526)<br><br>2011-02-24 10:08<br>赞(0) 踩(0) | <div>最想看的现场。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/721116)<br> <br>2011-02-23 14:34<br>赞(0) 踩(0) | <div>Lov...........................<br>............e</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/721116)<br> <br>2011-02-23 14:34<br>赞(0) 踩(0) | <div>Lov.......................................e</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35783)<br>身体给雨，灵魂给风。<br>2011-02-20 14:37<br>赞(0) 踩(0) | <div>乐队名字有什么典故吗~？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361919)<br><br>2011-03-09 19:52<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/924518)<br>Starfall of ...<br>2011-04-08 17:03<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |

@@ -2006,7 +2006,7 @@ TEL/Wechat: 183-0126-8100<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9004080)<br><br>2012-08-31 14:13<br>赞(1) 踩(0) | <div>为森马听他们的歌都有想笑的冲动。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8434365)<br><br>2012-08-30 22:23<br>赞(0) 踩(0) | <div>嗯，不错，给人力量  没有怀念的伤感</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10422643)<br>蹦嚓  蹦擦擦<br>2012-08-30 00:19<br>赞(0) 踩(0) | <div>感悟青春.........</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5402685)<br><br>2012-08-29 17:24<br>赞(0) 踩(0) | <div>likeeeeeeeeeeeeeeeeeeeeeeeeeee<br>ee，原来单曲循环《知音难觅》现在单曲循环《追梦赤子心》~好乐队！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5402685)<br><br>2012-08-29 17:24<br>赞(0) 踩(0) | <div>likeeeeeeeeeeeeeeeeeeeeeeeeeeeee，原来单曲循环《知音难觅》现在单曲循环《追梦赤子心》~好乐队！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9936823)<br><br>2012-08-28 11:03<br>赞(0) 踩(0) | <div>追梦赤子心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3138208)<br><br>2012-08-28 10:37<br>赞(1) 踩(0) | <div>京味儿英伦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7261248)<br><br>2012-08-27 21:17<br>赞(0) 踩(0) | <div>哈哈哈！</div> |

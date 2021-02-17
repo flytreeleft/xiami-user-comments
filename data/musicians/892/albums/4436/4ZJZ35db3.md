@@ -113,7 +113,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3990989)<br><br>2013-04-08 15:15<br>赞(1) 踩(0) | <div>听听吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1404034)<br>我还没想好要写什么...<br>2013-03-03 15:12<br>赞(0) 踩(0) | <div>我在等待谁呢 谁在等待我呢<br>我在为谁哭泣 谁在为我哭泣<br>我在寻找谁呢 谁在寻找我呢<br>我又为谁哭泣 谁又为我哭泣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5869143)<br><br>2013-02-04 16:15<br>赞(0) 踩(0) | <div>有时听音乐只是听一种心情...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1404034)<br>我还没想好要写什么...<br>2013-01-08 14:58<br>赞(0) 踩(0) | <div>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1404034)<br>我还没想好要写什么...<br>2013-01-08 14:58<br>赞(0) 踩(0) | <div>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8662300)<br>白<br>2013-01-06 18:20<br>赞(0) 踩(0) | <div>海。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7811830)<br><br>2012-12-17 09:00<br>赞(0) 踩(0) | <div>今天我的好歌推荐是；王凡瑞《海》推荐理由；温暖的好声音 王凡瑞 新校园音乐的代表人物之一这是我最喜欢的王凡瑞的作品之一 推荐一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9103418)<br><br>2012-12-13 22:15<br>赞(0) 踩(0) | <div>当年因为这首歌，迷上了一个人的博客。</div> |
@@ -129,7 +129,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5508846)<br><br>2012-08-17 01:09<br>赞(0) 踩(0) | <div>@哆哩球Nole 把青春和这首搞混了，听听吧……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3425353)<br><br>2012-07-09 11:43<br>赞(0) 踩(0) | <div>回忆很温暖 并且 短暂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9663506)<br><br>2012-07-02 13:01<br>赞(0) 踩(0) | <div>下班后静静的听！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9597658)<br><br>2012-06-26 18:11<br>赞(0) 踩(0) | <div>海的原唱 跟小太阳是另一种感觉~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9597658)<br><br>2012-06-26 18:11<br>赞(0) 踩(0) | <div>海的原唱 跟小太阳是另一种感觉~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2614472)<br><br>2012-06-17 16:11<br>赞(0) 踩(0) | <div>谁在等待我呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6977975)<br>我是个混蛋.<br>2012-06-06 05:39<br>赞(0) 踩(0) | <div>我在等待谁呢。谁在等待我呢。我在为谁哭泣。谁在为我哭泣。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/991425)<br><br>2012-05-31 09:24<br>赞(0) 踩(0) | <div>王梵瑞 第一次听 不错</div> |

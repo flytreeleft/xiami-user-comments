@@ -1126,7 +1126,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2142490)<br><br>2012-02-02 19:21<br>赞(0) 踩(0) | <div>总会有晴天~~~~送各所有不开心的朋友~~~~希望他们真心露出笑容~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3736885)<br><br>2012-02-01 15:22<br>赞(0) 踩(0) | <div>以前老板儿推荐过的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4413501)<br><br>2012-01-28 20:05<br>赞(0) 踩(0) | <div>神啊，出太阳吧！我快冷死了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7354556)<br><br>2012-01-26 21:18<br>赞(0) 踩(0) | <div>等一个晴天 啊!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>!!!!!!!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7354556)<br><br>2012-01-26 21:18<br>赞(0) 踩(0) | <div>等一个晴天 啊!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2322684)<br>黄粱一梦二十年<br>2012-01-26 00:09<br>赞(0) 踩(0) | <div>“等一个晴天 我们会再相见”以前怎么就没发现这歌好听呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7572491)<br><br>2012-01-18 22:24<br>赞(0) 踩(0) | <div>很舒心···</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1883877)<br>白日飞翔<br>2012-01-13 20:06<br>赞(0) 踩(0) | <div>新加坡</div> |

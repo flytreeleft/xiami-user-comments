@@ -71,7 +71,7 @@ Cause this is Africa
 
 |  |  |  |
 | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406748516)<br>我还没想好要写什么...<br>2020-06-28 15:03<br>赞(0) 踩(0) | <div>kjjkjhuyrewewqadfvhjkythhjkkjv<br>fggrppppppppkj,no#</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406748516)<br>我还没想好要写什么...<br>2020-06-28 15:03<br>赞(0) 踩(0) | <div>kjjkjhuyrewewqadfvhjkythhjkkjvfggrppppppppkj,no#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406748516)<br>我还没想好要写什么...<br>2020-06-28 15:00<br>赞(0) 踩(0) | <div>wakawaka<br>你瞎唱❌❌❌❌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405062399)<br><br>2018-12-31 17:01<br>赞(2) 踩(0) | <div>最好听的两首世界杯主题曲，the cup of life和wakawaka还有YouTube点击最高的despacito马上就破60亿了，都是拉丁语的歌，不得不说这真是一个能歌善舞的民族</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357701741)<br><br>2018-12-15 13:34<br>赞(3) 踩(0) | <div>世界杯主题曲被你们玩成了儿歌。。。</div> |

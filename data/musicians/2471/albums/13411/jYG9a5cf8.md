@@ -87,7 +87,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48011704)<br> <br>2017-09-13 23:38<br>赞(3) 踩(0) | <div>副歌真的感受到了歇斯底里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310350779)<br><br>2017-09-12 21:28<br>赞(1) 踩(0) | <div>我来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321934040)<br>再也不要委屈自己一秒<br>2017-09-12 11:34<br>赞(3) 踩(0) | <div>最喜欢的一首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-15 01:05<br>赞(1) 踩(0) | <div>Good..........................<br>........!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-15 01:05<br>赞(1) 踩(0) | <div>Good..................................!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5851736)<br>我们来聊章北海！<br>2014-12-28 17:32<br>赞(1) 踩(0) | <div>我很喜欢这首啊，经常翻出来听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15652047)<br>爱淘好听的歌。<br>2014-12-05 23:34<br>赞(2) 踩(0) | <div>特别喜欢这首歌。没人喜欢吗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6491765)<br>我只是个门外汉。<br>2014-10-05 18:10<br>赞(1) 踩(0) | <div>没有人喜欢这首吗。。。当时我觉得很好听</div> |

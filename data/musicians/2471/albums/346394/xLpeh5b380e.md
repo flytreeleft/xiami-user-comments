@@ -683,7 +683,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2441830)<br><br>2014-12-30 23:33<br>赞(0) 踩(0) | <div>微笑要暖得像太阳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44526511)<br>可以说是很久没用虾米了<br>2014-12-20 23:13<br>赞(1) 踩(0) | <div>高一的歌，正是青春有梦的时候听的歌，那种内心希望满满的感觉，很美好很深刻。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7401087)<br>stay with u<br>2014-12-20 13:42<br>赞(1) 踩(0) | <div>我和妹妹的演唱会π_π</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2014-11-25 22:20<br>赞(0) 踩(0) | <div>Good..........................<br>........!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2014-11-25 22:20<br>赞(0) 踩(0) | <div>Good..................................!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43818114)<br><br>2014-11-18 00:09<br>赞(0) 踩(0) | <div>手舞足蹈聊梦想，真好真好啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10116492)<br>怀念逝去，希冀远方。<br>2014-11-16 22:18<br>赞(0) 踩(0) | <div>多年以后，依然一听就感动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34328309)<br><br>2014-11-09 12:49<br>赞(0) 踩(0) | <div>特地来的，可是为什么原唱这么难听.....</div> |

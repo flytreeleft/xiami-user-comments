@@ -254,7 +254,7 @@ ISRC CN-E04-95-308-10
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23010982)<br><br>2013-09-25 21:39<br>赞(0) 踩(0) | <div>说什么呢，现在只希望你们快快乐乐、生活美满、。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22441488)<br><br>2013-09-20 10:01<br>赞(0) 踩(0) | <div>记忆的味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22099064)<br><br>2013-09-16 07:22<br>赞(0) 踩(0) | <div>同桌.你好吗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21867814)<br><br>2013-09-13 16:20<br>赞(0) 踩(0) | <div>..............................<br>.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21867814)<br><br>2013-09-13 16:20<br>赞(0) 踩(0) | <div>...............................</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21602302)<br><br>2013-09-10 11:07<br>赞(0) 踩(0) | <div>#教师＆教室#有多少人还记得当年坐过的教室长什么样？又有多少人记得黑板上面大大的“好好学习，天天向上！”几个字，还有同桌的你和在黑板上不知道划玩多少粉笔的老师！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20961538)<br><br>2013-09-07 13:50<br>赞(0) 踩(0) | <div>Lloy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11297705)<br>不迁怒，不贰过。<br>2013-09-03 08:42<br>赞(0) 踩(0) | <div>bbb</div> |

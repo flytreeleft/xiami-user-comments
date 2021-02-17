@@ -121,7 +121,7 @@ Kero One...一个从小被迫学钢琴,号称初中13岁开始玩DJ,出生在美
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51623903)<br> <br>2016-03-24 07:09<br>赞(0) 踩(0) | <div>什么，这叫微胖。。嗯心里得到安慰了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9028760)<br>豆瓣见 spotify ...<br>2016-03-08 13:05<br>赞(0) 踩(0) | <div>☄</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13526500)<br>Comment ça v...<br>2016-03-08 09:03<br>赞(0) 踩(0) | <div>nice</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2016-03-05 11:19<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2016-03-05 11:19<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101322)<br>不怎么听歌了<br>2016-02-02 16:01<br>赞(1) 踩(0) | <div>哟呵 改名啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1385712)<br>whatever……<br>2016-01-30 23:36<br>赞(0) 踩(0) | <div>新砖12月就出了……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1828555)<br>Omnivore<br>2016-01-14 18:07<br>赞(1) 踩(0) | <div>Reflection Eternal</div> |
@@ -133,7 +133,7 @@ Kero One...一个从小被迫学钢琴,号称初中13岁开始玩DJ,出生在美
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14163342)<br>dfwm<br>2015-11-15 22:24<br>赞(0) 踩(0) | <div>我喜欢instrumental</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13228266)<br>国破山河在<br>2015-10-24 11:14<br>赞(0) 踩(0) | <div>好笑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4468134)<br>1996~∞<br>2015-10-18 03:21<br>赞(0) 踩(0) | <div>que?</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-09-23 10:14<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-09-23 10:14<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/856551)<br>虾米活下去 用户指责什么...<br>2015-09-21 18:23<br>赞(1) 踩(0) | <div>真是Uno玩多了2333</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40516135)<br>如果不是我，就不要去爱。<br>2015-09-20 12:06<br>赞(1) 踩(0) | <div>被迫学钢琴2333</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1828555)<br>Omnivore<br>2015-09-19 21:31<br>赞(12) 踩(0) | <div>现在改名叫Kero Uno（aka KERO 1），开始做时髦音乐了覀L覀</div> |
@@ -190,7 +190,7 @@ Kero One...一个从小被迫学钢琴,号称初中13岁开始玩DJ,出生在美
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54334842)<br><br>2015-08-24 13:37<br>赞(0) 踩(0) | <div>爵士小丑鱼</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54334842)<br><br>2015-08-24 13:37<br>赞(0) 踩(0) | <div>爵士小丑</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54334842)<br><br>2015-08-24 13:37<br>赞(0) 踩(0) | <div>爵士小丑</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101322)<br>不怎么听歌了<br>2017-10-30 10:18<br>赞(0) 踩(0) | <div>hhahahahhahahahaaaaaaaaaaaaaaa<br>aaaaaaa</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101322)<br>不怎么听歌了<br>2017-10-30 10:18<br>赞(0) 踩(0) | <div>hhahahahhahahahaaaaaaaaaaaaaaaaaaaaaa</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329915557)<br>贝斯手<br>2018-04-07 13:26<br>赞(0) 踩(0) | <div><q><b>冷血老头盔说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9944827)<br><br>2013-11-06 12:00<br>赞(0) 踩(0) | <div>喜欢呗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25188261)<br><br>2013-10-23 17:28<br>赞(0) 踩(0) | <div>就是喜欢</div> |

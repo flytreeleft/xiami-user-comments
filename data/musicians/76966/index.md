@@ -90,7 +90,7 @@ Raujika、クラシック音楽の持つ音楽性と、 現代社会における
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47079481)<br>投喂我吧 <br>2016-02-06 16:20<br>赞(2) 踩(0) | <div>raujika有顆很童真的心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68095692)<br>遠離憂愁  :)<br>2016-01-08 17:00<br>赞(0) 踩(0) | <div>nice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9281390)<br><br>2015-12-05 22:06<br>赞(0) 踩(0) | <div>大大大大大是大大</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6205474)<br>我只是个酱油~<br>2015-11-17 21:10<br>赞(0) 踩(0) | <div>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6205474)<br>我只是个酱油~<br>2015-11-17 21:10<br>赞(0) 踩(0) | <div>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11752665)<br>。<br>2015-11-13 18:06<br>赞(0) 踩(0) | <div>无解</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70195274)<br> <br>2015-11-10 20:32<br>赞(0) 踩(0) | <div>赞一个</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49354248)<br>纯音乐是语言<br>2015-11-10 16:03<br>赞(1) 踩(0) | <div>听过很多曲子，从未注意作曲者。今日有幸认知，相见恨晚！</div> |

@@ -764,7 +764,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13964131)<br><br>2014-11-25 03:52<br>赞(0) 踩(0) | <div>来自冰岛的乐队，独有的北欧忧郁气质</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13964131)<br><br>2014-11-25 03:46<br>赞(0) 踩(0) | <div>来自北欧冰岛的乐队，独有的北欧孤寂感</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9785732)<br>DarknessGoth<br>2014-11-25 00:15<br>赞(0) 踩(0) | <div>仔细看了半天才发觉 原来不是gangbang啊...</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3628951)<br>我这盒蜘蛛王可不是闹着玩<br>2014-11-15 21:45<br>赞(0) 踩(0) | <div>我的颈椎 我该怎么拯救你..............................<br>.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3628951)<br>我这盒蜘蛛王可不是闹着玩<br>2014-11-15 21:45<br>赞(0) 踩(0) | <div>我的颈椎 我该怎么拯救你...............................</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34060774)<br>感谢关注<br>2014-11-15 20:30<br>赞(0) 踩(0) | <div>爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11901452)<br><br>2014-11-06 08:52<br>赞(0) 踩(0) | <div>定心丸。一年前的偶遇～～～念</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420330)<br>乌克兰后摇乐队，签约中国...<br>2014-11-03 16:42<br>赞(0) 踩(0) | <div>冰岛乐队Bang Gang - Bardi Johannsson个人微博账号@BangGangBardi</div> |
@@ -1334,7 +1334,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4017424)<br><br>2011-12-09 10:34<br>赞(0) 踩(0) | <div>一听前奏就迷上了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347473)<br>闭站前好友打捞计划正式启...<br>2011-12-08 22:27<br>赞(0) 踩(0) | <div>还行</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7157611)<br><br>2011-12-08 20:25<br>赞(0) 踩(0) | <div>随意，自由，安静的感觉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2640323)<br> <br>2011-12-03 12:51<br>赞(0) 踩(0) | <div>DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD<br>DDDDDDDDDDDD</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2640323)<br> <br>2011-12-03 12:51<br>赞(0) 踩(0) | <div>DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1992898)<br>莫名向左<br>2011-12-01 19:38<br>赞(0) 踩(0) | <div>一气呵成、、、灵魂微颤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171781)<br>曾是少年。<br>2011-12-01 19:19<br>赞(0) 踩(0) | <div>仿佛触摸到一个暖暖内含光般忧郁的灵魂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171781)<br>曾是少年。<br>2011-12-01 19:18<br>赞(0) 踩(0) | <div>仿佛触摸到一个暖暖内含光般忧郁的灵魂</div> |

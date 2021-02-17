@@ -2367,7 +2367,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10572099)<br>舍得一身剐，敢把皇帝拉下<br>2012-09-13 13:51<br>赞(0) 踩(0) | <div>屌丝青年的行走快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5727022)<br><br>2012-09-06 00:01<br>赞(0) 踩(0) | <div>让我欢乐一点。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1782187)<br><br>2012-09-01 20:25<br>赞(0) 踩(0) | <div>边听痛仰边抽烟，人生释怀了~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/923699)<br><br>2012-08-30 13:12<br>赞(0) 踩(0) | <div>dendengdengdeng~~~~~~~~~~~~~~~<br>~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/923699)<br><br>2012-08-30 13:12<br>赞(0) 踩(0) | <div>dendengdengdeng~~~~~~~~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9871632)<br> <br>2012-08-30 12:36<br>赞(0) 踩(0) | <div>让我欢乐一点<br>让我欢乐一点<br>不要让疑问留停在心间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/923699)<br><br>2012-08-29 13:18<br>赞(0) 踩(0) | <div>~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7743824)<br><br>2012-08-29 12:45<br>赞(0) 踩(0) | <div>开头好像joy divison的 she‘s  lost control</div> |

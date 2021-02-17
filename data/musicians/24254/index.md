@@ -643,7 +643,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1326942)<br><br>2010-08-29 14:48<br>赞(0) 踩(0) | <div>呀，亲切地很么。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1209028)<br><br>2010-07-29 14:56<br>赞(0) 踩(0) | <div>马飞也不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1216979)<br><br>2010-07-25 17:49<br>赞(0) 踩(0) | <div>在异乡听到家乡话  亲切已经不能形容我现在的感受了~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252018)<br>恋上高海拔<br>2010-06-05 17:32<br>赞(0) 踩(0) | <div>来支持下老乡~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252018)<br>恋上高海拔<br>2010-06-05 17:32<br>赞(0) 踩(0) | <div>来支持下老乡~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252018)<br>恋上高海拔<br>2010-09-02 10:32<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252018)<br>恋上高海拔<br>2010-09-02 10:45<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252018)<br>恋上高海拔<br>2010-09-02 23:13<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |

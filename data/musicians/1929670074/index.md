@@ -1207,7 +1207,7 @@ GAI就像重庆这座城市的性格一样，他的作品充满了江湖的味�
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50891693)<br>CD CITY<br>2017-07-12 16:09<br>赞(0) 踩(0) | <div><q><b>偶尔善良说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175437360)<br>Shshshs<br>2017-07-23 00:09<br>赞(0) 踩(0) | <div><q><b>藤原拓海说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50891693)<br>CD CITY<br>2017-07-23 17:46<br>赞(0) 踩(0) | <div><q><b>上衫    绘梨衣说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96275284)<br><br>2017-07-29 21:39<br>赞(0) 踩(0) | <div>你头像..............................<br>......</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96275284)<br><br>2017-07-29 21:39<br>赞(0) 踩(0) | <div>你头像....................................</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50891693)<br>CD CITY<br>2017-07-29 23:54<br>赞(0) 踩(0) | <div><q><b>路过的diend说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335785275)<br><br>2017-11-17 09:43<br>赞(0) 踩(0) | <div>是嘞似雾都！老子吃火锅！你吃火锅底料！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35176865)<br><br>2018-10-06 08:17<br>赞(0) 踩(0) | <div>你吃屎</div> |

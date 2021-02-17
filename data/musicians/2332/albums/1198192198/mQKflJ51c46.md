@@ -215,10 +215,10 @@ Peggy独有的阶梯式旋律，兼顾流畅乐句、准确音准与缥缈情感
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39923397)<br> <br>2015-03-03 11:10<br>赞(0) 踩(0) | <div>像梦一般</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2787679)<br>浪费你的青春。<br>2015-02-28 21:21<br>赞(0) 踩(0) | <div>你是什么模样，催眠我所剩下。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38483302)<br>荔枝fm191415<br>2015-02-04 22:40<br>赞(0) 踩(0) | <div>沿途迷雾风景 愿做你的羽翼。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-30 01:37<br>赞(0) 踩(0) | <div>Good..........................<br>........!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-25 09:27<br>赞(0) 踩(0) | <div>Good..........................<br>........!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-21 00:59<br>赞(0) 踩(0) | <div>Good..........................<br>........!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-15 01:04<br>赞(0) 踩(0) | <div>Good..........................<br>........!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-30 01:37<br>赞(0) 踩(0) | <div>Good..................................!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-25 09:27<br>赞(0) 踩(0) | <div>Good..................................!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-21 00:59<br>赞(0) 踩(0) | <div>Good..................................!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-15 01:04<br>赞(0) 踩(0) | <div>Good..................................!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2576368)<br>Wake me up i...<br>2015-01-02 15:16<br>赞(0) 踩(0) | <div>想起夏天的寒冷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10135948)<br>⭐️<br>2014-12-25 00:08<br>赞(0) 踩(0) | <div>真好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42159105)<br><br>2014-12-18 23:04<br>赞(0) 踩(0) | <div>…這首是我整張專輯裡最喜歡的</div> |

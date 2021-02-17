@@ -568,7 +568,7 @@ On the Volatility of the Mind    was released in 2014.
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/665580)<br> <br>2013-08-02 11:52<br>赞(0) 踩(0) | <div><q><b>弹toU说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8149394)<br>越努力越幸运.<br>2013-08-01 17:54<br>赞(0) 踩(0) | <div>瓦特！<br>什么叫入驻音乐人呢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1893921)<br>Stingmania<br>2013-08-01 17:53<br>赞(0) 踩(0) | <div>直接沟通？？！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4253084)<br>上帝与你同在<br>2013-08-01 17:53<br>赞(0) 踩(0) | <div>O O!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>!!!!!!!!!!!!!!!!!!!!!!!音乐人？！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4253084)<br>上帝与你同在<br>2013-08-01 17:53<br>赞(0) 踩(0) | <div>O O!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!音乐人？！！！！！！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1686991)<br><br>2013-08-01 17:52<br>赞(0) 踩(0) | <div>What！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361915)<br>得菩提时，心似琉璃<br>2013-08-01 17:52<br>赞(1) 踩(0) | <div>入驻虾米音乐人了？！！是真人吗真人吗真人吗？？？？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5523541)<br><br>2013-08-01 17:58<br>赞(0) 踩(0) | <div>嗯是的，虾米网的门卫大爷亲眼看见他骑个自行车来上班报到了，虾米网行政部给老塔买了社保，目前暂住在虾米单身宿舍里，村里有人四处给他张罗对象</div> |

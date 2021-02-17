@@ -215,7 +215,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8269589)<br><br>2015-12-02 22:24<br>赞(0) 踩(0) | <div>听起来好开心啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3803589)<br> <br>2015-11-26 05:12<br>赞(0) 踩(0) | <div>她跟李志。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84856490)<br><br>2015-11-20 17:36<br>赞(0) 踩(0) | <div>让tv吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-11-20 11:46<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-11-20 11:46<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68642052)<br><br>2015-11-19 22:40<br>赞(22) 踩(0) | <div>一种独特的存在，不同于任何我看到的国内任何其他民谣歌手，在这个以“二”为“美”的年代，没看见过她以“二”来取悦所有人，理性的用既是参与者又是旁观者的角度，演唱出我们那些隔靴瘙痒的情感，并且时不时会迸发出天才般的天真。希望你永远不被这个时代同化，不被其他的所谓的民谣歌手同化。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8767991)<br>痴货<br>2015-11-19 08:39<br>赞(11) 踩(0) | <div>说她诗写不好，歌也写不好，说她没才的人，好像自己好有才唱歌多好听的似的！她那首《我为什么要唱歌》送给你们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54134352)<br><br>2015-11-18 06:35<br>赞(0) 踩(0) | <div>我有病  我喜欢</div> |

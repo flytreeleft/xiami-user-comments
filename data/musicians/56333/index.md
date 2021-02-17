@@ -275,7 +275,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259727220)<br>人人都热爱音乐。<br>2017-08-10 12:41<br>赞(0) 踩(0) | <div>mdmdmd</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286148744)<br>我还没想好要写什么...<br>2017-08-07 09:52<br>赞(0) 踩(0) | <div>卧槽 睡梦中因为这个曲子醒了！！！ 从此爱上了逃跑计划！卧槽！！卧槽！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200632206)<br>对周遭一切抱有好奇<br>2017-08-04 03:53<br>赞(0) 踩(0) | <div>虾米版权堪忧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308609523)<br><br>2017-07-30 12:09<br>赞(0) 踩(0) | <div>好好听啊，要疯了！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308609523)<br><br>2017-07-30 12:09<br>赞(0) 踩(0) | <div>好好听啊，要疯了！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308609523)<br><br>2017-07-30 12:09<br>赞(0) 踩(0) | <div>好好听！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282238306)<br><br>2017-07-27 16:11<br>赞(0) 踩(0) | <div>对</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21878851)<br><br>2017-07-26 22:47<br>赞(0) 踩(0) | <div>致特别存在的你</div> |
@@ -581,7 +581,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43477710)<br>没有色彩<br>2015-09-11 21:20<br>赞(1) 踩(0) | <div>●ｖ●</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6533689)<br>我还没想好要写什么...<br>2015-09-09 21:52<br>赞(1) 踩(0) | <div>跳票跳票</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7906879)<br><br>2015-09-02 18:23<br>赞(0) 踩(0) | <div>说好的新专辑呢+身份证号码</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-09-02 09:16<br>赞(1) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-09-02 09:16<br>赞(1) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34651918)<br><br>2015-09-02 00:05<br>赞(2) 踩(0) | <div>说好的新专辑呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34651918)<br><br>2015-09-02 00:05<br>赞(1) 踩(0) | <div>说好的新专辑呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34651918)<br><br>2015-09-02 00:05<br>赞(0) 踩(0) | <div>说好的新专辑呢</div> |
@@ -1340,7 +1340,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16074363)<br>愿你成为自己的太阳<br>2014-03-25 14:15<br>赞(0) 踩(0) | <div>不可救药地爱上了这个乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34152946)<br><br>2014-03-25 13:50<br>赞(0) 踩(0) | <div>唱出了青春，伤着点忧伤，夜空中最闪亮的星。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30136811)<br>可以独享，亦可以分享<br>2014-03-25 11:34<br>赞(0) 踩(0) | <div>xihuan</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34372000)<br>vs<br>2014-03-24 17:47<br>赞(0) 踩(0) | <div>好听~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34372000)<br>vs<br>2014-03-24 17:47<br>赞(0) 踩(0) | <div>好听~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6090697)<br><br>2014-03-24 17:06<br>赞(1) 踩(0) | <div>喜欢这样的乐队  不求产量 只求质量</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6115457)<br><br>2014-03-23 22:15<br>赞(1) 踩(0) | <div>为什么喜欢，随便说点什么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34382007)<br>(๑و•̀ω•́)و<br>2014-03-23 18:43<br>赞(1) 踩(0) | <div>一万次悲伤的歌词写得好！！！！很久以前就关注你们乐队了奈何一直不出新歌啊！！！最喜欢一万次悲伤嗷嗷嗷嗷嗷</div> |

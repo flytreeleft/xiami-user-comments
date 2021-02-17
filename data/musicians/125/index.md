@@ -867,7 +867,7 @@ TVB 劲歌金曲卓越表现大奖金奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1742284)<br>♂<br>2011-08-07 19:03<br>赞(0) 踩(0) | <div>是山鸡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1225682)<br><br>2011-08-07 17:11<br>赞(0) 踩(0) | <div>由杰伦作曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2520496)<br><br>2011-08-04 17:56<br>赞(0) 踩(0) | <div>苦情歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/787430)<br>ne-yo万岁<br>2011-08-02 23:50<br>赞(0) 踩(0) | <div>yugezanziliaodeZYIGEZANZILIAOD<br>E</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/787430)<br>ne-yo万岁<br>2011-08-02 23:50<br>赞(0) 踩(0) | <div>yugezanziliaodeZYIGEZANZILIAODE</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4728347)<br><br>2011-08-02 20:56<br>赞(0) 踩(0) | <div>感情悲歌男</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5094479)<br><br>2011-08-01 16:37<br>赞(0) 踩(0) | <div>akoe</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17466)<br>不以物喜不以己悲<br>2011-07-30 14:37<br>赞(0) 踩(0) | <div>声音很好听啊啊啊啊 啊</div> |

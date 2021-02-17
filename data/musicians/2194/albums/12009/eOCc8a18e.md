@@ -244,7 +244,7 @@ LRC制作 潘汉民<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4818447)<br>在音乐中沉沦、升华、解脱<br>2012-05-11 23:27<br>赞(0) 踩(0) | <div>旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5112554)<br><br>2012-05-04 11:04<br>赞(0) 踩(0) | <div>我知道你们给了我半生的幸福，免我惊，免我苦，免我四下流离，免我无枝可依。可如今，孩子长大了，要去寻找另一份幸福。我的父亲，妈妈，我爱你们。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8920798)<br><br>2012-04-19 19:12<br>赞(0) 踩(0) | <div>很有意镜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936425)<br>不要吵<br>2012-04-19 17:45<br>赞(0) 踩(0) | <div>明明是黑眼豆豆 ..............................<br>.............</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936425)<br>不要吵<br>2012-04-19 17:45<br>赞(0) 踩(0) | <div>明明是黑眼豆豆 ...........................................</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3709390)<br>暂无签名~<br>2012-03-14 23:58<br>赞(0) 踩(0) | <div>爸爸妈妈~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8098228)<br><br>2012-02-18 19:14<br>赞(0) 踩(0) | <div>就是喜欢听这首歌时的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4782387)<br><br>2012-01-17 01:21<br>赞(0) 踩(0) | <div>不知道怎么说，希望我可以坚持到说真相的那一天，天天祈祷，我心脏可以更强一些。</div> |

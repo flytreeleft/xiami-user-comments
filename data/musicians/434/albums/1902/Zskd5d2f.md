@@ -598,7 +598,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30109633)<br>我还没想好要写什么...<br>2015-03-02 14:56<br>赞(0) 踩(0) | <div>如果有种音乐可以让人流泪，那就是贾的二胡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13239762)<br>我们仰望著同一片天空却看...<br>2015-02-20 22:55<br>赞(0) 踩(0) | <div>像这种中华文化传统的乐器，需要优秀的作曲家来使它们重获新生。如果这个人没有出现，二胡是会保持不多不少的，处在一种平衡状态的认可和知名度。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32894803)<br>BE HAPPY bec...<br>2015-02-04 12:52<br>赞(0) 踩(0) | <div>看评论 还是古风美 二胡也美 毕竟是我们的文化</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-02-01 00:22<br>赞(0) 踩(0) | <div>good..........................<br>........!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-02-01 00:22<br>赞(0) 踩(0) | <div>good..................................!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8865143)<br><br>2015-01-30 21:46<br>赞(0) 踩(0) | <div>感觉到心灵在饱受着血与泪的洗礼...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10109821)<br><br>2015-01-30 16:47<br>赞(0) 踩(0) | <div>哭了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32267778)<br><br>2015-01-26 18:10<br>赞(0) 踩(0) | <div>从耳到心，都感动到你！</div> |
@@ -620,7 +620,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12549836)<br><br>2014-12-11 15:34<br>赞(0) 踩(0) | <div>嗯特地去想了一下，是田中理惠的水之证的最后一句，乍一听是一个调调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12549836)<br><br>2014-12-11 15:19<br>赞(0) 踩(0) | <div>我觉得像一首日语歌，最后一句是总有一天总有一日肯定能够，看了评论莫非是犬夜叉？我去听听看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3919870)<br>我们同时抬头就看到了相同...<br>2014-12-11 02:34<br>赞(0) 踩(0) | <div>冷月残烟孤坟，<br>颓垣陋舍朽门，<br>败叶饿桴离人。<br>悲歌易水，<br>抚琴送归亡魂。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2014-12-10 10:23<br>赞(0) 踩(0) | <div>Real good..........................<br>...!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2014-12-10 10:23<br>赞(0) 踩(0) | <div>Real good.............................!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28922481)<br><br>2014-12-07 23:07<br>赞(0) 踩(0) | <div>舒服</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38521551)<br><br>2014-12-05 19:28<br>赞(0) 踩(0) | <div>小楼一夜听春雨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1356751)<br>我还没想好要写什么...<br>2014-12-02 21:56<br>赞(0) 踩(0) | <div></div> |
@@ -652,7 +652,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34483128)<br><br>2014-11-02 22:06<br>赞(0) 踩(0) | <div>归去来兮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5433853)<br>生死有命，富贵在天~<br>2014-08-22 01:42<br>赞(0) 踩(0) | <div>好音乐要分享~晚安，好梦~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25209478)<br>我他妈是小瞧了虾大胆，回...<br>2014-08-16 18:06<br>赞(0) 踩(0) | <div>♪~♬~♥</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2014-08-14 11:34<br>赞(0) 踩(0) | <div>Good..........................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>.......................!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2014-08-14 11:34<br>赞(0) 踩(0) | <div>Good........................................................<br>............................................................<br>............................................................<br>............................................................<br>.......................!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14747594)<br>大音希声<br>2014-08-12 21:56<br>赞(0) 踩(0) | <div>多情自古空余恨，碧海青天夜夜心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39416008)<br>暂无签名~<br>2014-08-01 22:13<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13212297)<br>宇宙起源于思想。。<br>2014-07-29 23:41<br>赞(0) 踩(0) | <div>松本的乡愁～～再见</div> |

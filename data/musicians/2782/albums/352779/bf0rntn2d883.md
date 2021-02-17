@@ -352,7 +352,7 @@ Salahiin argagui ter mini h’uniih bolohoor yahina ve.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12369385)<br><br>2014-01-19 11:42<br>赞(0) 踩(0) | <div>就是喜欢啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28291794)<br>少事儿<br>2014-01-13 01:20<br>赞(0) 踩(0) | <div>bi chamed hairtai</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14009173)<br><br>2013-12-30 00:48<br>赞(0) 踩(0) | <div>有梦为马</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10008569)<br><br>2013-11-30 21:41<br>赞(0) 踩(0) | <div>赞~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10008569)<br><br>2013-11-30 21:41<br>赞(0) 踩(0) | <div>赞~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13898201)<br>爱音乐爱生活<br>2013-11-30 12:24<br>赞(0) 踩(0) | <div>蒙古民族风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1883877)<br>白日飞翔<br>2013-11-29 06:26<br>赞(0) 踩(0) | <div>蒙古语</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9351285)<br><br>2013-11-25 12:31<br>赞(0) 踩(0) | <div>开在山崖的花朵.<br>可怜她最早枯萎.<br>远嫁婆家的姑娘.<br>在爱人的怀里凋谢.<br>开在沙漠的花朵.<br>可怜她最早干枯.<br>嫁做人妇的姑娘.<br>信守爱情而终生.<br>曾有爱情誓言.<br>曾经人约黄昏.<br>曾经难舍难离.<br>如今你却远嫁她乡.</div> |
